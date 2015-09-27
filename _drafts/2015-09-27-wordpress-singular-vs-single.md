@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:58:11
+post_date: 2015-09-27 08:58:36
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -47,7 +47,7 @@ If you can think there are still something you can add on - kindly <a href="#c
 <h4>Resources</h4>
 <ul>
 	<li><a href="https://codex.wordpress.org/Function_Reference/is_singular" target="_blank" rel="nofollow">WordPress is_singular()</a></li>
-	<li><a href="https://codex.wordpress.org/Function_Reference/is_single" target="_blank">WordPress is_single()</a></li>
-	<li><a href="https://codex.wordpress.org/Function_Reference/is_page" target="_blank">WordPress is_page()</a></li>
-	<li><a href="https://codex.wordpress.org/Conditional_Tags" target="_blank">WordPress Conditional Tags</a></li>
+	<li><a href="https://codex.wordpress.org/Function_Reference/is_single" target="_blank" rel="nofollow">WordPress is_single()</a></li>
+	<li><a href="https://codex.wordpress.org/Function_Reference/is_page" target="_blank" rel="nofollow">WordPress is_page()</a></li>
+	<li><a href="https://codex.wordpress.org/Conditional_Tags" target="_blank" rel="nofollow">WordPress Conditional Tags</a></li>
 </ul>
