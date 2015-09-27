@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:38:52
+post_date: 2015-09-27 08:39:14
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -27,8 +27,8 @@ For an example, you want to add <strong>social share icons</strong> without usin
 
 [list icon="icon: check"]
 <ul>
-	<li>These icons should be visible for <em>index.php</em>, <em>archive.php</em> and <em>single.php</em> templates.</li>
-	<li>It should not come for the <em>page.php</em> template.</li>
+	<li>Icons should be visible for <em>index.php</em>, <em>archive.php</em> and <em>single.php</em> templates.</li>
+	<li>Icons should not come for the <em>page.php</em> template.</li>
 </ul>
 [/list]
 
