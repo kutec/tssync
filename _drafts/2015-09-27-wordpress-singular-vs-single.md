@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:50:14
+post_date: 2015-09-27 08:52:29
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -49,5 +49,5 @@ If you can think there are still something you can add on - kindly <a href="#c
 	<li>WordPress is_singular()</li>
 	<li>WordPress is_single()</li>
 	<li>WordPress is_page()</li>
-	<li>W</li>
+	<li>WordPress</li>
 </ul>
