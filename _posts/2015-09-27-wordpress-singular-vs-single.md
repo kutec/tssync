@@ -23,8 +23,8 @@ First, let's understand the terms and then we will see an example.
 <h2>The Difference</h2>
 [list icon="icon: check"]
 <ul>
-	<li><code>is_singular()</code> targets all templates with <strong>content-{something}.php</strong> files name in a theme. So if you have some code to manipulate with all single pages, then you should use <code>is_singular()</code>.</li>
-	<li>On the other hand <code>is_single()</code> targets only <strong>single.php</strong> template, which meant to target only a single post page.</li>
+	<li><span style="color: #ff6600;">is_singular()</span> targets all templates with <strong>content-{something}.php</strong> files name in a theme. So if you have some code to manipulate with all single pages, then you should use is_singular().</li>
+	<li>On the other hand <span style="color: #ff6600;">is_single()</span> targets only <strong>single.php</strong> template, which meant to target only a single post page.</li>
 </ul>
 [/list]
 <h2>An Example</h2>
