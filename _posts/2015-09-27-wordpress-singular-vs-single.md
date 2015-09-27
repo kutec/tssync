@@ -25,8 +25,8 @@ First, let's understand the terms and then we will see an example.
 <h2>The Difference</h2>
 [list icon="icon: check"]
 <ul>
-	<li><em>is_singular()</em> targets all templates with <em>content-{something}.php</em> files name in a theme. So if you have some code to manipulate with all single pages, then you should use <em>is_singular()</em>.</li>
-	<li>On the other hand <em>is_single()</em> targets only <em>single.php</em> template, which meant to target only a single post page.</li>
+	<li><code>is_singular()</code> targets all templates with <strong>content-{something}.php</strong> files name in a theme. So if you have some code to manipulate with all single pages, then you should use <code>is_singular()</code>.</li>
+	<li>On the other hand <code>is_single()</code> targets only <strong>single.php</strong> template, which meant to target only a single post page.</li>
 </ul>
 [/list]
 <h2>An Example</h2>
@@ -34,14 +34,14 @@ For an example, you want to add <strong>social share icons</strong> without usin
 
 [list icon="icon: check"]
 <ul>
-	<li>Icons should be visible for <em>index.php</em>, <em>archive.php</em> and <em>single.php</em> templates.</li>
-	<li>Icons should not come for the <em>page.php</em> template.</li>
+	<li>Icons should be visible for <strong>index.php</strong>, <strong>archive.php</strong> and <strong>single.php</strong> templates.</li>
+	<li>Icons should not come for the <strong>page.php</strong> template.</li>
 </ul>
 [/list]
 
 Here we have two options:
 <ol>
-	<li>We can directly put conditional check with <code>if( !is_page() )</code> for a function inside <em>functions.php</em> file or</li>
+	<li>We can directly put conditional check with <code>if( !is_page() )</code> for a function inside <strong>functions.php</strong> file or</li>
 	<li>We have to use multiple conditional check as per below snippet</li>
 </ol>
 <pre>function someName($content) {
