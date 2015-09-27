@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; is_singular() Vs. is_single()'
 author: TeckStack Admin
-post_date: 2015-09-27 06:26:31
+post_date: 2015-09-27 06:26:55
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
