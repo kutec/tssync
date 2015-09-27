@@ -10,9 +10,8 @@ post_excerpt: >
   implement same thing on TeckStack
   itself.
 layout: post
-permalink: >
-  http://teckstack.com/wordpress-read-only-mode
-published: true
+permalink: http://teckstack.com/?p=638
+published: false
 networkpub_postmessage:
   - ""
 networkpub_twitterhandle:
