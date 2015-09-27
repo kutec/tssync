@@ -5,11 +5,9 @@ author: Kushal Jayswal
 post_date: 2015-09-27 09:25:01
 post_excerpt: >
   There are many conditional tags in
-  WordPress. Some of them are little
-  confusing to understand by their names.
-  This article is all about difference
-  between `is_singular()` and
-  `is_single()`.
+  WordPress. This article is all about
+  difference between is_singular() and
+  is_single().
 layout: post
 permalink: >
   http://teckstack.com/wordpress-singular-vs-single
