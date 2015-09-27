@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:41:22
+post_date: 2015-09-27 08:41:50
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -34,7 +34,7 @@ For an example, you want to add <strong>social share icons</strong> without usin
 
 Here we have two options:
 <ol>
-	<li>We can directly put conditional check with `if( !is_page() )` for a function inside <em>functions.php</em> file or</li>
+	<li>We can directly put conditional check with <code>if( !is_page() )</code> for a function inside <em>functions.php</em> file or</li>
 	<li>We have to use multiple conditional check as per below snippet</li>
 </ol>
 <pre>function someName($content) {
