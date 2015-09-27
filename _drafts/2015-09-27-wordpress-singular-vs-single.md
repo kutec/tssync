@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:46:17
+post_date: 2015-09-27 08:47:02
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -43,4 +43,4 @@ Here we have two options:
     }
 }
 </pre>
-If you can think there are still something you can add on - kindly comment below.
+If you can think there are still something you can add on - kindly <a href="#comments" target="_blank">comment</a> below.
