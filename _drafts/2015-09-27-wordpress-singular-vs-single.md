@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 06:32:21
+post_date: 2015-09-27 06:33:36
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -23,13 +23,14 @@ To make it simple, I would say `is_singular()` targets all the templates with `c
 
 On the other hand `is_single()` targets the only `single.php` template.
 
-## Example
+Example
 For an example, you want to add *social share icons* without using a plugin.
-* These icons should be visible for `index.php`, `archive.php` and `single.php` templates.
-* It should not come for the `page.php` template.
+
+These icons should be visible for `index.php`, `archive.php` and `single.php` templates.
+It should not come for the `page.php` template.
 
 Here we have two options:
--We can directly put conditional check with `!is_page()` or
+- We can directly put conditional check with `!is_page()` or
 2. We have to use multiple conditional check as per below snippet
 <pre>function someName($content) {
     if( is_single() || is_home() || is_archive() || is_search() ){
