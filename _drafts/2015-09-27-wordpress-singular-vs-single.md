@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 06:34:51
+post_date: 2015-09-27 06:35:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -26,10 +26,12 @@ For an example, you want to add *social share icons* without using a plugin.
 <ul>
 	<li>These icons should be visible for `index.php`, `archive.php` and `single.php` templates.</li>
 	<li>It should not come for the `page.php` template.</li>
-	<li>Here we have two options:</li>
 </ul>
-We can directly put conditional check with `!is_page()` or
-We have to use multiple conditional check as per below snippet
+Here we have two options:
+<ol>
+	<li>We can directly put conditional check with `!is_page()` or</li>
+	<li>We have to use multiple conditional check as per below snippet</li>
+</ol>
 <pre>function someName($content) {
     if( is_single() || is_home() || is_archive() || is_search() ){
         // custom code...
