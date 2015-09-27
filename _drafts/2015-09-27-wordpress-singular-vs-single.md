@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:32:12
+post_date: 2015-09-27 08:33:28
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -18,8 +18,8 @@ First, let's understand the terms and then we will see an example.
 <h2>The Difference</h2>
 [list icon="icon: check"]
 <ul>
-	<li>is_singular()` targets all templates with `content-{something}.php` files name in a theme. So if you have some code to manipulate with all single pages, then you should use `is_singular()`.</li>
-	<li>On the other hand `is_single()` targets only `single.php` template, which meant to target only a single post page.</li>
+	<li><em>is_singular()</em> targets all templates with <em>content-{something}.php</em> files name in a theme. So if you have some code to manipulate with all single pages, then you should use <em>is_singular()</em>.</li>
+	<li>On the other hand <em>is_single()</em> targets only <em>single.php</em> template, which meant to target only a single post page.</li>
 </ul>
 [/list]
 <h2>An Example</h2>
