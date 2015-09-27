@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: Kushal Jayswal
-post_date: 2015-09-27 09:22:20
+post_date: 2015-09-27 09:25:01
 post_excerpt: >
   There are many conditional tags in
   WordPress. Some of them are little
@@ -11,8 +11,9 @@ post_excerpt: >
   between `is_singular()` and
   `is_single()`.
 layout: post
-permalink: http://teckstack.com/?p=4268
-published: false
+permalink: >
+  http://teckstack.com/wordpress-singular-vs-single
+published: true
 ac_is_process:
   - "1"
 ac_is_copyprotect:
@@ -49,7 +50,7 @@ Here we have two options:
     }
 }
 </pre>
-Learning is everything. If you think there are still something you can add on - kindly <a href="#comments" target="_blank">comment</a> below.
+Learning is everything. If you think there are still something you can add - kindly <a href="#comments" target="_blank">comment</a> below.
 <h4>Resources</h4>
 <ul>
 	<li><a href="https://codex.wordpress.org/Function_Reference/is_singular" target="_blank" rel="nofollow">WordPress is_singular()</a></li>
