@@ -1,10 +1,10 @@
 ---
 ID: 4271
 post_title: >
-  A stepwise guide on creating responsive
+  A stepwise guide on creating Responsive
   images using CSS
 author: TeckStack Admin
-post_date: 2015-09-27 09:34:18
+post_date: 2015-09-27 09:35:48
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4271
