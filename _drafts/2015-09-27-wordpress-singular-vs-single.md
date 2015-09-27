@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; Singular Vs. Single'
 author: TeckStack Admin
-post_date: 2015-09-27 08:37:36
+post_date: 2015-09-27 08:38:52
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -23,7 +23,7 @@ First, let's understand the terms and then we will see an example.
 </ul>
 [/list]
 <h2>An Example</h2>
-For an example, you want to add <strong>social share icons</strong> without using a plugin.
+For an example, you want to add <strong>social share icons</strong> without using a plugin. Below are some requirement:
 
 [list icon="icon: check"]
 <ul>
