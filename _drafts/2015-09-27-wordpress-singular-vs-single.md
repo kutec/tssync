@@ -2,7 +2,7 @@
 ID: 4268
 post_title: 'WordPress &#8211; is_singular() Vs. is_single()'
 author: TeckStack Admin
-post_date: 2015-09-27 06:26:55
+post_date: 2015-09-27 06:27:21
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4268
@@ -31,10 +31,9 @@ For an example, you want to add *social share icons* without using a plugin.
 Here we have two options:
 1. We can directly put conditional check with `!is_page()` or
 2. We have to use multiple conditional check as per below snippet
----
+
 function someName($content) {
 	if( is_single() || is_home() || is_archive() || is_search() ){
 		// custom code...
 	}
 }
----
