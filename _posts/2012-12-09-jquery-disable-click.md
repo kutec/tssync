@@ -1,6 +1,6 @@
 ---
 ID: 874
-post_title: 'jQuery &#8211; Disabled Button/Link After N Clicks'
+post_title: 'jQuery &#8211; Disable Click after N Number of Clicks'
 author: Kushal Jayswal
 post_date: 2012-12-09 18:18:21
 post_excerpt: >
@@ -9,7 +9,7 @@ post_excerpt: >
   click with BUTTON and HYPERLINK as well.
 layout: post
 permalink: >
-  http://teckstack.com/jquery-disabled-buttonlink-after-n-clicks
+  http://teckstack.com/jquery-disable-click
 published: true
 networkpub_postmessage:
   - ""
@@ -48,17 +48,13 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-jQuery is very popular and extended JavaScript library that is used by 65%+ developers as per earlier surveys. And it is still increasing everyday. 
-<blockquote>I am here to focus on very easy trick to disabled the button after "n" numbers of click with BUTTON and HYPERLINK as well.</blockquote>
-<h2>Actual Requirement</h2>
-It was something like I have to ADD one group of elements on a CLICK event. But the greatest numbers of adding it would be 9. 
+There may be a situation for a form validation when you need to disable a click of an anchor element or button after N number of clicks. This article will focus on the code for the same purpose.
+<h3>The Requirement</h3>
+It was something like I have to ADD one group of elements on a CLICK event. But the greatest numbers of adding it would be 9.
 
 Frankly speaking I have tried with FOR LOOP with jQuery. But then I stroke that I can even do something different from this and though came in my mind was DISABLED attribute with HTML INPUT TAG. Let's have a look with code now that can work for example of "jQuery - Disabled Button/Link After N Clicks."
-<h3>Including JQUERY before &lt;/HEAD&gt;</h3>
-<pre lang="javascript"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-
-<script type="text/javascript">
- $(function(){
+<h2>jQuery</h2>
+<pre>$(function(){
   var count = 3,
       $btn = $("#addon"); 
 	  //Or which ever you want
@@ -70,30 +66,29 @@ Frankly speaking I have tried with FOR LOOP with jQuery. But then I stroke that 
       count--;
       if(count==0) {
             return !$btn.attr('disabled','disabled');
-			/* FOR HYPERLINK
-			return !$btn.unbind('click');
-			*/
+		/* FOR HYPERLINK
+		return !$btn.unbind('click');
+		*/
       }
   })
   
   //Adding GROUP of elements ONCLICK
   $("#addon").click(function() {
-		for (var i = 0; i < 1; i++) {
-			$('#content form').append('<p><input type="text" value="Text" size="5" />');
+		for (var i = 0; i &lt; 1; i++) {
+			$('#content form').append('<input size="5" type="text" value="Text" />');
 		}
 	});
-})
+});</pre>
+<h2>HTML</h2>
+<pre>&lt;div id="content"&gt;
+    &lt;form action="" name="form1"&gt;&lt;input size="5" type="text" value="Text" /&gt;
 
-</script></pre>
-<h3>HTML Code</h3>
-<pre lang="html4strict">
-<div id="content">
-  <form name="form1" action="">
-    <p>
-      <input type="text" value="Text" size="5" />
-    </p>
-  </form>
-  <p><input id="addon" type="submit" value="Add" size="5" /></p>
-  <!--FOR HYPERLINK <p><a id="addon" href="#" title="" id="addon">addon</a> -->
-</div>
+    
+    
+    &lt;input id="addon" size="5" type="submit" value="Add" /&gt;
+
+    <!--FOR HYPERLINK <a id="addon" href="#" title="" id="addon">addon -->
+
 </pre>
+<h2>Demo</h2>
+<iframe src="//jsfiddle.net/kutec/h4ua7hpj/embedded/result/" width="100%" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
