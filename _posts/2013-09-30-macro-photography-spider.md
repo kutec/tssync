@@ -85,12 +85,12 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<blockquote>Being a photographer is not a big deal but capturing great photographs those are praised by photographers as well as normal people is great<strong>.</strong></blockquote>
-In this article I am sharing my creative with <a title="Macro Photography" href="http://en.wikipedia.org/wiki/Macro_photography" target="_blank"><strong>Macro Photography</strong></a>. You can view number of pictures clicked by me on <a title="Deval Jayswal on 500PX" href="http://500px.com/DevJayswal" target="_blank">500px.com</a>. And I am (popular) photographer (where I live @<a title="Ahmedabad on Google Map" href="https://www.google.co.in/maps/preview/place/ahmedabad+map/@23.0203456,72.5797426,11z/data=!3m1!4b1!4m2!3m1!1s0x395e848aba5bd449:0x4fcedd11614f6516" target="_blank">Ahmedabad</a>) for <a title="Deval Jayswal's Photography" href="https://www.facebook.com/deval.jayswal.photography" target="_blank">wedding and model shoot</a>. But from the beginning my first interest was to click pictures of small insects. I would love to see the creativity into them by God.
+<blockquote>Capturing a photograph is becoming easy now. On social media you can find hundreds of images being uploaded everyday. But capturing something unique which can be praised by others, is a great feeling.</blockquote>
+This article will talk about <a title="Macro Photography" href="http://en.wikipedia.org/wiki/Macro_photography" target="_blank">Macro Photography</a>. From the beginning when I started taking interest in photography, I love to click the insects. Only because I wanted to observe them and feel the creativity of God.
 
-In photography term such a kind of shoot known as Macro Photography (later I came to know that). And I started google about that. I wondered the techniques I found everywhere (as a blog) and that made me so happy. Now I teach techniques of various photography to my students (who wants to learn from me!).
-<h3>Anyway here are some tips makes your eagerness for clicking Macro</h3>
+This picture is clicked with point to shoot camera and not DSLR.
+<h2>Some Tips</h2>
 <ol>
-	<li>Concentrate on object (here object as a <strong>insect</strong>)</li>
-	<li>Use <a title="Buy Canon EOS 1100D SLR from Flipkart.com" href="http://www.flipkart.com/canon-eos-1100d-slr/p/itmd37hqu6ck5a5t?pid=CAMD37HNXMXGRYGV&amp;affid=kukutecco" target="_blank">Canon Camera</a> for great colours (<a title="Buy Nikon D3200 SLR from Flipkart.com" href="http://www.flipkart.com/nikon-d3200-slr/p/itmda6rk4qb3krp8?pid=CAMDA6RJERF8HS4G&amp;affid=kukutecco" target="_blank">Nikon</a> is also good but from experience I would recommend Canon)</li>
+	<li>Concentrate on object</li>
+	<li>Use Canon Camera for great colors <em>(Nikon is also good but from experience I would recommend Canon)</em></li>
 </ol>
