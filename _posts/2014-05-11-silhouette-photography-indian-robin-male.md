@@ -90,14 +90,9 @@ vortex_system_dislikes:
   - "0"
 ---
 <h2>Photograph Detail</h2>
-
-<h3>Bird in a photograph: <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Indian_Robin" target="_blank"><strong>Indian Robin Male</strong></a></h3>
-
+Bird in a photograph: <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Indian_Robin" target="_blank">Indian Robin Male</a>
 <table class="table">
 <tbody>
-<tr>
-<th colspan="2">Photograph Detail (<a href="http://500px.com/photo/65443699/silhouette-of-indian-robin-male-by-deval-jayswal?from=user" target="_blank">fetched from 500PX.com</a>)</th>
-</tr>
 <tr>
 <td><strong>Camera</strong></td>
 <td>Canon EOS 600D</td>
@@ -128,11 +123,8 @@ vortex_system_dislikes:
 </tr>
 </tbody>
 </table>
-
 &nbsp;
-
 <h2>What is silhouette</h2>
-
 The dark shape and outline of some object or something visible in restricted light against a brighter background.
 
 Such a shot called silhouette. This photograph is of <strong>Indian Robin Bird (male).</strong>
