@@ -49,7 +49,7 @@ vortex_system_dislikes:
   - "0"
 ---
 There may be a situation for a form validation when you need to disable a click of an anchor element or button after N number of clicks. This article will focus on the code for the same purpose.
-<h3>The Requirement</h3>
+<h3>The&nbsp;Requirement</h3>
 It was something like I have to ADD one group of elements on a CLICK event. But the greatest numbers of adding it would be 9.
 
 Frankly speaking I have tried with FOR LOOP with jQuery. But then I stroke that I can even do something different from this and though came in my mind was DISABLED attribute with HTML INPUT TAG. Let's have a look with code now that can work for example of "jQuery - Disabled Button/Link After N Clicks."
@@ -75,7 +75,7 @@ Frankly speaking I have tried with FOR LOOP with jQuery. But then I stroke that 
   //Adding GROUP of elements ONCLICK
   $("#addon").click(function() {
 		for (var i = 0; i &lt; 1; i++) {
-			$('#content form').append('<input size="5" type="text" value="Text" />');
+			$('#content form').append('&lt;input size="5" type="text" value="Text" /&gt;');
 		}
 	});
 });</pre>
@@ -83,12 +83,13 @@ Frankly speaking I have tried with FOR LOOP with jQuery. But then I stroke that 
 <pre>&lt;div id="content"&gt;
     &lt;form action="" name="form1"&gt;&lt;input size="5" type="text" value="Text" /&gt;
 
-    
-    
+    &lt;/form&gt;
+ 
     &lt;input id="addon" size="5" type="submit" value="Add" /&gt;
 
-    <!--FOR HYPERLINK <a id="addon" href="#" title="" id="addon">addon -->
+    &lt;!--FOR HYPERLINK &lt;a id="addon" href="#" title="" id="addon"&gt;addon&lt;/a&gt; --&gt;
 
+&lt;/div&gt;
 </pre>
 <h2>Demo</h2>
 <iframe src="//jsfiddle.net/kutec/h4ua7hpj/embedded/result/" width="100%" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
