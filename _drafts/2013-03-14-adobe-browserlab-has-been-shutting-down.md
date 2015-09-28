@@ -14,7 +14,7 @@ post_excerpt: >
 layout: post
 permalink: >
   http://teckstack.com/adobe-browserlab-has-been-shutting-down
-published: true
+published: false
 networkpub_postmessage:
   - ""
 networkpub_postsummary:
@@ -53,9 +53,11 @@ vortex_system_dislikes:
   - "0"
 ---
 <blockquote><strong>Adobe BrowserLab</strong> was very important online tool by the <a title="Adobe.com" href="http://www.adobe.com/" target="_blank">Adobe</a>. It is most popular and reliable. Some big company has accepted ABL as their standard. It was used to check developed web project <a class="zem_slink" title="User interface" href="http://en.wikipedia.org/wiki/User_interface" target="_blank" rel="wikipedia">User Interface</a> in all browser and in various <a class="zem_slink" title="Operating system" href="http://en.wikipedia.org/wiki/Operating_system" target="_blank" rel="wikipedia">OS</a>.</blockquote>
+
 But now suddenly Adobe has declared on a blog that he's stop the service for BrowserLab by giving the reason "<em><strong>our customers were struggling with testing their <a class="zem_slink" title="Web content" href="http://en.wikipedia.org/wiki/Web_content" target="_blank" rel="wikipedia">web content</a> across desktop browsers and platforms</strong></em>". Actually BrowserLab was launched in 2009 and since then with the growth of the importance of <a class="zem_slink" title="Mobile device" href="http://en.wikipedia.org/wiki/Mobile_device" target="_blank" rel="wikipedia">mobile devices</a> and tablets, the landscape has changed to its new age called Responsive Layouts.
 
 But still alternatives are always available, <a title="BrowserStack" href="http://www.browserstack.com/start?cbsid=browserlab" target="_blank">BrowserStack</a> and <a title="Sause Labs" href="http://saucelabs.com/" target="_blank">Sauce Labs</a>.
 
 If you are a debugger/developer and wanna see "<span class="zem_slink">Inspect Element</span>" feature into your mobile, you should try <a title="Edge Inspect" href="http://html.adobe.com/edge/inspect/" target="_blank">Edge Inspect</a>.
+
 <div class="zemanta-pixie" style="margin-top: 10px; height: 15px;"><img class="zemanta-pixie-img" style="border: none; float: right;" alt="" src="http://img.zemanta.com/pixy.gif?x-id=799e4db5-fc02-43ed-8e32-12bf6a26746d" /></div>
