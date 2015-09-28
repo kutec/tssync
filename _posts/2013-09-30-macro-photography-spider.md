@@ -4,10 +4,9 @@ post_title: 'Macro Photography &#8211; The Spider'
 author: Deval Jayswal
 post_date: 2013-09-30 14:29:09
 post_excerpt: >
-  Being a photographer is not a big deal
-  but capturing great photographs those
-  are praised by photographers as well as
-  normal people is great.
+  Macro Photography takes time to learn
+  the trick. But once you learned, you
+  will enjoy.
 layout: post
 permalink: >
   http://teckstack.com/macro-photography-spider
