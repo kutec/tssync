@@ -16,7 +16,7 @@ HTML5 now has a semantic Dialog tag. New Dialog tag behaves like a modal pop to 
 	<li><code>Show()</code>
 We can use show() method to display the dialog. This is the default JS method to display hidden content, but it will not able to align vertically the dialog and user can interact with other elements.</li>
 	<li><code>ShowModal()</code>
-This is the default method to show the dialog box. It will align center by default in browser. `ShowModel()` method give a backdrop to dialog to prevent the other element.</li>
+This is the default method to show the dialog box. It will align center by default in browser. <code>ShowModel()</code> method give a backdrop to dialog to prevent the other element.</li>
 	<li><code>Close()</code>
 This is the default method to hide the dialog box.</li>
 </ul>
