@@ -1,8 +1,8 @@
 ---
 ID: 4344
-post_title: CSS only Tooltip
+post_title: How to Create CSS only Tooltip
 author: Manish Sharma
-post_date: 2015-10-01 13:08:41
+post_date: 2015-10-01 14:44:50
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4344
@@ -27,7 +27,13 @@ Last but not the least CSS
 for the styling and position of the Tooltip.
 
 HTML code..
-
-< div class = ”element - wrapper” > 　　 < label > 　　Label　　 < span class = ”tooltip - indicator” > i < /span>
-　　<div class=”tooltip-box”>Tooltip Opens up for TEXTBOX2</div> 　　 < /label>
-　　<input type=”text” placeholder=”information...” / /> < /div>
+<pre>&lt;div class="element-wrapper"&gt;
+    &lt;label&gt;
+        Label
+        &lt;span class="tooltip-indicator"&gt;i&lt;/span&gt;
+　　      &lt;div class="tooltip-box"&gt;Tooltip Opens up for TEXTBOX2&lt;/div&gt;
+    &lt;/label&gt;
+　　    &lt;input type="text" placeholder="information..."/&gt;
+&lt;/div&gt;
+</pre>
+asda
