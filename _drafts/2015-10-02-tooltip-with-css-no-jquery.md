@@ -2,7 +2,7 @@
 ID: 4344
 post_title: 'Let&#8217;s Create a Tooltip with CSS Only'
 author: Manish Sharma
-post_date: 2015-10-02 12:14:31
+post_date: 2015-10-02 12:18:40
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4344
