@@ -2,7 +2,7 @@
 ID: 4358
 post_title: Disclaimer
 author: TeckStack Admin
-post_date: 2015-10-03 13:55:54
+post_date: 2015-10-03 13:56:42
 post_excerpt: ""
 layout: page
 permalink: http://teckstack.com/?page_id=4358
