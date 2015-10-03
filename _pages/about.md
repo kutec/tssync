@@ -10,8 +10,8 @@ published: true
 switch_like_status:
   - "1"
 ---
-Teckstack is all about web design and development. We mostly write articles and tutorials on frontend skills and WordPress.
+Teckstack is all about web design and development. We mostly write articles and tutorials on front end skills and WordPress.
 
-TeckStack was launched on December 28, 2011 by <a href="http://kjayz.com" target="_blank">Kushal Jayswal</a>.
+TeckStack was launched on December 28, 2011 by Kushal Jayswal.
 
 You can connect with us on <a href="https://twitter.com/teckstack" target="_blank">Twitter</a> and <a href="https://www.facebook.com/teckstack" target="_blank">Facebook</a>.
