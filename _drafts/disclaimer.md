@@ -2,13 +2,12 @@
 ID: 4358
 post_title: Disclaimer
 author: TeckStack Admin
-post_date: 2015-10-03 13:55:26
+post_date: 2015-10-03 13:55:54
 post_excerpt: ""
 layout: page
 permalink: http://teckstack.com/?page_id=4358
 published: false
 ---
-<h1></h1>
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at <a href="mailto:contact@teckstack.com">http://teckstack.com/contact</a>
 <h2>Disclaimers for http://teckstack.com:</h2>
 All the information on this website is published in good faith and for general information purpose only. http://teckstack.com does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (http://teckstack.com), is strictly at your own risk. http://teckstack.com will not be liable for any losses and/or damages in connection with the use of our website.
