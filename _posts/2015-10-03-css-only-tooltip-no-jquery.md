@@ -175,4 +175,4 @@ We have used CSS3 properties for bouncy animation effect and also have some sele
 </pre>
 Github: <a class="btn btn-success" href="http://kutec.github.io/CSS-Tooltip" target="_blank">Demo</a> or <a href="https://github.com/kutec/CSS-Tooltip" target="_blank">Fork</a>.
 
-This is my first article on <a href="http://teckstack.com">TeckStack</a>, hope you enjoy like it. If you have any suggestion or feedback, kindly shoot at <a href="#comments">comment</a> section.
+This is my first article on <a href="http://teckstack.com">TeckStack</a>, hope you like it. If you have any suggestion or feedback, kindly put your <a href="#comments">comment</a> below.
