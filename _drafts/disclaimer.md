@@ -2,7 +2,7 @@
 ID: 4358
 post_title: Disclaimer
 author: TeckStack Admin
-post_date: 2015-10-03 13:57:56
+post_date: 2015-10-03 14:01:05
 post_excerpt: ""
 layout: page
 permalink: http://teckstack.com/?page_id=4358
@@ -19,6 +19,3 @@ Please be also aware that when you leave our website, other sites may have diffe
 By using our website, you hereby consent to our disclaimer and agree to its terms.
 <h3>Update</h3>
 This site disclaimer was last updated on: Saturday, October 3rd, 2015
-<em> · Should we update, amend or make any changes to this document, those changes will be prominently posted here.</em>
-
-<hr />
