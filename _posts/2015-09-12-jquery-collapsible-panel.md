@@ -35,16 +35,13 @@ vortex_system_user_11:
 dsq_thread_id:
   - "4145648856"
 ---
-Collapsible panel is one of the most used components for a web&nbsp;project. It easily allows the user showing and&nbsp;hiding the content. Also,&nbsp;it&nbsp;saves the space on a web page. Most of the time it can be found on&nbsp;<abbr title="Frequently Asked Questions">FAQ</abbr>&nbsp;pages, but it can be used anywhere as per&nbsp;the need.
+Collapsible panel is one of the most used components for a web project. It easily allows the user showing and hiding the content. Also, it saves the space on a web page. Most of the time it can be found on <abbr title="Frequently Asked Questions">FAQ</abbr> pages, but it can be used anywhere as per the need.
 
-This article will focus on the easiest way to create a collapsible panel using jQuery. And&nbsp;to understand the code, you must have basic knowledge of <a href="/html">HTML</a> and&nbsp;<a href="/js">jQuery</a>.
+This article will focus on the easiest way to create a collapsible panel using jQuery. And to understand the code, you must have basic knowledge of <a href="/html">HTML</a> and <a href="/javascript">jQuery</a>.
 
-There are many ways we can integrate the collapsible panel. If you are using the&nbsp;<a href="http://teckstack.com/rwd">Bootstrap</a> then you might choosing its <a href="http://getbootstrap.com/components/#panels" target="_blank">JavaScript component</a>. Also, many jQuery plugins available to download for quick&nbsp;use. But here I have created very simple code that may help you to create a simple jQuery collapsible panel for any project.
-
+There are many ways we can integrate the collapsible panel. If you are using the <a href="http://teckstack.com/rwd">Bootstrap</a> then you might choosing its <a href="http://getbootstrap.com/components/#panels" target="_blank">JavaScript component</a>. Also, many jQuery plugins available to download for quick use. But here I have created very simple code that may help you to create a simple jQuery collapsible panel for any project.
 <h2>HTML</h2>
-
-I believe in&nbsp;good readable code structure. So I am following below way, where we have a parent <span class="lang:default decode:true crayon-inline ">#secondary</span>&nbsp;to control the hierarchy at its best. Further&nbsp;there is set of <span class="lang:default decode:true crayon-inline ">.widget</span>&nbsp;with panel title and its relevant content.
-
+I believe in good readable code structure. So I am following below way, where we have a parent <span class="lang:default decode:true crayon-inline ">#secondary</span> to control the hierarchy at its best. Further there is set of <span class="lang:default decode:true crayon-inline ">.widget</span> with panel title and its relevant content.
 <pre class="lang:default mark:7,9 decode:true ">&lt;aside id="secondary" class="col-md-3 col-sm-3"&gt;
     &lt;div class="row"&gt;
 
@@ -86,22 +83,16 @@ I believe in&nbsp;good readable code structure. So I am following below way, whe
 
     &lt;/div&gt;
 &lt;/aside&gt;</pre>
-
 <h2>jQuery</h2>
-
-I have highlighted part in HTML code above, those we are going to manipulate with below jQuery code.&nbsp;Before jumping into below code, I would suggest to read&nbsp;<a href="http://ashishuideveloper.in/2015/04/understand-jquery-events-bind-live-delegate/" target="_blank">this article</a>&nbsp;to understand why we have used <span class="lang:default decode:true crayon-inline">.on()</span>&nbsp; function instead of <span class="lang:default decode:true crayon-inline ">.click()</span>&nbsp;.
-
+I have highlighted part in HTML code above, those we are going to manipulate with below jQuery code. Before jumping into below code, I would suggest to read <a href="http://ashishuideveloper.in/2015/04/understand-jquery-events-bind-live-delegate/" target="_blank">this article</a> to understand why we have used <span class="lang:default decode:true crayon-inline">.on()</span>  function instead of <span class="lang:default decode:true crayon-inline ">.click()</span> .
 <pre class="lang:default decode:true">(function ($) {
     $("#secondary").on('click', '.widget-title', function (e) {
         $(this).next('.widget-content').toggle(200);
         $(this).parents('.widget').toggleClass('active');
     });
 })(jQuery);</pre>
-
 <h2>CSS</h2>
-
-Through CSS we are hiding&nbsp;the&nbsp;<span class="lang:default decode:true crayon-inline">.widget-content</span>&nbsp;class, which will be shown upon clicking on <span class="lang:default decode:true crayon-inline ">.widget-title</span>&nbsp;.
-
+Through CSS we are hiding the <span class="lang:default decode:true crayon-inline">.widget-content</span> class, which will be shown upon clicking on <span class="lang:default decode:true crayon-inline ">.widget-title</span> .
 <pre class="lang:default decode:true">#secondary .widget-title {
     margin: 0;
     font-size: 22px;
@@ -116,9 +107,7 @@ Through CSS we are hiding&nbsp;the&nbsp;<span class="lang:default decode:true cr
     background: #666;
     color: #fff;
 }</pre>
-
 <h2>Demo</h2>
+<iframe src="//jsfiddle.net/kutec/6x3qb1zc/embedded/result/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/kutec/6x3qb1zc/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-
-This article is intent to be helpful to freshers in to front end development or UI development.&nbsp;Kindly share your thoughts area in comment below.
+This article is intent to be helpful to freshers in to front end development or UI development. Kindly share your thoughts area in comment below.
