@@ -39,7 +39,7 @@ Collapsible panel is one of the most used components for a web project. It easi
 
 This article will focus on the easiest way to create a collapsible panel using jQuery. And to understand the code, you must have basic knowledge of <a href="/html">HTML</a> and <a href="/javascript">jQuery</a>.
 
-There are many ways we can integrate the collapsible panel. If you are using the <a href="http://teckstack.com/rwd">Bootstrap</a> then you might choosing its <a href="http://getbootstrap.com/components/#panels" target="_blank">JavaScript component</a>. Also, many jQuery plugins available to download for quick use. But here I have created very simple code that may help you to create a simple jQuery collapsible panel for any project.
+There are many ways we can integrate the collapsible panel. If you are using the <a href="/responsive-web-design">Bootstrap</a> then you might choosing its <a href="http://getbootstrap.com/components/#panels" target="_blank">JavaScript component</a>. Also, many jQuery plugins available to download for quick use. But here I have created very simple code that may help you to create a simple jQuery collapsible panel for any project.
 <h2>HTML</h2>
 I believe in good readable code structure. So I am following below way, where we have a parent <span class="lang:default decode:true crayon-inline ">#secondary</span> to control the hierarchy at its best. Further there is set of <span class="lang:default decode:true crayon-inline ">.widget</span> with panel title and its relevant content.
 <pre class="lang:default mark:7,9 decode:true ">&lt;aside id="secondary" class="col-md-3 col-sm-3"&gt;
