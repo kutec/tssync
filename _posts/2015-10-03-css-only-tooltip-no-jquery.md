@@ -2,18 +2,19 @@
 ID: 4344
 post_title: 'Let&#8217;s Create CSS Only Tooltip'
 author: Manish Sharma
-post_date: 2015-10-03 10:00:29
+post_date: 2015-10-03 10:08:39
 post_excerpt: >
   This article will focus on how to create
   a CSS only tooltip. We will not use any
   JavaScript or jQuery code to achieve the
   tooltip functionality.
 layout: post
-permalink: http://teckstack.com/?p=4344
-published: false
+permalink: >
+  http://teckstack.com/css-only-tooltip-no-jquery
+published: true
 ---
 <blockquote>The Tooltip is a popular web component used to show informative content on user interaction. There are many ready-to-use jQuery plugins having tooltip functionality but plugins may load set of scripts, which would result into downgrade the performance.</blockquote>
-This article will focus on how to create a CSS only tooltip. Means we are not going to use any JavaScript or jQuery code to achieve the tooltip functionality.
+<a href="http://teckstack.com/css-only-tooltip-no-jquery">This article</a> will focus on how to create a CSS only tooltip. Means we are not going to use any JavaScript or jQuery code to make the tooltip functionality.
 
 <em>I am assuming that you are familiar with basic CSS and HTML. If not, Google it and feel comfortable.</em>
 Github: <a class="btn btn-success" href="http://kutec.github.io/CSS-Tooltip" target="_blank">Demo</a> or <a href="https://github.com/kutec/CSS-Tooltip" target="_blank">Fork</a>.
@@ -39,6 +40,8 @@ As per above code,
 	<li><code>tooltip-box </code>is a container for tooltip content. This will be hidden by default and while use hover on <code>tooltip-indicator it simply popped up</code></li>
 	<li>You might have noticed <code>tip-dir="top"</code>. It decides from which direction tooltip will be shown up. In code above, we have <strong>top</strong>, so it will be coming up from top position. If we change it to <code>tip-dir="bottom"</code>, it behaves accordingly.</li>
 </ol>
+&nbsp;
+
 Related Article:
 <ul>
 	<li><a href="http://teckstack.com/understand-css-positions" target="_blank">Understand CSS Positions</a></li>
@@ -171,3 +174,5 @@ We have used CSS3 properties for bouncy animation effect and also have some sele
 }
 </pre>
 Github: <a class="btn btn-success" href="http://kutec.github.io/CSS-Tooltip" target="_blank">Demo</a> or <a href="https://github.com/kutec/CSS-Tooltip" target="_blank">Fork</a>.
+
+This is my first article on <a href="http://teckstack.com">TeckStack</a>, hope you enjoy like it. If you have any suggestion or feedback, kindly shoot at <a href="#comments">comment</a> section.
