@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:46:10
+post_date: 2015-10-05 17:47:24
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -58,10 +58,12 @@ Plus, its current feature of Multipress is the V2.5.0 that is compatible with al
 <h2>OldPaper</h2>
 The <a href="http://themeforest.net/item/oldpaper-ultimate-magazine-blog-theme/7431822?ref=kushjays" target="_blank">OldPaper</a> WordPress theme is blended with the components of the contemporary online magazines with blog features that make it ideal for a tech news website. It comes with a review system that offers an interactive and attractive design to your website. Additionally, OldPaper also offers 7 predefined skins, but you can customize and create a new one according to your needs.
 <h2>Best</h2>
-Best is one of the compelling WordPress themes designed for online magazines and news websites, so it can be perfect for tech news or gadget websites. It offers a fully responsive design that will make your website compatible with the different devices, browsers.
+<a href="https://mythemeshop.com/go/aff/go/kushjays/?cr=aHR0cHM6Ly9teXRoZW1lc2hvcC5jb20vdGhlbWVzL2Jlc3Q=" target="_blank">Best</a> is one of the compelling WordPress themes designed for online magazines and news websites, so it can be perfect for tech news or gadget websites. It offers a fully responsive design that will make your website compatible with the different devices, browsers.
 
 This theme comes with a great SEO options that will help you promote your website’s content and also increase the ranking of the site on Google. Apart from this, the Best is a user-friendly theme and also narrates video tutorials that will help you make changes in the design of a website without any professional guidance.
 <h2>News Times</h2>
 <a href="https://mythemeshop.com/go/aff/go/kushjays/?cr=aHR0cHM6Ly9teXRoZW1lc2hvcC5jb20vdGhlbWVzL25ld3N0aW1lcw==" target="_blank">News Times</a> is an incredible WP theme that focuses on both the written content and video reports. It offers optimized video posts formats and AJAX loading for smoother playback with minimum buffering. It also comes with unlimited scrolling options that can be enabled and disabled as per your requirement. This theme works well with both the WordPress and W3C coding and this makes it one of the most powerful themes of WordPress.
 
 To an addition, News Times is SEO-friendly theme that will help you rank higher in search engine results. It also offers an inbuilt review system for writing useful reviews.
+
+&nbsp;
