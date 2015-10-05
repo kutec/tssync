@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:32:22
+post_date: 2015-10-05 17:35:13
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -61,3 +61,5 @@ The <a href="http://themeforest.net/item/oldpaper-ultimate-magazine-blog-theme/7
 Best is one of the compelling WordPress themes designed for online magazines and news websites, so it can be perfect for tech news or gadget websites. It offers a fully responsive design that will make your website compatible with the different devices, browsers.
 
 This theme comes with a great SEO options that will help you promote your website’s content and also increase the ranking of the site on Google. Apart from this, the Best is a user-friendly theme and also narrates video tutorials that will help you make changes in the design of a website without any professional guidance.
+
+&nbsp;
