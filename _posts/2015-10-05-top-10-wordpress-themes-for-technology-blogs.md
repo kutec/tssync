@@ -4,15 +4,16 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs
 author: Guest Author
-post_date: 2015-10-05 18:21:21
+post_date: 2015-10-05 18:27:54
 post_excerpt: >
   This article is all about top 10
   WordPress themes that will create an
   engaging technology related websites or
   blogs.
 layout: post
-permalink: http://teckstack.com/?p=4370
-published: false
+permalink: >
+  http://teckstack.com/top-10-wordpress-themes-for-technology-blogs
+published: true
 ---
 In today’s scenario, the world is evolving with the introduction of new and cutting-edge technologies. From the basic things, like a mobile, car, TV, watches to the advanced infrastructure networks, everything is revolving around the technology. And the Internet is playing a crucial role in boosting the standards of different types of technologies and gadgets. People are using the internet to explore the new range of automated equipments and other chic gadgets.
 
@@ -91,5 +92,6 @@ This theme comes with a great SEO options that will help you promote your websit
 To an addition, News Times is SEO-friendly theme that will help you rank higher in search engine results. It also offers an inbuilt review system for writing useful reviews.
 <h3>Conclusion</h3>
 Tech news websites have become an essential part of the world and many technology journalists and experts are looking for a platform where they can build a visually-appealing and concept-based website with ease. In this blog post, we have listed the top ten WordPress themes that will help you create a beautiful and engaging tech news sites and blogs.
-
-&nbsp;
+<div class="panel panel-default">
+<div class="panel-body">This is guest post by <a href="mailto:lucybarret@hirewpgeeks.com?subject=TeckStack.com(Top 10 WordPress Themes for Technology Blogs)" target="_blank">Lucy Barret</a>. Her forte is WordPress. Lucy's work exists at the intersection of web development and technology blogging. She works for HireWPGeeks Ltd., a leading <a href="http://www.hirewpgeeks.com">Wordpress Development Company</a> as a Sr. Wordpress Developer and is an expert in converting PSD file to WordPress. Follow her company on social media networks like <a href="”https://www.facebook.com/hirewpgeeks”">Facebook</a> and <a href="”https://plus.google.com/+hirewpgeeks”">Google+</a>.</div>
+</div>
