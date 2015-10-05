@@ -2,10 +2,14 @@
 ID: 4370
 post_title: >
   Top 10 WordPress Themes for Technology
-  Blogs or Sites
+  Blogs
 author: Guest Author
-post_date: 2015-10-05 18:12:25
-post_excerpt: ""
+post_date: 2015-10-05 18:21:21
+post_excerpt: >
+  This article is all about top 10
+  WordPress themes that will create an
+  engaging technology related websites or
+  blogs.
 layout: post
 permalink: http://teckstack.com/?p=4370
 published: false
