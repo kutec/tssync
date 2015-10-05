@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:28:13
+post_date: 2015-10-05 17:29:34
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -50,8 +50,12 @@ On the bigger side, TopGadget renders inbuilt SEO options, six multiple areas fo
 
 It comes with flipping page feature that will give a magazine-like user experience to the visitors, but you can disable this effect whenever needed. It also supports WordPress plugins, including BuddyPress, bbPress, and WooCommerce. And, the ad system of Mutinews theme will allow you to boost your conversion rate with ease.
 <h2>Delipress</h2>
-Delipress is an amazing WordPress theme that offers a fully responsive design and visual widget layout builder for super easy customization. It comes with limitless colors and fonts that mean you can customize the design of a website according your needs.
+<a href="http://themeforest.net/item/delipress-magazine-and-review-wordpress-theme/7641807?ref=kushjays" target="_blank">Delipress</a> is an amazing WordPress theme that offers a fully responsive design and visual widget layout builder for super easy customization. It comes with limitless colors and fonts that mean you can customize the design of a website according your needs.
 
 In fact, this theme has passed the W3C requirement successfully. Apart from this, Delipress also helps you in boosting the ranking of your website on search engine pages like Google.
 
 Plus, its current feature of Multipress is the V2.5.0 that is compatible with all the popular browsers, 4.0+ versions of WordPress and plugins. And it will work seamlessly with the eight major social platforms.
+<h2>OldPaper</h2>
+The <a href="http://themeforest.net/item/oldpaper-ultimate-magazine-blog-theme/7431822?ref=kushjays" target="_blank">OldPaper</a> WordPress theme is blended with the components of the contemporary online magazines with blog features that make it ideal for a tech news website. It comes with a review system that offers an interactive and attractive design to your website. Additionally, OldPaper also offers 7 predefined skins, but you can customize and create a new one according to your needs.
+<h2>Best</h2>
+&nbsp;
