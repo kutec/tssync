@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:57:56
+post_date: 2015-10-05 17:59:11
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -46,7 +46,7 @@ To an addition, Noticia offers reviews and rating systems that are built by usin
 
 On the bigger side, TopGadget renders inbuilt SEO options, six multiple areas for banner ads featuring on/off the option that will enable you to put banners at any desired place. It also comes with social media integration that will let you manage all the popular social media accounts of your site directly from the control panel.
 <h2>MultiNews</h2>
-&nbsp;
+[caption id="attachment_4376" align="aligncenter" width="600"]<img class="size-full wp-image-4376" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/Multinews.png" alt="Multinews WP Theme" width="600" height="250" /> Multinews WP Theme[/caption]
 
 <a href="http://themeforest.net/item/multinews-multipurpose-wordpress-newsmagazine/8103494?ref=kushjays" target="_blank">MultiNews</a> WordPress theme is developed for all types of news websites and online magazines. It comes with the easy customization option and the user-friendly admin panel that allows you to adapt and change its features with ease. It is retina ready theme for the viewers who are viewing the website from their iOS devices. It also works smoothly on Windows and Android mobile devices.
 
