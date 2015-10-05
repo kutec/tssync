@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:56:42
+post_date: 2015-10-05 17:57:56
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -46,10 +46,14 @@ To an addition, Noticia offers reviews and rating systems that are built by usin
 
 On the bigger side, TopGadget renders inbuilt SEO options, six multiple areas for banner ads featuring on/off the option that will enable you to put banners at any desired place. It also comes with social media integration that will let you manage all the popular social media accounts of your site directly from the control panel.
 <h2>MultiNews</h2>
+&nbsp;
+
 <a href="http://themeforest.net/item/multinews-multipurpose-wordpress-newsmagazine/8103494?ref=kushjays" target="_blank">MultiNews</a> WordPress theme is developed for all types of news websites and online magazines. It comes with the easy customization option and the user-friendly admin panel that allows you to adapt and change its features with ease. It is retina ready theme for the viewers who are viewing the website from their iOS devices. It also works smoothly on Windows and Android mobile devices.
 
 It comes with flipping page feature that will give a magazine-like user experience to the visitors, but you can disable this effect whenever needed. It also supports WordPress plugins, including BuddyPress, bbPress, and WooCommerce. And, the ad system of Mutinews theme will allow you to boost your conversion rate with ease.
 <h2>Delipress</h2>
+[caption id="attachment_4375" align="aligncenter" width="600"]<a href="http://themeforest.net/item/delipress-magazine-and-review-wordpress-theme/7641807?ref=kushjays" target="_blank" rel="nofollow"><img class="wp-image-4375 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/deli-press.png" alt="DeliPress WP Theme" width="600" height="250" /></a> DeliPress WP Theme[/caption]
+
 <a href="http://themeforest.net/item/delipress-magazine-and-review-wordpress-theme/7641807?ref=kushjays" target="_blank">Delipress</a> is an amazing WordPress theme that offers a fully responsive design and visual widget layout builder for super easy customization. It comes with limitless colors and fonts that mean you can customize the design of a website according your needs.
 
 In fact, this theme has passed the W3C requirement successfully. Apart from this, Delipress also helps you in boosting the ranking of your website on search engine pages like Google.
