@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:48:33
+post_date: 2015-10-05 17:48:42
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
