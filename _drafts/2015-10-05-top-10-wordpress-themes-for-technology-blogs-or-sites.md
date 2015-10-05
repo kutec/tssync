@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:14:57
+post_date: 2015-10-05 17:20:42
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -26,7 +26,7 @@ The techsavvy theme will score more than 90 out of 100 in the Google PageSpeed t
 
 On the other side, SEO can be achieved if the code follows the standards of the industry, like Pingdom, Google Pagespeed, Schema, and many more.
 <h2>DesignBlog</h2>
-<a href="https://magazine3.com/designblog" target="_blank">DesignBlog</a> is a simple and clean WordPress theme, developed by keeping the web design and web development topics in mind. Although, it comes with highly customization options that will allow people to create a technology based website that contains only tech news.
+<a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=393" target="_blank">DesignBlog</a> is a simple and clean WordPress theme, developed by keeping the web design and web development topics in mind. Although, it comes with highly customization options that will allow people to create a technology based website that contains only tech news.
 
 DesignBlog is easy to use and install theme that allows the owner to make changes according to their taste and preferences.
 
