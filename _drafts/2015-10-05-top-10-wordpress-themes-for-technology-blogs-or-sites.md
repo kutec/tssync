@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 18:00:26
+post_date: 2015-10-05 18:01:41
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -38,11 +38,13 @@ The <a href="http://themeforest.net/item/mightymag-magazine-shop-community-wp-th
 
 MightyMag theme was developed with the aim to support all the popular WordPress plugins for your website, such as BuddyPress, WooCommerce and more. Plus, it offers a simple and clean SEO optimized code, a compelling review system, easy category builder and more.
 <h2>Noticia</h2>
+[caption id="attachment_4378" align="aligncenter" width="600"]<img class="size-full wp-image-4378" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/noticia.png" alt="Noticia WP Theme" width="600" height="250" /> Noticia WP Theme[/caption]
+
 <a href="http://themeforest.net/item/noticia-responsive-wordpress-magazine-theme/7806210?ref=kushjays" target="_blank">Noticia </a>is an advanced and responsive WordPress theme used to create the tech news based websites and blogs. It comes with the easy customization process that allows you to change the design and layout of the website according to your needs.
 
 To an addition, Noticia offers reviews and rating systems that are built by using AJAX. It also offers custom post types, banner ad management, and other exciting features.
 <h2>TopGadget</h2>
-[caption id="attachment_4377" align="aligncenter" width="600"]<img class="size-full wp-image-4377" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/top-gadget.png" alt="Top Gadget WP Theme" width="600" height="250" /> Top Gadget WP Theme[/caption]
+[caption id="attachment_4377" align="aligncenter" width="600"]<a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=395" target="_blank" rel="nofollow"><img class="wp-image-4377 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/top-gadget.png" alt="Top Gadget WP Theme" width="600" height="250" /></a> Top Gadget WP Theme[/caption]
 
 <a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=395" target="_blank">TopGadget</a> is a great WordPress theme designed specifically for technology websites, gadget blogs, and Tech News websites. If you want to create a compelling and professional looking website, then TopGadget is the perfect option for you. It comes with a lot of features, and also offers the user-friendly interface to all your visitors.
 
