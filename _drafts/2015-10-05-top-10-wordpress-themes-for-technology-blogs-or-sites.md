@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:59:11
+post_date: 2015-10-05 18:00:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -42,11 +42,13 @@ MightyMag theme was developed with the aim to support all the popular WordPress 
 
 To an addition, Noticia offers reviews and rating systems that are built by using AJAX. It also offers custom post types, banner ad management, and other exciting features.
 <h2>TopGadget</h2>
+[caption id="attachment_4377" align="aligncenter" width="600"]<img class="size-full wp-image-4377" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/top-gadget.png" alt="Top Gadget WP Theme" width="600" height="250" /> Top Gadget WP Theme[/caption]
+
 <a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=395" target="_blank">TopGadget</a> is a great WordPress theme designed specifically for technology websites, gadget blogs, and Tech News websites. If you want to create a compelling and professional looking website, then TopGadget is the perfect option for you. It comes with a lot of features, and also offers the user-friendly interface to all your visitors.
 
 On the bigger side, TopGadget renders inbuilt SEO options, six multiple areas for banner ads featuring on/off the option that will enable you to put banners at any desired place. It also comes with social media integration that will let you manage all the popular social media accounts of your site directly from the control panel.
 <h2>MultiNews</h2>
-[caption id="attachment_4376" align="aligncenter" width="600"]<img class="size-full wp-image-4376" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/Multinews.png" alt="Multinews WP Theme" width="600" height="250" /> Multinews WP Theme[/caption]
+[caption id="attachment_4376" align="aligncenter" width="600"]<a href="http://themeforest.net/item/multinews-multipurpose-wordpress-newsmagazine/8103494?ref=kushjays" target="_blank" rel="nofollow"><img class="wp-image-4376 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/Multinews.png" alt="Multinews WP Theme" width="600" height="250" /></a> Multinews WP Theme[/caption]
 
 <a href="http://themeforest.net/item/multinews-multipurpose-wordpress-newsmagazine/8103494?ref=kushjays" target="_blank">MultiNews</a> WordPress theme is developed for all types of news websites and online magazines. It comes with the easy customization option and the user-friendly admin panel that allows you to adapt and change its features with ease. It is retina ready theme for the viewers who are viewing the website from their iOS devices. It also works smoothly on Windows and Android mobile devices.
 
