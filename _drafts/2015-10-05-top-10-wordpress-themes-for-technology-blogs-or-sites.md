@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:05:40
+post_date: 2015-10-05 17:06:17
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -17,3 +17,4 @@ In fact, the tech enthusiasts are crafting and developing professional looking w
 If you also want to create a tech based website or blog, then WordPress is an ideal platform for you. It offers thousands of fantastic themes that can help you create such of the websites without much effort.
 
 So, in this blog post, we are going to explore the top 10 WordPress themes that will allow you to create an engaging and informative technology related websites and blogs.
+<h2>TechSavvy</h2>
