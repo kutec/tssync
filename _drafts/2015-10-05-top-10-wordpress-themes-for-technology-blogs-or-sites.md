@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:21:57
+post_date: 2015-10-05 17:24:25
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -37,3 +37,5 @@ To an addition, DesignBlog is compatible with the 4.0+ versions of WordPress and
 The <a href="http://themeforest.net/item/mightymag-magazine-shop-community-wp-theme/8193358?ref=kushjays" target="_blank">MightyMag</a> is an ideal WordPress theme that offers a complete solution for a tech news website. It comes with some of the exciting features that will help you share content with your potential visitors in a clean, attractive and efficient way. It also offers the elements that will allow you to run an online store and an online community on the similar website.
 
 MightyMag theme was developed with the aim to support all the popular WordPress plugins for your website, such as BuddyPress, WooCommerce and more. Plus, it offers a simple and clean SEO optimized code, a compelling review system, easy category builder and more.
+
+<strong>Noticia</strong>
