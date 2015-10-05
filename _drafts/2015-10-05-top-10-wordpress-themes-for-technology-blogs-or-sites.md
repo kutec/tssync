@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:06:17
+post_date: 2015-10-05 17:08:31
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -18,3 +18,10 @@ If you also want to create a tech based website or blog, then WordPress is an id
 
 So, in this blog post, we are going to explore the top 10 WordPress themes that will allow you to create an engaging and informative technology related websites and blogs.
 <h2>TechSavvy</h2>
+<a href="https://magazine3.com/techsavvy/" target="_blank">TechSavvy</a> is an incredible WordPress theme that leaves a great impression on your viewer’s mind and encourages them to read all the technology based news of your website. Basically, it enhances your image as a technology expert or a journalist.
+
+The two most significant aspects of this theme are SEO optimization and the loading speed. And both of these elements play a crucial role in boosting the rank of your website on popular search engine pages like Google.
+
+The techsavvy theme will score more than 90 out of 100 in the Google PageSpeed test. So, it will be better for you to choose this theme if you want to increase the speed of a site.
+
+On the other side, SEO can be achieved if the code follows the standards of the industry, like Pingdom, Google Pagespeed, Schema, and many more.
