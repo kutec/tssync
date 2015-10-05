@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 18:01:41
+post_date: 2015-10-05 18:02:58
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -34,11 +34,13 @@ This theme comes with a responsive design that means your website can be accesse
 
 To an addition, DesignBlog is compatible with the 4.0+ versions of WordPress and will be updated for free whenever there is a updated version of WordPress is available.
 <h2>MightyMag</h2>
+[caption id="attachment_4379" align="aligncenter" width="600"]<img class="size-full wp-image-4379" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/mightymag.png" alt="Mightymag WP Theme" width="600" height="250" /> Mightymag WP Theme[/caption]
+
 The <a href="http://themeforest.net/item/mightymag-magazine-shop-community-wp-theme/8193358?ref=kushjays" target="_blank">MightyMag</a> is an ideal WordPress theme that offers a complete solution for a tech news website. It comes with some of the exciting features that will help you share content with your potential visitors in a clean, attractive and efficient way. It also offers the elements that will allow you to run an online store and an online community on the similar website.
 
 MightyMag theme was developed with the aim to support all the popular WordPress plugins for your website, such as BuddyPress, WooCommerce and more. Plus, it offers a simple and clean SEO optimized code, a compelling review system, easy category builder and more.
 <h2>Noticia</h2>
-[caption id="attachment_4378" align="aligncenter" width="600"]<img class="size-full wp-image-4378" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/noticia.png" alt="Noticia WP Theme" width="600" height="250" /> Noticia WP Theme[/caption]
+[caption id="attachment_4378" align="aligncenter" width="600"]<a href="http://themeforest.net/item/noticia-responsive-wordpress-magazine-theme/7806210?ref=kushjays" target="_blank" rel="nofollow"><img class="wp-image-4378 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/noticia.png" alt="Noticia WP Theme" width="600" height="250" /></a> Noticia WP Theme[/caption]
 
 <a href="http://themeforest.net/item/noticia-responsive-wordpress-magazine-theme/7806210?ref=kushjays" target="_blank">Noticia </a>is an advanced and responsive WordPress theme used to create the tech news based websites and blogs. It comes with the easy customization process that allows you to change the design and layout of the website according to your needs.
 
