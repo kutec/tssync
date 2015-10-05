@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 18:04:10
+post_date: 2015-10-05 18:05:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -26,9 +26,7 @@ The techsavvy theme will score more than 90 out of 100 in the Google PageSpeed t
 
 On the other side, SEO can be achieved if the code follows the standards of the industry, like Pingdom, Google Pagespeed, Schema, and many more.
 <h2>DesignBlog</h2>
-[caption id="attachment_4376" align="aligncenter" width="600"]<img class="size-full wp-image-4376" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/Multinews.png" alt="Multinews WP Theme" width="600" height="250" /> Multinews WP Theme[/caption]
-
-[caption id="attachment_4380" align="aligncenter" width="600"]<img class="size-full wp-image-4380" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/DesignBlog.png" alt="DesignBlog WP Theme" width="600" height="250" /> DesignBlog WP Theme[/caption]
+[caption id="attachment_4380" align="aligncenter" width="600"]<a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=393" target="_blank" rel="nofollow"><img class="wp-image-4380 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/DesignBlog.png" alt="DesignBlog WP Theme" width="600" height="250" /></a> DesignBlog WP Theme[/caption]
 
 <a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=393" target="_blank">DesignBlog</a> is a simple and clean WordPress theme, developed by keeping the web design and web development topics in mind. Although, it comes with highly customization options that will allow people to create a technology based website that contains only tech news.
 
