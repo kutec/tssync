@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 18:02:58
+post_date: 2015-10-05 18:04:10
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -26,6 +26,10 @@ The techsavvy theme will score more than 90 out of 100 in the Google PageSpeed t
 
 On the other side, SEO can be achieved if the code follows the standards of the industry, like Pingdom, Google Pagespeed, Schema, and many more.
 <h2>DesignBlog</h2>
+[caption id="attachment_4376" align="aligncenter" width="600"]<img class="size-full wp-image-4376" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/Multinews.png" alt="Multinews WP Theme" width="600" height="250" /> Multinews WP Theme[/caption]
+
+[caption id="attachment_4380" align="aligncenter" width="600"]<img class="size-full wp-image-4380" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/DesignBlog.png" alt="DesignBlog WP Theme" width="600" height="250" /> DesignBlog WP Theme[/caption]
+
 <a href="http://magazine3.com/affiliate-partnership/idevaffiliate.php?id=10948&amp;url=393" target="_blank">DesignBlog</a> is a simple and clean WordPress theme, developed by keeping the web design and web development topics in mind. Although, it comes with highly customization options that will allow people to create a technology based website that contains only tech news.
 
 DesignBlog is easy to use and install theme that allows the owner to make changes according to their taste and preferences.
@@ -34,7 +38,7 @@ This theme comes with a responsive design that means your website can be accesse
 
 To an addition, DesignBlog is compatible with the 4.0+ versions of WordPress and will be updated for free whenever there is a updated version of WordPress is available.
 <h2>MightyMag</h2>
-[caption id="attachment_4379" align="aligncenter" width="600"]<img class="size-full wp-image-4379" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/mightymag.png" alt="Mightymag WP Theme" width="600" height="250" /> Mightymag WP Theme[/caption]
+[caption id="attachment_4379" align="aligncenter" width="600"]<a href="http://themeforest.net/item/mightymag-magazine-shop-community-wp-theme/8193358?ref=kushjays" target="_blank" rel="nofollow"><img class="wp-image-4379 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/10/mightymag.png" alt="Mightymag WP Theme" width="600" height="250" /></a> Mightymag WP Theme[/caption]
 
 The <a href="http://themeforest.net/item/mightymag-magazine-shop-community-wp-theme/8193358?ref=kushjays" target="_blank">MightyMag</a> is an ideal WordPress theme that offers a complete solution for a tech news website. It comes with some of the exciting features that will help you share content with your potential visitors in a clean, attractive and efficient way. It also offers the elements that will allow you to run an online store and an online community on the similar website.
 
