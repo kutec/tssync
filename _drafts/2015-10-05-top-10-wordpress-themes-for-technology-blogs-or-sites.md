@@ -4,7 +4,7 @@ post_title: >
   Top 10 WordPress Themes for Technology
   Blogs or Sites
 author: TeckStack Admin
-post_date: 2015-10-05 17:48:42
+post_date: 2015-10-05 17:50:00
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4370
@@ -62,6 +62,8 @@ The <a href="http://themeforest.net/item/oldpaper-ultimate-magazine-blog-theme/7
 
 This theme comes with a great SEO options that will help you promote your website’s content and also increase the ranking of the site on Google. Apart from this, the Best is a user-friendly theme and also narrates video tutorials that will help you make changes in the design of a website without any professional guidance.
 <h2>News Times</h2>
+&nbsp;
+
 <a href="https://mythemeshop.com/go/aff/go/kushjays/?cr=aHR0cHM6Ly9teXRoZW1lc2hvcC5jb20vdGhlbWVzL25ld3N0aW1lcw==" target="_blank">News Times</a> is an incredible WP theme that focuses on both the written content and video reports. It offers optimized video posts formats and AJAX loading for smoother playback with minimum buffering. It also comes with unlimited scrolling options that can be enabled and disabled as per your requirement. This theme works well with both the WordPress and W3C coding and this makes it one of the most powerful themes of WordPress.
 
 To an addition, News Times is SEO-friendly theme that will help you rank higher in search engine results. It also offers an inbuilt review system for writing useful reviews.
