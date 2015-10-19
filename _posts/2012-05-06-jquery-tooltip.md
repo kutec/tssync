@@ -115,36 +115,21 @@ The idea is to develop a simple jQuery tooltip with less code with such a functi
 &lt;script src="js/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
 &lt;script src="js/ku_tooltip.js" type="text/javascript"&gt;&lt;/script&gt;</pre>
 <h3>HTML</h3>
-<pre>&lt;div class="row cf"&gt;
- &lt;div class="col1"&gt; &lt;span class="title"&gt;Textbox1: &lt;em class="tooltip_i"&gt;&lt;/em&gt;&lt;/span&gt;</pre>
-<pre>&lt;div class="tooltipbox"&gt;KU Tooltip Opens up for TEXTBOX1...
- &lt;br&gt;It's auto resizable in Height.
- &lt;br&gt;
- &lt;br&gt;You need to click on CLOSE BUTTON to close. &lt;a href="#close" class="close_i"&gt;&lt;/a&gt;</pre>
-<pre>&lt;/div&gt;
- &lt;/div&gt;
- &lt;!--/.col1--&gt;
- &lt;div class="col2"&gt;
- &lt;input class="textbox" name="" type="text"&gt;
- &lt;/div&gt;
- &lt;!--/.col2--&gt;
-&lt;/div&gt;
-&lt;!--/.row--&gt;
-&lt;div class="row cf"&gt;
- &lt;div class="col1"&gt; &lt;span class="title"&gt;Textbox2: &lt;em class="tooltip_i"&gt;&lt;/em&gt;&lt;/span&gt;</pre>
-<pre>&lt;div class="tooltipbox"&gt;KU Tooltip Opens up for TEXTBOX2...
- &lt;br&gt;It's auto resizable in Height.
- &lt;br&gt;
- &lt;br&gt;You need to click on CLOSE BUTTON to close. &lt;a href="#close" class="close_i"&gt;&lt;/a&gt;</pre>
-<pre>&lt;/div&gt;
- &lt;/div&gt;
- &lt;!--/.col1--&gt;
- &lt;div class="col2"&gt;
- &lt;input class="textbox" name="" type="text"&gt;
- &lt;/div&gt;
- &lt;!--/.col2--&gt;
-&lt;/div&gt;
-&lt;!--/.row--&gt;</pre>
+<div class="row cf">
+<div class="col1"><span class="title">Textbox1: </span>
+<div class="tooltipbox">KU Tooltip Opens up for TEXTBOX1...
+It's auto resizable in Height.
+
+You need to click on CLOSE BUTTON to close.</div>
+&nbsp;
+
+</div>
+<!--/.col1-->
+<div class="col2"><input class="textbox" name="" type="text" /></div>
+<!--/.col2-->
+
+</div>
+<!--/.row-->
 <h3>CSS</h3>
 <pre>* {
     margin:0;
