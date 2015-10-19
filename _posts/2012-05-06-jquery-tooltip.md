@@ -115,21 +115,23 @@ The idea is to develop a simple jQuery tooltip with less code with such a functi
 &lt;script src="js/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
 &lt;script src="js/ku_tooltip.js" type="text/javascript"&gt;&lt;/script&gt;</pre>
 <h3>HTML</h3>
-<div class="row cf">
-<div class="col1"><span class="title">Textbox1: </span>
-<div class="tooltipbox">KU Tooltip Opens up for TEXTBOX1...
-It's auto resizable in Height.
+<pre><div class="row cf">
+    <div class="col1">	<span class="title">Textbox1: <em class="tooltip_i"></em></span>
 
-You need to click on CLOSE BUTTON to close.</div>
-&nbsp;
+        <div class="tooltipbox">KU Tooltip Opens up for TEXTBOX1...
+            <br />It's auto resizable in Height.
+            <br />
+            <br />You need to click on CLOSE BUTTON to close.	<a href="#close" class="close_i"></a>
 
+        </div>
+    </div>
+    <!--/.col1-->
+    <div class="col2">
+        <input class="textbox" name="" type="text"/>
+    </div>
+    <!--/.col2-->
 </div>
-<!--/.col1-->
-<div class="col2"><input class="textbox" name="" type="text" /></div>
-<!--/.col2-->
-
-</div>
-<!--/.row-->
+<!--/.row--></pre>
 <h3>CSS</h3>
 <pre>* {
     margin:0;
