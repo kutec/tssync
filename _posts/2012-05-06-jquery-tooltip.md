@@ -5,9 +5,9 @@ author: Kushal Jayswal
 post_date: 2012-05-06 07:37:33
 post_excerpt: >
   Tooltip functionality is very common and
-  saves lot of space too. But this article
-  tell you, how you can integrate jquery
-  tooltip act as a accordion.
+  saves a space too. But this article tell
+  you, how you can integrate jquery
+  tooltip act as a accordion concept.
 layout: post
 permalink: http://teckstack.com/jquery-tooltip
 published: true
@@ -106,37 +106,46 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<blockquote>Tooltip&nbsp;is popular&nbsp;functionality that helps to find essential information on demand&nbsp;. It&nbsp;is very useful to save&nbsp;the space on a webpage though the content is available .&nbsp;There are many ready-to-use jQuery tooltips available&nbsp;as a plugin. But here I created my while working on a project.</blockquote>
-
+<blockquote>The tooltip is popular functionality that helps to find essential information on demand. It is useful to save the space on a web page though hiding the content behind graphical icon or text. There are many ready-to-use jQuery tooltips available as a plugin. But in this post I am sharing my own code for jQuery tooltip.</blockquote>
 You can view the overall code on the page and can <a title="Download Code" href="http://www.teckstack.com/wp-content/uploads/2012/05/ku_tooltip_v1.0-teckstack.com_.zip" target="_blank">download source-code</a> as well. This might be updated simultaneously in future. So keep visiting.
-
 <h2>The Idea</h2>
-
-Here I tried to develop&nbsp;easy code for tooltip functionality that works like accordion tabs. Accordion is a group of tabs with relevant content on click or hover. The only thing it makes accordion difference than collapsible panel is "one at a time". Yes! You can view content from only one tab at a time. If you open another tab - opened tab will be closed. I keep this functionality in mind for writing code of this tooltip functionality while have more than one tooltip on a same page.
-
+The idea is to develop a simple jQuery tooltip with less code with such a functionality as accordion. [Accordion] is the popular concept of jQuery UI, which separates content into a group of tabs and it can be accessed using click/hover. But here we have tips instead of tabs, which will be opened on hovering and be closed by clicking on the close icon on each. This code was written for actual project, where the client wanted user to open a single tooltip at a time. Means, if a user moves out from the tip, it must closes down before new one opens up.
 <h2>Include <strong>JavaScript</strong> and <strong>CSS</strong></h2>
-
 <pre>&lt;link href="css/ku_tooltip.css" rel="stylesheet" type="text/css"&gt;
 &lt;script src="js/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
 &lt;script src="js/ku_tooltip.js" type="text/javascript"&gt;&lt;/script&gt;</pre>
-
 <h3>HTML</h3>
-
 <pre>&lt;div class="row cf"&gt;
-&nbsp;&nbsp;&nbsp; &lt;div class="col1"&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;span class="title"&gt;Textbox1: &lt;/span&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;div class="tooltipbox"&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KU Tooltip Opens up for TEXTBOX1... It's auto resizable in Height.You need to click on CLOSE BUTTON to close.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/div&gt;
-&nbsp;&nbsp;&nbsp; &lt;/div&gt;
-
-&nbsp;&nbsp;&nbsp; &lt;div class="col2"&gt;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;input class="textbox" name="" type="text" /&gt;
-&nbsp;&nbsp;&nbsp; &lt;/div&gt;
-&lt;/div&gt;</pre>
-
+ &lt;div class="col1"&gt; &lt;span class="title"&gt;Textbox1: &lt;em class="tooltip_i"&gt;&lt;/em&gt;&lt;/span&gt;</pre>
+<pre>&lt;div class="tooltipbox"&gt;KU Tooltip Opens up for TEXTBOX1...
+ &lt;br&gt;It's auto resizable in Height.
+ &lt;br&gt;
+ &lt;br&gt;You need to click on CLOSE BUTTON to close. &lt;a href="#close" class="close_i"&gt;&lt;/a&gt;</pre>
+<pre>&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;!--/.col1--&gt;
+ &lt;div class="col2"&gt;
+ &lt;input class="textbox" name="" type="text"&gt;
+ &lt;/div&gt;
+ &lt;!--/.col2--&gt;
+&lt;/div&gt;
+&lt;!--/.row--&gt;
+&lt;div class="row cf"&gt;
+ &lt;div class="col1"&gt; &lt;span class="title"&gt;Textbox2: &lt;em class="tooltip_i"&gt;&lt;/em&gt;&lt;/span&gt;</pre>
+<pre>&lt;div class="tooltipbox"&gt;KU Tooltip Opens up for TEXTBOX2...
+ &lt;br&gt;It's auto resizable in Height.
+ &lt;br&gt;
+ &lt;br&gt;You need to click on CLOSE BUTTON to close. &lt;a href="#close" class="close_i"&gt;&lt;/a&gt;</pre>
+<pre>&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;!--/.col1--&gt;
+ &lt;div class="col2"&gt;
+ &lt;input class="textbox" name="" type="text"&gt;
+ &lt;/div&gt;
+ &lt;!--/.col2--&gt;
+&lt;/div&gt;
+&lt;!--/.row--&gt;</pre>
 <h3>CSS</h3>
-
 <pre>* {
     margin:0;
 }
@@ -186,11 +195,8 @@ Here I tried to develop&nbsp;easy code for tooltip functionality that works like
     top:4px;
     position:absolute;
 }</pre>
-
 <div id="e"></div>
-
 <h3>jQuery</h3>
-
 <pre>$(document).ready(function () {
     //KU Tooltip with CLOSE button
     $('.row .tooltip_i').hover(function(){
@@ -205,5 +211,4 @@ Here I tried to develop&nbsp;easy code for tooltip functionality that works like
     });
     //tooltip ends here
 });</pre>
-
 <strong>Download Full Code here: </strong><a title="Download Code" href="http://teckstack.com/tsdir/wp-content/uploads/2012/05/ku_tooltip_v1.0-teckstack.com_.zip" target="_blank">ku_tooltip_v1.0</a>
