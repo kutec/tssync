@@ -30,12 +30,21 @@ authorsure_show_author_box:
 authorsure_include_css:
   - ""
 ---
-[user-submitted-posts]
+<a href="http://teckstack.com">TeckStack</a> encourages people for sharing their knowledge. There are multiple ways you can contribute to us.
+<h3>Guest &amp; Sponsored Post</h3>
+We are open for <strong>guest</strong> and <strong>sponsored</strong> posts.  We have a dedicated page to <a href="http://teckstack.com/become-author/submit-post">submit a new post</a> to reduce the mail stack and efforts.
 
-Initially <strong><a title="LinkedIn Profile" href="http://in.linkedin.com/in/kutec" target="_blank">Kushal Jayswal</a></strong> has started <a title="TeckStack.com" href="http://teckstack.com" target="_blank">TeckStack </a>as a personal technology and news blog. But letter he got many requests from other blog authors for contribution and finally TeckStack is now open for other authors  too.
+<strong>Sponsored post will be paid</strong> and we only accept sponsored posts relevant to one of our categories. Our minimum rate to publish a sponsored post is $50 (USD).
+<h3>Become a Proud Author</h3>
+TeckStack has enough traffic. So being a developer, if you want to publish your knowledge in form of various articles, you are most welcome! You can establish your visibility globally by publishing your posts with us.
 
-Currently we have two authors and very few articles as both of us very busy with projects and clients. But we have few plans that will come out with the time.
+We also have payment options for regular contributors. But it really depends, we do not pay to each author (we are still very small to pay to everyone, yes but of course, we are planning in this direction).
+<h4><strong>Few Plus Factors, becoming author:</strong></h4>
+<ul>
+	<li>Visibility to the community</li>
+	<li>Dedicated Author/Profile Page</li>
+	<li>Conversation with like-minded people though comments</li>
+</ul>
+&nbsp;
 
-We are planning for various categories. Currently we are limited to technology, coding, web design, web development, seo and interest.
-
-If you want to contribute, you may send us a<span style="font-size: medium;"> <strong><a title="contact@teckstack.com" href="mailto:contact@teckstack.com" target="_blank">mail</a></strong></span> us with some demo articles that you have written for blogs, magazine, etc.
+<a class="btn btn-success btn-block" href="http://teckstack.com/advertising">Advertise with Us</a>
