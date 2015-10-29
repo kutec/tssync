@@ -1,8 +1,8 @@
 ---
 ID: 4410
-post_title: Submit Post
+post_title: Submit A Post
 author: TeckStack Admin
-post_date: 2015-10-29 12:11:38
+post_date: 2015-10-29 12:15:26
 post_excerpt: ""
 layout: page
 permalink: http://teckstack.com/?page_id=4410
