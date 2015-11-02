@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: TeckStack Admin
-post_date: 2015-11-02 13:40:40
+post_date: 2015-11-02 13:42:07
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -13,4 +13,4 @@ Before you start a project with <a href="http://sass-lang.com/" target="_blank">
 
 For big projects, writing and managing pure CSS becomes hectic sometimes. To overcome such a situation, we now have pre-processors. (As this article is going to focus on Sass, we will be concentrating only on Sass and not <a href="http://lesscss.org/" target="_blank">LESS</a> or <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>.)
 
-<a href="http://teckstack.com/how-to-configure-sass-for-html-projects" target="_blank">Configuring Sass</a> is not too tough. You can go manually or can choose from set of tools mentioned on the site. I use [Scout] for HTML projects and [WP-SCSS] for WordPress. Liferay has `@compass` built-in, so one can directly start writing Sass with importing of the `@compass` at the top of the `. scss` file.
+<a href="http://teckstack.com/how-to-configure-sass-for-html-projects" target="_blank">Configuring Sass</a> is not too tough. You can go manually or can choose from set of <a href="http://sass-lang.com/install" target="_blank">tools</a> mentioned on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and WP-SCSS for WordPress. Liferay has `@compass` built-in, so one can directly start writing Sass with importing of the `@compass` at the top of the `. scss` file.
