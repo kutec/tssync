@@ -1,9 +1,13 @@
 ---
 ID: 126
-post_title: Cross Browser Testing
+post_title: Thoughts on Cross Browser Testing
 author: Kushal Jayswal
 post_date: 2012-05-31 18:57:52
-post_excerpt: ""
+post_excerpt: >
+  Cross browser testing is an untold task
+  for any web or front end developer. This
+  post will focus in general that how
+  front end testing should be done.
 layout: post
 permalink: >
   http://teckstack.com/cross-browser-testing
@@ -47,23 +51,16 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<strong>Cross Browser Testing</strong> is technical term in web designing field. It is the most common thing followed by genuine web designers OR UI developers for each and every client projects globally. And if you do not follow obviously that will be affect on your future business.
-<h2><strong>WHAT IS CROSS BROWSER TESTING?</strong></h2>
-When we start converting designs for HTML or HTNL5, we just convert it using a particular browser. And at the end of finishing we check in other browsers probably. If I take my example I used to previewing output for my Markups in <a title="Mozilla Firefox 3.6" href="www.mozilla.org/en-US/firefox/all-older.html" target="_blank">Mozilla Firefox 3.6</a>  and then I check in Internet Explorer 6, Internet Explorer 7 and so on. I also check on Opera, Safari and almost all famous browsers to deliver quality of code.
+Cross browser testing is an untold task for any web or front end developer. As per the general observation, many developers pick one browser (i.e: Chrome, Firefox) to test their code and stick to it for a lifetime. They don't care for other browsers and leave testing to QA.
 
-Sometimes I found some code will be break in IE, Safari or Opera. That time we need to look into code again and maintain the same output for all browsers available.
+As per the best practice approach, one should test his/her code in all popular browsers (i.e.: Google Chrome, Mozilla Firefox, Safari, Opera, IE, etc.). If I talk about me, I keep open all the browsers and refresh each (one-by-one) after certain time to make sure that nothing is breaking. If the project has documented well, it must have a list of browsers and devices as per the requirement. Most commonly the keyword <strong>certified</strong> and <strong>supported</strong> are used for bifurcation.
 
-[caption id="attachment_129" align="alignleft" width="300"]<img class=" wp-image-129 " title="adobe-browser-labs" alt="adobe-browser-labs" src="http://www.teckstack.com/wp-content/uploads/2013/03/adobe-browser-labs-300x109.png" width="300" height="109" /> Adobe Browser Labs[/caption]
-<h3>Adobe Browser Labs</h3>
-Sometimes I found broken design during <a title="Adobe BrowserLab" href="https://browserlab.adobe.com/en-us/index.html" target="_blank">Adobe BrowserLab</a> testing. And this is the worst case I guess. While you need to upload CSS again and again. But all is worth for clients as I believe as a Web Architect.
-
-You can use Adobe Browser Labs for free with single sign-up process. It is very easy to use but you need to make your work live on server to test it. And when you pass the link to browser labs' address bar, it will take screenshots and presents to you. You are able to make comparision side-by-side with variety of browsers at a time. Not satisfied yet! There is also full screen functionality too.
-
-[caption id="attachment_128" align="alignright" width="239"]<img class="wp-image-128 " title="BrowseEmAll" alt="BrowseEmAll" src="http://www.teckstack.com/wp-content/uploads/2013/03/boroseEmAll.png" width="239" height="68" /> BrowseEmAll[/caption]
-<h3>BrowseEmAll</h3>
-While googling I found one good resource, the <strong><em><a title="BrowseEmAll" href="http://www.browseemall.com/Home/" target="_blank">BrowseEmAll</a> - to test your code on local machine</em></strong>. It is tool that you need to download and use locally. You can select from multiple options available run time.
-
-These are some other cross browser testing tools you should check out.
-<h3><a href="http://www.litmusapp.com/">Litmus</a></h3>
-<h3><a href="http://www.my-debugbar.com/wiki/IETester/HomePage">IETester</a></h3>
-&nbsp;
+In the start of my career, I was associated with a company, who asked for a screenshots be taken in all browsers as a proof that your code is working well in all browsers. This company was providing PSD to HTML services to their clients and hence they confirm the code of quality through screenshots. Of course this is a good thing for the company but hectic approach for developers. I had to spent at least 3-4 hours taking screenshots on the day of delivery. Definitely I would not suggest this approach but developer should take ownership of his code.
+<h2>Adobe Browser Lab</h2>
+Couple of years ago, <a href="http://blogs.adobe.com/browserlab/" target="_blank" rel="nofollow">Adobe Browser Lab</a> was a standard approach for testing your code in various browsers. But from <em>March 13, 2013</em>, the tool is no more available. (Section updated on Nov,2015)
+<h2>Helpful Tools</h2>
+<ol>
+	<li><a href="http://www.browseemall.com/Home/" target="_blank" rel="nofollow">BrowseEmAll</a></li>
+	<li><a href="http://www.my-debugbar.com/wiki/IETester/HomePage" target="_blank" rel="nofollow">IE Tester</a></li>
+</ol>
+Do you have more thoughts on this? Kindly <a href="#comments" target="_blank" rel="nofollow">comment</a> below.
