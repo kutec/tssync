@@ -4,11 +4,12 @@ post_title: >
   How to Deal with Issues in CSS
   Specificity
 author: Guest Author
-post_date: 2015-11-16 18:15:08
+post_date: 2015-11-16 18:17:59
 post_excerpt: ""
 layout: post
-permalink: http://teckstack.com/?p=4429
-published: false
+permalink: >
+  http://teckstack.com/how-to-deal-with-issues-in-css-specificity
+published: true
 ---
 No matter whether you're working on a small or a large-sized web design and development project, you can't overlook the coding part, since it can help adjust your solution according to your specifications.
 
