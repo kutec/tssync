@@ -4,7 +4,7 @@ post_title: >
   How to Deal with Specificity Issues in
   CSS
 author: TeckStack Admin
-post_date: 2015-11-16 16:36:34
+post_date: 2015-11-16 16:38:16
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
@@ -25,3 +25,8 @@ In order to keep specificity low, the BEM methodology allows to write classes an
 While BEM is an effective technique to handle specificity issues for front-end developers who are involved mainly with HTML based projects, it does not prove a great option for developers who develop content management systems. After all, CMS code editors do not need HTML coding knowledge for laying out the content structure. This is why, you cannot use BEM for all your projects. A viable alternative is to make use of CSS Preprocessors like SASS, LESS and a few others.
 <h2>How You Can Deal With CSS Specificity?</h2>
 As discussed above, you can deal with the CSS Specificity issues with the help of CSS Preprocessors. Here. I'll be talking about two approaches that use CSS Preprocessors to resolve the specificity problem:
+<ol>
+	<li>
+<h3>Prepend the Existing Selector</h3>
+Whenever you face a specificity problem and are forced to make a selector heavier compared to another, then it is recommended that you should prepend your already existing selector with a new class, id, type selectors, etc. You can either prepend the reference selector (&amp;) used in your cascading style Sheets or else use CSS to accomplish the task, using the following code snippet:</li>
+</ol>
