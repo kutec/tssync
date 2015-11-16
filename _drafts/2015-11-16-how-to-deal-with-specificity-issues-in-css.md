@@ -4,7 +4,7 @@ post_title: >
   How to Deal with Specificity Issues in
   CSS
 author: TeckStack Admin
-post_date: 2015-11-16 16:34:47
+post_date: 2015-11-16 16:35:28
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
@@ -19,3 +19,7 @@ If you want to reduce the time that is spent on finding bugs, it is important fo
 Specificity in Cascading Style Sheets is basically a process that helps decide about the CSS rules that need to be applied by web browsers. In fact, CSS Specificity is the main reason because of which cascading style sheet (CSS) rules can't be applied to certain elements. Moreover, it helps in deciding which rule will have priority over other CSS-rules.
 
 If you want an easy way to handle the selector specificity issue, then a viable option is to use the BEM or Block Element Modifier method. BEM is a brilliant front-end toolkit that organizes the structure of cascading style sheet (CSS) and make it easy to understand. This method refrains users from having to reflect a block that comes prepackaged with nested DOM structure. And, the best thing about the BEM method is that the specificity does not change for every selector. Thus, you won't have to worry about issues caused due to overly specific selectors.
+
+In order to keep specificity low, the BEM methodology allows to write classes and not IDs in an HTML document. Now, since you will only have to use classes for your CSS, the specificity of each and every CSS selector will be 0,1,0.
+
+&nbsp;
