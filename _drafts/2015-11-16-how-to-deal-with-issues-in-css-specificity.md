@@ -1,10 +1,10 @@
 ---
 ID: 4429
 post_title: >
-  How to Deal with Specificity Issues in
-  CSS
+  How to Deal with Issues in CSS
+  Specificity
 author: Guest Author
-post_date: 2015-11-16 17:56:39
+post_date: 2015-11-16 18:15:08
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
@@ -38,7 +38,7 @@ This will produce the following output:
 <pre>.btn .yellow {
     color: yellow;
 }</pre>
-Probably, you might wish to prepend the selector with the help of an html or a body tag. However, a better option is to use something more specific available on your pages like the <code>#wrapper</code>, <code>.page</code>, etc. Also, you can make your selector ready to adapt to any changes that will take place in the future. For this purpose, you can make use of Sass that helps add the prepending selector in a variable as follows:
+Probably, you might wish to prepend the selector with the help of an html or a body tag. However, a better option is to use something more specific available on your pages like the <code>#wrapper</code>, <code>.page</code>, etc. Also, you can make your selector ready to adapt to any changes that will take place in the future. For this purpose, you can make use of <a href="http://teckstack.com/tag/sass">Sass</a> that helps add the prepending selector in a variable as follows:
 <pre>$PrependVar1: "header &amp;";
 $PrependVar2: "footer &amp;";
 
@@ -131,6 +131,7 @@ The CSS Preprocessors are getting evolved, however, developers still don't pay m
 	<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity" target="_blank">MDN - Specificity</a></li>
 	<li><a href="http://specificity.keegan.st/" target="_blank">Tool - Specificity Calculator</a></li>
 </ul>
-<br />
-<div class="panel panel-default"><div class="panel-body">
-<img class="pull-left" style="margin-right: 10px;" src="https://lh3.googleusercontent.com/-4v72j5cjOSE/AAAAAAAAAAI/AAAAAAAAACU/9bGCvpe-iVE/s90-c-k-no/photo.jpg" alt="" />This is guest post by <a href="mailto:victoria.appsted@gmail.com?subject=TeckStack.com (How to Deal with Specificity Issues in CSS)" target="_blank">Victoria Brinsley</a>. is a skilled Android app developer for Appsted Ltd - <a href="http://www.appsted.com/services/android-development" target="_blank">Android apps development company</a>. You can explore more about the development tips and tricks by clearing your queries with her.</div></div>
+&nbsp;
+<div class="panel panel-default">
+<div class="panel-body"><img class="pull-left" style="margin-right: 10px; border-radius: 50em;" src="https://lh3.googleusercontent.com/-4v72j5cjOSE/AAAAAAAAAAI/AAAAAAAAACU/9bGCvpe-iVE/s90-c-k-no/photo.jpg" alt="" />This is guest post by <a href="mailto:victoria.appsted@gmail.com?subject=TeckStack.com (How to Deal with Specificity Issues in CSS)" target="_blank">Victoria Brinsley</a>. is a skilled Android app developer for Appsted Ltd - <a href="http://www.appsted.com/services/android-development" target="_blank">Android apps development company</a>. You can explore more about the development tips and tricks by clearing your queries with her.</div>
+</div>
