@@ -5,7 +5,11 @@ post_title: >
   Specificity
 author: Guest Author
 post_date: 2015-11-16 18:17:59
-post_excerpt: ""
+post_excerpt: >
+  CSS Specificity is an issue that more
+  likely concerns developers working on
+  bigger projects. This article will focus
+  on Sass approaches.
 layout: post
 permalink: >
   http://teckstack.com/how-to-deal-with-issues-in-css-specificity
