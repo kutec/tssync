@@ -4,7 +4,7 @@ post_title: >
   How to Deal with Specificity Issues in
   CSS
 author: TeckStack Admin
-post_date: 2015-11-16 16:35:28
+post_date: 2015-11-16 16:35:58
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
@@ -22,4 +22,6 @@ If you want an easy way to handle the selector specificity issue, then a viable 
 
 In order to keep specificity low, the BEM methodology allows to write classes and not IDs in an HTML document. Now, since you will only have to use classes for your CSS, the specificity of each and every CSS selector will be 0,1,0.
 
-&nbsp;
+While BEM is an effective technique to handle specificity issues for front-end developers who are involved mainly with HTML based projects, it does not prove a great option for developers who develop content management systems. After all, CMS code editors do not need HTML coding knowledge for laying out the content structure. This is why, you cannot use BEM for all your projects. A viable alternative is to make use of CSS Preprocessors like SASS, LESS and a few others.
+<h2>How You Can Deal With CSS Specificity?</h2>
+As discussed above, you can deal with the CSS Specificity issues with the help of CSS Preprocessors. Here. I'll be talking about two approaches that use CSS Preprocessors to resolve the specificity problem:
