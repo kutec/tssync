@@ -4,7 +4,7 @@ post_title: >
   How to Deal with Specificity Issues in
   CSS
 author: TeckStack Admin
-post_date: 2015-11-16 16:35:58
+post_date: 2015-11-16 16:36:34
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
