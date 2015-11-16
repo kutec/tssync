@@ -3,8 +3,8 @@ ID: 4429
 post_title: >
   How to Deal with Specificity Issues in
   CSS
-author: TeckStack Admin
-post_date: 2015-11-16 16:38:16
+author: Kushal Jayswal
+post_date: 2015-11-16 16:39:42
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4429
@@ -28,5 +28,11 @@ As discussed above, you can deal with the CSS Specificity issues with the help o
 <ol>
 	<li>
 <h3>Prepend the Existing Selector</h3>
-Whenever you face a specificity problem and are forced to make a selector heavier compared to another, then it is recommended that you should prepend your already existing selector with a new class, id, type selectors, etc. You can either prepend the reference selector (&amp;) used in your cascading style Sheets or else use CSS to accomplish the task, using the following code snippet:</li>
+Whenever you face a specificity problem and are forced to make a selector heavier compared to another, then it is recommended that you should prepend your already existing selector with a new class, id, type selectors, etc. You can either prepend the reference selector (&amp;) used in your cascading style Sheets or else use CSS to accomplish the task, using the following code snippet:
+<pre>.yellow{</pre>
+<pre>    .btn &amp; {</pre>
+<pre>        color: yellow;</pre>
+<pre>    }</pre>
+<pre>}</pre>
+</li>
 </ol>
