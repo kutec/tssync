@@ -138,5 +138,5 @@ The CSS Preprocessors are getting evolved, however, developers still don't pay m
 </ul>
 &nbsp;
 <div class="panel panel-default">
-<div class="panel-body"><img class="pull-left" style="margin-right: 10px; border-radius: 50em;" src="https://lh3.googleusercontent.com/-4v72j5cjOSE/AAAAAAAAAAI/AAAAAAAAACU/9bGCvpe-iVE/s90-c-k-no/photo.jpg" alt="" />This is guest post by <a href="mailto:victoria.appsted@gmail.com?subject=TeckStack.com (How to Deal with Specificity Issues in CSS)" target="_blank">Victoria Brinsley</a>. She is a skilled Android app developer for <a href="http://www.appsted.com/services/android-development" target="_blank">Appsted Ltd</a>. You can explore more about the development tips and tricks by clearing your queries with her.</div>
+<div class="panel-body"><img class="pull-left" style="margin-right: 10px; border-radius: 50em;" src="https://lh3.googleusercontent.com/-4v72j5cjOSE/AAAAAAAAAAI/AAAAAAAAACU/9bGCvpe-iVE/s90-c-k-no/photo.jpg" alt="" />This is guest post by <a href="mailto:victoria.appsted@gmail.com?subject=TeckStack.com (How to Deal with Specificity Issues in CSS)" target="_blank">Victoria Brinsley</a>. She is a skilled Android app developer for <a href="http://www.appsted.com/" target="_blank">Appsted Ltd</a>. You can explore more about the development tips and tricks by clearing your queries with her.</div>
 </div>
