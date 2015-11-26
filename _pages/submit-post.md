@@ -1,7 +1,7 @@
 ---
 ID: 4410
 post_title: Submit Post
-author: Kushal Jayswal
+author: TeckStack Admin
 post_date: 2015-10-29 12:18:18
 post_excerpt: ""
 layout: page
