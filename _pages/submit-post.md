@@ -9,7 +9,7 @@ permalink: >
   http://teckstack.com/become-author/submit-post
 published: true
 ---
-This page is intended to submit a guest post or sponsored post. Before submitting your post, <a href="http://teckstack.com/become-author">must read this</a>.
+This page is intended to submit a guest post or sponsored post.&nbsp;Before submitting your post, <a href="http://teckstack.com/become-author">must read this</a>.
 
 Do not forget to mention<strong> your email id</strong> and <strong>name</strong>, through which we can contact back to you, if anything required from your end in publishing process.
 
