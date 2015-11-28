@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:32:52
+post_date: 2015-11-28 15:34:08
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -38,7 +38,7 @@ Giving default branding options, which can be configured from control panel/bac
 	<li>Font color</li>
 	<li>Font Family, etc...</li>
 </ul>
-Before the time Sass invented, such a confto write CSS for configurable options.
+Using CSS all these we can do but that would take more efforts and might we have to be dependent on core developers for the logic.
 
 But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
 
