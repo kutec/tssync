@@ -2,14 +2,14 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 14:58:32
+post_date: 2015-11-28 14:59:46
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
 published: false
 ---
 <blockquote>Writing CSS is an easy task. But doing the same in proper manner, which can be understood by all developers in a team that is more important.</blockquote>
-Before you start a project with <a href="http://sass-lang.com/" target="_blank">Sass</a>, you should understand that how it can help for CSS authoring. Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects demand for media query and branding options. From the experience, I found Sass as one of the best solution. Let's see how...
+Before you start a project with <a href="http://sass-lang.com/" target="_blank">Sass</a>, you should understand that how it can help for CSS authoring. Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects demand for media query and branding options. From the years of experience, I found Sass as one of the best solution to improvemize CSS. Let's see how...
 
 For big projects, writing pure CSS to manage everything becomes hectik sometime (and especially when you have numbers of developers working on the same project) and here in, pre-processors comes in a picture. I am personally big fan of Sass. [Configuring Sass] is a tough job. If you don't want to configure manually then you can use tools listed on the site. I use [Skout] for HTML projects and [WP-SCSS] for WordPress. Liferay has `@compass` built-in, so you can directly start writing Sass with importing of compass at the top of the `.scss` file.
 
