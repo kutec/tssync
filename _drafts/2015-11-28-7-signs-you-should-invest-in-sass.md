@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:26:37
+post_date: 2015-11-28 15:27:50
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -39,7 +39,7 @@ Background color
 
 Font color
 
-Font Family, etc.dynamically, which has been defined through CSS. But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
+Font Family, etc..., which has been defined through CSS. But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
 
 ### Sass Variable
 You have facility to define variables in Sass. It is the same concept as in JavaScript.
