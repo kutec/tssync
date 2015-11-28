@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:27:50
+post_date: 2015-11-28 15:29:06
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -31,9 +31,7 @@ If you have any confusion, kindly add your <a href="/#comments">comment</a> belo
 	<li>Community Aspect</li>
 </ul>
 <h2>Improved Branding</h2>
-Giving default branding options, which can be configured from control panel/backed of the site, is one of the important thing for any large project.
-
-In simple term "Branding" means color options, which admin/user can change as per his preferences. This configurable options can be
+Giving default branding options, which can be configured from control panel/backed of the site, is one of the important thing for any large project. In simple term "Branding" means color options, which admin/user can change as per his preferences. This configurable options can be
 
 Background color
 
