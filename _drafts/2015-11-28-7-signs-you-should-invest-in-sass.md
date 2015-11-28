@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:43:09
+post_date: 2015-11-28 15:44:24
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -44,15 +44,12 @@ You have facility to define variables in Sass. It is the same concept as in Java
 
 <strong>Syntax</strong>:
 <pre>$variableName: value;</pre>
-Variable increases the efficiency. Like in above discussion where we have 4-5 color options to be configured as a branding options, you can define 5 different variables and assign color properties to each. So in future if you have to change any color for branding, you can simply change variable's value and it will affect the color for all CSS where the same variable has been used.
+Variable increases the efficiency. Like in above discussion where we have 4-5 color options to be configured as a branding options, you can define 5 different variables and assign color properties to each. So in future, if you have to change any color for branding, you can simply change variable's value and it will affect the color for all CSS where the same variable has been used.
 
-Example:
-```
-$primary-color: blue;
+<strong>Example</strong>:
+<pre>$primary-color: blue;
 $secondary-color: green;
-// etc
-```
-
+// etc</pre>
 ## Clubbing &amp; Nesting
 From the start, I wanted CSS be written in modular way (yes of course we can add comment blocks and give proper indentation but yet it's not actually modular). What I mean by modular? Well, in JavaScript we can define functions or create modules and all its respectives like properties or variables are limited to its scope.
 
