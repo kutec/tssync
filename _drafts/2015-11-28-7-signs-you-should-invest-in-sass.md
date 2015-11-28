@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:21:05
+post_date: 2015-11-28 15:22:21
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -33,7 +33,11 @@ If you have any confusion, kindly add your <a href="/#comments">comment</a> belo
 <h2>Improved Branding</h2>
 Giving default branding options, which can be configured from control panel/backed of the site, is one of the important thing for any large project.
 
-In simple term "Branding" means color options, which admin/user can change site's background, color, etc. dynamically, which has been defined through CSS. But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
+In simple term "Branding" means color options, which admin/user can change as per his preferences. This configurable options can be
+
+Background color
+
+Font color, etc. dynamically, which has been defined through CSS. But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
 
 ### Sass Variable
 You have facility to define variables in Sass. It is the same concept as in JavaScript.
