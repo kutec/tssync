@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:17:21
+post_date: 2015-11-28 15:18:36
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -21,16 +21,16 @@ I remember that when I first heard about the pre-processor, I couldn't convince 
 
 Let's start looking into Sass's most popular features.
 If you have any confusion, kindly add your <a href="/#comments">comment</a> below. I would try to get over it soon.
-
-- Improved Branding
-- Clubbing &amp; Nesting
-- Partials &amp; Importing
-- Extending
-- Including
-- Functioning
-- Community Aspect
-
-## Improved Branding
+<ul>
+	<li>Improved Branding</li>
+	<li>Clubbing &amp; Nesting</li>
+	<li>Partials &amp; Importing</li>
+	<li>Extending</li>
+	<li>Including</li>
+	<li>Functioning</li>
+	<li>Community Aspect</li>
+</ul>
+Improved Branding
 Giving default branding options, which can be configurable from control panel or backed of the site, is one of the important thing for any large project.
 
 In simple term "Branding" means color options. Admin/user can change site's background and color dynamically, which has been define through CSS. But if you have 4-5 different color options then you can imagine the number of lines in CSS. And on the other hand, if client changes his mind to change the color then you know how frustrating it is. We have to search the color code and replace all over. OMG!
