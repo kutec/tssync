@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:35:24
+post_date: 2015-11-28 15:36:38
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -38,9 +38,10 @@ Giving default branding options, which can be configured from control panel/bac
 	<li>Font color</li>
 	<li>Font Family, etc...</li>
 </ul>
-Using CSS all these we can do but that would take more efforts and might we have to be dependent on core developers for the logic. And if we have 4-5 different color options then you can imagine the number of lines in CSS for color schemes only. On the other hand, if client changes his mind to change the color then we have to search the color code and replace all over. OMG!
+Using CSS all these we can do but that would take more efforts and might we have to be dependent on core developers for the logic. And if we have 4-5 different color options then you can imagine the number of lines in CSS for color schemes only. On the other hand, if client changes his mind to change the color then we have to search the color code and replace all over. OMG! How frustrating!
 
-### Sass Variable
+Sass Variable
+
 You have facility to define variables in Sass. It is the same concept as in JavaScript.
 
 Syntax:
