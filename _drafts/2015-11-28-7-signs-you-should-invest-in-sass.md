@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:04:50
+post_date: 2015-11-28 15:06:05
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -14,8 +14,7 @@ Before you start a project with <a href="http://sass-lang.com/" target="_blank">
 For big projects, writing pure CSS becomes hectik sometime (and especially when, you have numbers of developers working on the same project) and here in, pre-processors comes in a picture. <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">Configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can use tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has `@compass` built-in, so you can directly start writing Sass with importing of compass at the top of the `.scss` file.
 
 This article will focus on some of the most used features of the Sass with some easy-to-understand examples.
-
-### First Thing First - Why Sass
+<h2>First Thing First - Why Sass</h2>
 The CSS is an important asset for a front end developer. And hence, It has to be the way he want and pre-processors can be the mediator to achieve this goal. The adoption ratio of pre-processor is too high. Developers used to it now. Sass stands in a popular category. It can reduce the burden of writing and managing stuffs with some cool techniques. It comes with set of meaningful features. So, let's jump into it!
 
 ### What I Can Do with Sass
