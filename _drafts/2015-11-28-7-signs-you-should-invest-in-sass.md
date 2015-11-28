@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-28 15:16:05
+post_date: 2015-11-28 15:17:21
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -19,7 +19,8 @@ The CSS is an important asset for a front end developer. And hence, it has to be
 <h3>What We Can Do with Sass</h3>
 I remember that when I first heard about the pre-processor, I couldn't convince that why should we have it because at the end, everything being converted to CSS. But, believe me, after getting understood Sass features, I would highly recommend it.
 
-Let's start looking into Sass's fe If you have any question, kindly add your comment below. I would try to get over it soon.
+Let's start looking into Sass's most popular features.
+If you have any confusion, kindly add your <a href="/#comments">comment</a> below. I would try to get over it soon.
 
 - Improved Branding
 - Clubbing &amp; Nesting
