@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:28:01
+post_date: 2015-11-29 06:29:17
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -11,7 +11,7 @@ published: false
 <blockquote>Writing CSS is an easy task. But doing the same in proper manner, which can be understood by all developers in a team that is more important.</blockquote>
 Before you start a project with <a href="http://sass-lang.com/" target="_blank">Sass</a>, you should understand that how it can help for CSS authoring. Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects demand for media query and branding options. From the years of experience, I found Sass as one of the best solution as CSS enhancer.
 
-For big projects, writing pure CSS becomes hectik sometime (and especially when, you have numbers of developers working on the same project) and here in, pre-processors comes in a picture. <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">Configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can use tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has `@compass` built-in, so you can directly start writing Sass with importing of compass at the top of the `.scss` file.
+For big projects, writing pure CSS becomes hectik sometime (and especially when, you have numbers of developers working on the same project) and here in, pre-processors comes in a picture. <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">Configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can use tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has <code>@compass</code> built-in, so you can directly start writing Sass with importing of compass at the top of the <code>.scss</code> file.
 
 This article will focus on some of the most used features of the Sass with some easy-to-understand examples.
 <h2>First Thing First - Why Sass</h2>
