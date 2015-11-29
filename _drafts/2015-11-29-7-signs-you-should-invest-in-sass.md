@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:04:28
+post_date: 2015-11-29 07:05:43
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -58,7 +58,7 @@ From the start, I wanted CSS be written in modular way (yes of course, we can ad
 Many times we required CSS grouping concept where to give the same CSS properties to multiple elements. But Sass has different grouping mechanism and this is the first thing, attracted me to use Sass! Yes, I started using Sass because it allows nesting. We can build parent-child relationship with the elements.
 
 Let's have an example of the Navigation component/element to understand the nesting.
-<blockquote>Using Sass means, thinking of CSS as a component.</blockquote>
+<blockquote>[Tweet "Using #Sass means, thinking of #CSS as a #component."]</blockquote>
 Navigation is an essential component for any project. Below is sample CSS to manage the navigation horizontally on a web page.
 
 <strong>Sample CSS for Navigation</strong>:
