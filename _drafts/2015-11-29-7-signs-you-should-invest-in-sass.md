@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:33:04
+post_date: 2015-11-29 07:34:37
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -87,4 +87,6 @@ Big projects may needed numbers of CSS files based on features and requiremen
 
 I am sure that all of you have visited Yahoo home page. It's a portal where user can change/move/remove any portlet on a page as per his preference. So let's consider <strong>weather module</strong> here. Weather module may require developer to manipulate development need like API and other core technology related stuff. The same time he might required the UI of weather module for the look and feel perspective, so he can have better idea about development flow. Also, module may have something be handled from client side scripting. So as a front end developer, if I am working on CSS, other front end developer may take responsibility of JavaScript or YUI and so on...
 
-If we consider above example, you might have enough idea that I am talking about distributed team, where tasks are spreaded among number of developers for the same module. S
+If we consider above example, you might have enough idea that I am talking about distributed team, where tasks are spreaded among number of developers for the same module.
+<h3>Sass Partials</h3>
+The feature name itself suggest the meaning of it. Partials means to get saperated to manage the
