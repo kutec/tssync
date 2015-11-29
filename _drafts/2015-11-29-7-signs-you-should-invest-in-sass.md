@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:40:54
+post_date: 2015-11-29 07:41:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -100,7 +100,9 @@ In Sass we can separate .scss files and @import them when required. Consider bel
 |- content.scss
 |- plugin.scss
 |- overwrite.scss
-|- main.scss</pre>
+|- main.scss
+CSS (dir)
+|- main.css</pre>
 &nbsp;
 
 &nbsp;
