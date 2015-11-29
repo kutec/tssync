@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:50:21
+post_date: 2015-11-29 07:51:35
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -105,6 +105,6 @@ CSS (dir)
 |_ main.css</pre>
 Above structure has two directories - Sass and CSS. Sass is dedicated to .scss files, where main.scss file will be importing all the other .scss files with @import definition. And finally main.scss will be converted tmain.css into CSS folder and that would be CSS been included on some web page or portlet as an &lt;link href...&gt;.
 
-This style of defining
+This style of defining CSS through Sass makes CSS more manageable especially in a distributed project as we discussed in <em>weather module example</em>.
 
 &nbsp;
