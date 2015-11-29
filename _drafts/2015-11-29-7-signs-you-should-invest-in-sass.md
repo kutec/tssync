@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:25:33
+post_date: 2015-11-29 07:26:48
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -85,4 +85,4 @@ Big projects may needed numbers of CSS files based on features and requiremen
 
 Example of Yahoo Home Page
 
-I am sure that all of you have visited Yahoo home page. It's a portal where user can change/mov
+I am sure that all of you have visited Yahoo home page. It's a portal where user can change/move/remove any portlet on a page as per his preference. So let's consider <strong>weather module</strong> here. Weather module may require developer to manipula
