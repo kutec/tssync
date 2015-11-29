@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:23:24
+post_date: 2015-11-29 06:24:38
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -60,22 +60,18 @@ Let's have an example of the Navigation component/element to understand the nest
 Navigation is an essential component for any project. Below is sample CSS to manage the navigation horizontally on a web page.
 
 <strong>Sample CSS for Navigation</strong>:
-
-nav{ background: #eee; }
+<pre>nav{ background: #eee; }
 nav li{ float: left; }
-nav li a{ display: block; padding: 5px 10px; }
-
-Sass
-```
-nav{
-background: #eee;
-li{
-float: left;;
-a{
-display: block;
-padding: 5px 10px;
-}
-}
-}
-```
+nav li a{ display: block; padding: 5px 10px; }</pre>
+<strong>Sass</strong>
+<pre>nav{
+   background: #eee;
+   li{
+       float: left;;
+       a{
+           display: block;
+           padding: 5px 10px;
+       }
+     }
+ }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually define `nav` as an component. `li` tag and `a` tag can be considered as a child element to `nav`.
