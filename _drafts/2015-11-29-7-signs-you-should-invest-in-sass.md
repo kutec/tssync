@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:24:38
+post_date: 2015-11-29 06:25:56
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -72,6 +72,6 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
            display: block;
            padding: 5px 10px;
        }
-     }
- }</pre>
-As you can see in above Sass snippet, the code is more readable and we have actually define `nav` as an component. `li` tag and `a` tag can be considered as a child element to `nav`.
+   }
+}</pre>
+As you can see in above Sass snippet, the code is more readable and we have actually defined nav as an component. `li` tag and `a` tag can be considered as a child element to `nav`.
