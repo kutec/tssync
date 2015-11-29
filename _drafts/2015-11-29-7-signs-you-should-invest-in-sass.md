@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:32:40
+post_date: 2015-11-29 06:32:57
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -23,8 +23,8 @@ Let's start looking into Sass's most popular features.
 If you have any confusion, kindly add your <a href="/#comments">comment</a> below. I would try to get over it soon.
 <ul>
 	<li>Improved Branding</li>
-	<li>Clubbing &amp; Nesting</li>
-	<li>Partials &amp; Importing</li>
+	<li>Clubbing and Nesting</li>
+	<li>Partials and Importing</li>
 	<li>Extending</li>
 	<li>Including</li>
 	<li>Functioning</li>
