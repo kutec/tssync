@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:37:14
+post_date: 2015-11-29 07:38:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -91,4 +91,9 @@ If we consider above example, you might have enough idea that I am talking about
 <h3>Sass Partials</h3>
 The feature name - partial - itself suggest the meaning. Partials means to get separated to manage the stuffs more effectively.
 
-In Sass we can separate .scss files and @import them when required. Con
+In Sass we can separate .scss files and @import them when required. Consider below hierarchical structure of the Sass directory:
+<pre>Sass (dir)
+|-</pre>
+&nbsp;
+
+&nbsp;
