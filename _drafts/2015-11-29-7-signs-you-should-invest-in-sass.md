@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:24:19
+post_date: 2015-11-29 07:25:33
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -83,4 +83,6 @@ As you can see in above Sass snippet, the code is more readable and we have actu
 <h2>Partials and Importing</h2>
 Big projects may needed numbers of CSS files based on features and requirement of the project. As mentioned previously,  such a project may have many developers working on the same component/module/feature.
 
-Example Descr
+Example of Yahoo Home Page
+
+I am sure that all of you have visited Yahoo home page. It's a portal where user can change/mov
