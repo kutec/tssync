@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:42:12
+post_date: 2015-11-29 07:42:29
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -95,14 +95,14 @@ In Sass we can separate .scss files and @import them when required. Consider bel
 <pre>Sass (dir)
 |_ header.scss
 |_ footer.scss
-|- carousel.scss
-|- navigation.scss
-|- content.scss
-|- plugin.scss
-|- overwrite.scss
-|- main.scss
+|_ carousel.scss
+|_ navigation.scss
+|_ content.scss
+|_ plugin.scss
+|_ overwrite.scss
+|_ main.scss
 CSS (dir)
-|- main.css</pre>
+|_ main.css</pre>
 &nbsp;
 
 &nbsp;
