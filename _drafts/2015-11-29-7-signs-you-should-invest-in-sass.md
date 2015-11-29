@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:56:35
+post_date: 2015-11-29 07:57:49
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -105,6 +105,6 @@ CSS (dir)
 |_ main.css</pre>
 Above structure has two directories - Sass and CSS. Sass is dedicated to <strong>.scss</strong> files, where <strong>main.scss</strong> file will be importing all the other <strong>.scss</strong> files with <strong>@import</strong> definition. And finally <strong>main.scss</strong> will be compiled to <strong>main.css</strong> into CSS folder as a final output.
 
-As you can see that we will be only getting one CSS file as a CSS output and it also looks more manageable. Such an approach help developers in a distributed team to manage and improve code quality. Also, we will get minimized the CSS easily for performance improvement.
+As you can see that we will be only getting one CSS file as a CSS output and it also looks more manageable. Such an approach help developers in a distributed team to manage and improve code quality. Also, including one CSS file on a web page will improve performance of overall application than to including multiple files. One should always
 
 &nbsp;
