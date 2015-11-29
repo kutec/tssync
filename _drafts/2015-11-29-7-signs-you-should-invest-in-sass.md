@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:49:03
+post_date: 2015-11-29 07:50:21
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -103,6 +103,8 @@ In Sass, we can separate <code>.scss</code> files and <code>@import</code> them 
 |_ main.scss
 CSS (dir)
 |_ main.css</pre>
-Above structure has two directories - Sass and CSS. Sass is dedicated to .scss files, where main.scss file will be importing all the other .scss files with @import definition. And finally main.scss will be con
+Above structure has two directories - Sass and CSS. Sass is dedicated to .scss files, where main.scss file will be importing all the other .scss files with @import definition. And finally main.scss will be converted tmain.css into CSS folder and that would be CSS been included on some web page or portlet as an &lt;link href...&gt;.
+
+This style of defining
 
 &nbsp;
