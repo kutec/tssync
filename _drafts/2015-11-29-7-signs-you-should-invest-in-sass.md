@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:34:37
+post_date: 2015-11-29 07:35:53
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -89,4 +89,4 @@ I am sure that all of you have visited Yahoo home page. It's a portal where use
 
 If we consider above example, you might have enough idea that I am talking about distributed team, where tasks are spreaded among number of developers for the same module.
 <h3>Sass Partials</h3>
-The feature name itself suggest the meaning of it. Partials means to get saperated to manage the
+The feature name - partial -  itself suggest the meaning of it. Partials means to get separated to manage the assets more effectively.
