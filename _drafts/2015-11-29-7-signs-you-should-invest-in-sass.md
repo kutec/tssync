@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:31:05
+post_date: 2015-11-29 06:32:40
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -50,7 +50,7 @@ Variable increases the efficiency. Like in above discussion where we have 4-5
 <pre>$primary-color: blue;
 $secondary-color: green;
 // etc</pre>
-<h2>Clubbing &amp; Nesting</h2>
+<h2>Clubbing and Nesting</h2>
 From the start, I wanted CSS be written in modular way (yes of course, we can add comment blocks and give proper indentation but yet it's not actually the modular). What mean by modular? Well, in JavaScript, we can define functions or create modules and all its respectives, like properties or variables are limited to its scope. This way we can define our code in more readable form.
 
 Many times we required CSS grouping concept where to give the same CSS properties to multiple elements. But Sass has different grouping mechanism and this is the first thing, attracted me to use Sass! Yes, I started using Sass because it allows nesting. We can build parent-child relationship with the elements.
