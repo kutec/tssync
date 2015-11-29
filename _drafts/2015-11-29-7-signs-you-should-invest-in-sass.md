@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:22:06
+post_date: 2015-11-29 06:23:24
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -59,13 +59,13 @@ Let's have an example of the Navigation component/element to understand the nest
 <blockquote>Using Sass means, thinking of CSS as a component.</blockquote>
 Navigation is an essential component for any project. Below is sample CSS to manage the navigation horizontally on a web page.
 
-**Sample CSS for Navigation**
-```
+<strong>Sample CSS for Navigation</strong>:
+
 nav{ background: #eee; }
 nav li{ float: left; }
 nav li a{ display: block; padding: 5px 10px; }
-```
-**Sass**
+
+Sass
 ```
 nav{
 background: #eee;
