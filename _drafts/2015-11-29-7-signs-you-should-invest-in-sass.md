@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 07:28:10
+post_date: 2015-11-29 07:29:19
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -85,4 +85,4 @@ Big projects may needed numbers of CSS files based on features and requiremen
 
 Example of Yahoo Home Page
 
-I am sure that all of you have visited Yahoo home page. It's a portal where user can change/move/remove any portlet on a page as per his preference. So let's consider <strong>weather module</strong> here. Weather module may require developer to manipulate development need like API and other core technology related stuff. The same time he might required the UI of weather module for the look and feel perspective, so he can have better idea
+I am sure that all of you have visited Yahoo home page. It's a portal where user can change/move/remove any portlet on a page as per his preference. So let's consider <strong>weather module</strong> here. Weather module may require developer to manipulate development need like API and other core technology related stuff. The same time he might required the UI of weather module for the look and feel perspective, so he can have better idea about development flow. Also, module may have something be handled from client side scripting. So as a front end developer, if I am working on CSS,
