@@ -2,14 +2,14 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-11-29 06:40:08
+post_date: 2015-11-29 06:40:32
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
 published: false
 ---
 <blockquote><p>Writing CSS is an easy task. But doing the same in proper manner, which can be understood by all developers in a team that is more important.</p>
-<footer>Manish Sharma <cite title="If I Use (http://ifiuse.com)"><em>an open source developer</em></cite></footer>
+<footer>Manish Sharma <cite title="If I Use (http://ifiuse.com)"><em>, an open source developer</em></cite></footer>
 </blockquote>
 Before you start a project with <a href="http://sass-lang.com/" target="_blank">Sass</a>, you should understand that how it can help for CSS authoring. Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects demand for media query and branding options. From the years of experience, I found Sass as one of the best solution as CSS enhancer.
 
