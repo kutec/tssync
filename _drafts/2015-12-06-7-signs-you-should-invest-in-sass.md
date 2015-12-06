@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 15:49:32
+post_date: 2015-12-06 16:00:09
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -90,9 +90,7 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
 }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually defined <code>&lt;nav&gt;</code> as a component while <code>&lt;li&gt;</code> and <code>&lt;a&gt;</code> tags are children elements to <code>&lt;nav&gt;</code>.
 <h2>Partials and Importing</h2>
-It is always good to separate CSS code in different files or folder to increase the manageability. Large projects may needed many CSS files based on features of a project. This kind of separation makes sense for developers working on the same theme at a time.
-
-&nbsp;
+It is always good to separate CSS code in different files or folder to increase the manageability. Large projects may needed this approach based on features of a project. This kind of separation makes sense for developers working on the same theme at a time.
 <h3>Sass Partials</h3>
 Sass allows to define code in various files. We can define codes using variables, @extend, @include, etc. in any file to re-use across the application.
 
@@ -109,8 +107,6 @@ This is similar to what we do in CSS to import a file. We can create <code>.s
 |_ main.scss
 CSS (dir)
 |_ main.css</pre>
-&nbsp;
-
 Above structure has two directories - Sass and CSS. Sass is dedicated to <code>.scss</code> files, where <code>main.scss</code> file will be importing all the other <code>.scss</code> files with <code>@import</code> definition. And finally <code>main.scss</code> will be compiled to <code>main.css</code> into CSS folder as a final output.
 
 <strong>Using `@import` for `main.scss`</strong>
@@ -119,7 +115,7 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 @import 'header';
 @import 'footer';
 // etc</span></code></pre>
-This approach would make your code more manageable
+You may have noticed `.scss` files with underscore ("_")
 <h2>Inheritance or @extend</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
