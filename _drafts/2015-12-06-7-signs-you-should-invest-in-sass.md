@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 16:00:09
+post_date: 2015-12-06 16:24:19
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -115,7 +115,7 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 @import 'header';
 @import 'footer';
 // etc</span></code></pre>
-You may have noticed `.scss` files with underscore ("_")
+You may have noticed `.scss` files with underscore ("_"). These files will be merged in a one file and won't show up in output directory. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
 <h2>Inheritance or @extend</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
@@ -145,4 +145,13 @@ Let's have an example of buttons by assuming 3 variants with colors. So, here
 .btn-error {
     background-color: red;
 }</pre>
-As you can see in above code,
+Also, instead of `.btn` class, we can define through Sass placeholder selector:
+<pre>%btn{
+    padding: 15px;
+    color: #fff;
+}
+.btn-success{
+    @extend %btn;
+    background-color: green;
+}</pre>
+&nbsp;
