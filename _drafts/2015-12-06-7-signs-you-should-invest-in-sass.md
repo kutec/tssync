@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 14:37:57
+post_date: 2015-12-06 15:49:32
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -26,6 +26,8 @@ I remember that when I first heard about Sass, I couldn't convince that why to u
 
 Let's start looking into Sass's most popular features.
 If you have any confusion, kindly add your <a href="/#comments">comment</a> below.
+
+[list icon="icon: check"]
 <ul>
 	<li>Improved Branding</li>
 	<li>Clubbing and Nesting</li>
@@ -35,6 +37,7 @@ If you have any confusion, kindly add your <a href="/#comments">comment</a> belo
 	<li>Functioning</li>
 	<li>Community Aspect</li>
 </ul>
+[/list]
 <h2>Improved Branding</h2>
 Let's assume a project where we have 5 color scheme options and that user can configure from the backend. This is traditional thing for any reputed project. But if we think writing CSS for all the 5 then you can imagine number of lines needs to be written. May be we would consider some properties for all parent and child elements...
 <ul>
@@ -43,8 +46,10 @@ Let's assume a project where we have 5 color scheme options and that user can co
 	<li>Font color</li>
 	<li>Font Family, etc...</li>
 </ul>
-And what if client changes his mind to replace the old color with new one? We have to search the color code and replace all over. OMG! How frustrating!
-<h3>Sass Variable</h3>
+&nbsp;
+
+<strong>And what if client changes his mind to replace the old color with new one</strong>? We have to search the color code and replace all over in files. OMG! How frustrating!
+<h3>The Sass Variable</h3>
 You have facility to define variables in Sass. It is the same concept as in JavaScript.
 
 <strong>Syntax</strong>
@@ -58,15 +63,15 @@ $secondary-color: green;
     background: $primary-color
 }</pre>
 <h2>Clubbing and Nesting</h2>
-From the start, I wanted to write CSS in modular pattern (yes of course, we can add comment blocks and give proper indentation but yet it's not actually the modular). In JavaScript, we can define functions or create modules. And all its respective like properties or variables have limited scope.
+From the start, I wanted to write CSS in modular pattern (yes of course, we can add comment blocks and give proper indentation but yet it's not actually the modular). In JavaScript, we can define functions or create modules. And all its respective like properties or variables have limited scope. In Sass, we can go in a nested way. It's more like clubbing the code into one wrapper.
 
-Many times, we required CSS grouping to give the same CSS properties to multiple elements. But Sass has different grouping mechanism and this is the first thing, attracted me to use Sass! Yes, I started using Sass because it allows nesting flow to define CSS. We can build parent-child relationship with the elements.
+Many times we required CSS grouping to give the same CSS properties to multiple elements. But Sass has different grouping mechanism and this is the first thing, attracted me to use Sass! Yes, I started using Sass because it allows nesting flow to define CSS. We can build parent-child relationship with the elements.
 
 Let's have an example of the Navigation component/element to understand the nesting.
 
 [Tweet "Using #Sass means, thinking of #CSS as a #component."]
 
-Navigation is an essential component for any project. Below is sample CSS to manage the navigation horizontally on a web page.
+Navigation is an essential component for any project. Below is a sample CSS to manage the navigation horizontally on a web page.
 
 <strong>Sample CSS for Navigation</strong>
 <pre>nav{ background: #eee; }
@@ -85,31 +90,36 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
 }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually defined <code>&lt;nav&gt;</code> as a component while <code>&lt;li&gt;</code> and <code>&lt;a&gt;</code> tags are children elements to <code>&lt;nav&gt;</code>.
 <h2>Partials and Importing</h2>
-It is always good to separate CSS code in different files or folder to increase the manageability. Large projects may needed many CSS files based on features and requirements. This kind of separation make it possible to work on a same theme at a time in a big team.
+It is always good to separate CSS code in different files or folder to increase the manageability. Large projects may needed many CSS files based on features of a project. This kind of separation makes sense for developers working on the same theme at a time.
 
-<strong>The Yahoo Home Page</strong>
-
-You must have visited the Yahoo home page. It's a portal, where user can see multiple modules on a page. Let's consider <strong>weather module</strong>. Weather module may require developer to manipulate development need, like API and other core technology related stuff. The same time he might required the UI of weather module for the look and feel perspective. Also, module may have something be handled from client side scripting. So, as a front end developer, if I am working on CSS part, other front end developer may take responsibility of JavaScript or YUI and so on...
-
-If we consider above example, you would have been understood that I am talking about distributed team, where tasks are settled over number of developers for the same module.
+&nbsp;
 <h3>Sass Partials</h3>
-The feature name - partial - itself saying the meaning. Partials means to get separated to manage the stuffs more effectively.
+Sass allows to define code in various files. We can define codes using variables, @extend, @include, etc. in any file to re-use across the application.
 
-In Sass, we can separate <code>.scss</code> files and <code>@import</code> them into one file. Consider below hierarchical structure of the Sass directory:
+This is similar to what we do in CSS to import a file. We can create <code>.scss</code> files and using <code>@import</code> call them into another `<strong>.scss`</strong> file. Consider below hierarchical structure of the Sass directory:
 <pre>Sass (dir)
-|_ header.scss
-|_ footer.scss
-|_ carousel.scss
-|_ navigation.scss
-|_ content.scss
-|_ plugin.scss
-|_ overwrite.scss
+|_ _variables.scss
+|_ _functions.scss
+|_ _header.scss
+|_ _footer.scss
+|_ _navigation.scss
+|_ _content.scss
+|_ _plugin.scss
+|_ _overwrite.scss
 |_ main.scss
 CSS (dir)
 |_ main.css</pre>
+&nbsp;
+
 Above structure has two directories - Sass and CSS. Sass is dedicated to <code>.scss</code> files, where <code>main.scss</code> file will be importing all the other <code>.scss</code> files with <code>@import</code> definition. And finally <code>main.scss</code> will be compiled to <code>main.css</code> into CSS folder as a final output.
 
-As you can see that we will be only getting one CSS file as a CSS output and it also looks more manageable. Such an approach help developers in a distributed team to manage and improve code quality. Also, including one CSS file on a web page will improve performance of overall application than to including multiple files. One should always minimize the CSS once project gets live.
+<strong>Using `@import` for `main.scss`</strong>
+<pre class="highlight scss"><code><span class="k">@import</span> <span class="s1">'variables'</span><span class="p">;
+@import 'functions';
+@import 'header';
+@import 'footer';
+// etc</span></code></pre>
+This approach would make your code more manageable
 <h2>Inheritance or @extend</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
