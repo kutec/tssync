@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 17:05:20
+post_date: 2015-12-06 17:06:39
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
