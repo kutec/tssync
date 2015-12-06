@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 16:24:19
+post_date: 2015-12-06 17:05:20
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -94,7 +94,7 @@ It is always good to separate CSS code in different files or folder to increas
 <h3>Sass Partials</h3>
 Sass allows to define code in various files. We can define codes using variables, @extend, @include, etc. in any file to re-use across the application.
 
-This is similar to what we do in CSS to import a file. We can create <code>.scss</code> files and using <code>@import</code> call them into another `<strong>.scss`</strong> file. Consider below hierarchical structure of the Sass directory:
+This is similar to what we do in CSS to import a file. We can create <code>.scss</code> files and using <code>@import</code> call them into another <code>.scss</code> file. Consider below hierarchical structure of the Sass directory:
 <pre>Sass (dir)
 |_ _variables.scss
 |_ _functions.scss
@@ -109,13 +109,13 @@ CSS (dir)
 |_ main.css</pre>
 Above structure has two directories - Sass and CSS. Sass is dedicated to <code>.scss</code> files, where <code>main.scss</code> file will be importing all the other <code>.scss</code> files with <code>@import</code> definition. And finally <code>main.scss</code> will be compiled to <code>main.css</code> into CSS folder as a final output.
 
-<strong>Using `@import` for `main.scss`</strong>
-<pre class="highlight scss"><code><span class="k">@import</span> <span class="s1">'variables'</span><span class="p">;
+<strong>Using <code>@import</code> for <code>main.scss</code></strong>
+<pre>@import 'variables';
 @import 'functions';
 @import 'header';
 @import 'footer';
-// etc</span></code></pre>
-You may have noticed `.scss` files with underscore ("_"). These files will be merged in a one file and won't show up in output directory. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
+// etc</pre>
+You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
 <h2>Inheritance or @extend</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
@@ -145,7 +145,7 @@ Let's have an example of buttons by assuming 3 variants with colors. So, here
 .btn-error {
     background-color: red;
 }</pre>
-Also, instead of `.btn` class, we can define through Sass placeholder selector:
+Also, instead of <code>.btn</code> class, we can define through Sass placeholder selector:
 <pre>%btn{
     padding: 15px;
     color: #fff;
@@ -154,4 +154,46 @@ Also, instead of `.btn` class, we can define through Sass placeholder selector:
     @extend %btn;
     background-color: green;
 }</pre>
-&nbsp;
+<h2>Function and Include</h2>
+Everyone knows about functions in JavaScript. Sass also facilitated to write code in that direction. To do so we have to follow syntax using <code>@mixin</code> keyword.
+
+<strong>Syntax</strong>
+<pre>@mixin mixin_name(parameter){
+    // code
+}
+.class-name{
+    @include mixin_name(parameter){ // code }
+}</pre>
+Below is an example for <strong>media query <code>@mixin</code></strong>
+<pre>@mixin breakpoint($media){
+    @if $media == xs {
+        @media only screen and (max-width: 480) { @content; }
+    }
+    @else if $media == sm {
+        @media only screen and (max-width: 768) { @content; }
+    }
+    @else if $media == md {
+        @media only screen and (max-width: 960) { @content; }
+    }
+    @else if $media == lg {
+        @media only screen and (max-width: 1170) { @content; }
+    }
+}
+
+// including
+body{
+    font-size: 16px;
+    @include breakpoint(md){
+        font-size: 14px;
+    }
+}</pre>
+<strong>CSS Output</strong>
+<pre>body {
+    font-size: 16px;
+}</pre>
+<pre>@media only screen and (max-width: 960) {
+    body {
+       font-size: 14px;
+    }
+}</pre>
+asdasd
