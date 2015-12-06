@@ -2,19 +2,23 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 09:39:42
+post_date: 2015-12-06 13:08:40
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
 published: false
 ---
-<blockquote>[Tweet "Writing #CSS is easy. But doing same properly and getting by others, is more important."]
+<blockquote>[Tweet "Writing #CSS is an easy task. But doing the same, well understood by others, is more important!"]
 
 <footer><a href="https://twitter.com/manishweb2009" target="_blank">Manish Sharma</a>
 <cite title="If I Use (http://ifiuse.com)"><em>Front end developer</em></cite></footer></blockquote>
-Before you start a project with <a href="http://sass-lang.com/" target="_blank">Sass</a>, you should understand that how it can help for CSS authoring. Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects demand for media query and branding options. From the years of experience, I found Sass as one of the best solution to enhance CSS.
+<a href="http://sass-lang.com/" target="_blank"><img class="alignright wp-image-4482 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/sass-logo.png" alt="Sass Logo" width="250" height="250" /></a><a href="http://sass-lang.com/" target="_blank">Sass</a> is a helpful tool for a front end developer that enhance the flow of writing CSS. In other words, it can be considered as a plugin to generate well formatted CSS output with less time and efforts. But before starting with Sass, one should understand that how it can help in a project because at the end, CSS is the only output. So, if you think, you do not want to go with the trend and spending little more time on managing CSS file then it is up to you.
 
-For big projects, writing pure CSS becomes hectic sometime (especially when, you have numbers of developers working on the same project) and here in, pre-processors comes in a picture. <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">Configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can use tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has <code>@compass</code> built-in, so you can directly start writing Sass with importing of compass at the top of the <code>.scss</code> file.
+Sass stands for "Syntactically Awesome Style Sheets" and people using Sass won't disagree on the statement. Today major projects needed responsive design and multiple color themes, which basically required business logic to deal with it.
+
+&nbsp;
+
+If we assume a large scale project, where the team is distributed across a globe then in such a project, writing pure CSS becomes hectic sometime and I guess except SVN and Github like tools can pre-processors comes in a picture. <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">Configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can use tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has <code>@compass</code> built-in, so you can directly start writing Sass with importing of compass at the top of the <code>.scss</code> file.
 
 This article will focus on some of the most used features of the Sass with some easy-to-understand examples.
 <h2>First Thing First - Why Sass</h2>
@@ -107,13 +111,13 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 
 As you can see that we will be only getting one CSS file as a CSS output and it also looks more manageable. Such an approach help developers in a distributed team to manage and improve code quality. Also, including one CSS file on a web page will improve performance of overall application than to including multiple files. One should always minimize the CSS once project gets live.
 <h2>Inheritance or @extend</h2>
-There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using @extend feature.
+There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
 <blockquote>[Tweet "Extends do not allow customization, but they produce very efficient CSS"]
 
 <footer><a href="http://stackoverflow.com/questions/18008700/using-include-vs-extend-in-sass?answertab=active#tab-top" target="_blank">Andrey Mikhaylov</a>
 Front end developer at Firecracker.me</footer></blockquote>
-Let's have an example of buttons by assuming 3 variants with colors. So, here we have to define a generic class for <strong>.btn </strong>and then you can change properties as per the preference or requirement.
+Let's have an example of buttons by assuming 3 variants with colors. So, here we have to define a generic class for <code>.btn</code> and then you can change properties as per the preference or requirement.
 
 <strong>Sass</strong>
 <pre>.btn{
@@ -135,4 +139,4 @@ Let's have an example of buttons by assuming 3 variants with colors. So, here
 .btn-error {
     background-color: red;
 }</pre>
-&nbsp;
+As you can see in above code,
