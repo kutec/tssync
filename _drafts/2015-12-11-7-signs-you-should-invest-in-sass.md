@@ -2,33 +2,31 @@
 ID: 4419
 post_title: 7 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-06 17:10:11
+post_date: 2015-12-11 14:13:16
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
 published: false
 ---
-<blockquote>[Tweet "Writing #CSS is an easy task. But doing the same, well understood by others, is more important!"]
+<blockquote>[Tweet "Writing #CSS is not a big deal. But doing the same, in well manner is more important!"]
 
 <footer><a href="https://twitter.com/manishweb2009" target="_blank">Manish Sharma</a>
 <cite title="If I Use (http://ifiuse.com)"><em>Front end developer</em></cite></footer></blockquote>
-<a href="http://sass-lang.com/" target="_blank"><img class="alignright wp-image-4482 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/sass-logo.png" alt="Sass Logo" width="250" height="250" /></a><a href="http://sass-lang.com/" target="_blank">Sass</a> is gives complement to your own CSS. It improves the flow of writing CSS. In other words, it can be considered as a plugin or add-on to generate well formatted CSS file with less time and efforts.
+<img class="alignright wp-image-4482 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/sass-logo.png" alt="Sass Logo" width="250" height="250" /><a href="http://sass-lang.com/" target="_blank">Sass</a> is a complement to the CSS. It improves the flow of writing CSS. In other words, it can be considered as a plugin or add-on to generate well formatted CSS file with less time and efforts.
 
-But before starting with Sass, one should understand that how it can help in a project. Because at the end, CSS is the only output. So if you think, the project is small with a short timeline then definitely avoid it. But believe me, once you started using Sass, you won't avoid it.
+But before starting with Sass, one should understand that how it can help in a project. Because at the end, CSS is the only output. So if you think, the project is small with a short timeline then definitely avoid it. But mark my words, once you adopted Sass, you won't be off from it.
 
-Also, <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">configuring Sass</a> isn't a tough job. If you don't want to configure manually then you can go with tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress. Liferay has <code>@compass</code> built-in, so you can directly start writing Sass with importing of compass at the top of the <code>.scss</code> file.
+Also, <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">configuring Sass</a> isn't a tough job. Even you can go with a one of the tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress.
 
-This article will focus on some of the most used features of the Sass with some easy-to-understand examples.
+This article will focus on some of the most used features of the Sass with easy-to-understand examples.
 <h2>First Thing First - Why Sass</h2>
-The CSS is an important asset for any front end developer. And hence, it has to be the way he wanted to be. Sass stands in a popular category as a pre-processor. It can reduce the burden of writing and managing stuffs with some cool techniques. It has set of meaningful features. So, let's jump into it and make our life more easier!
+The CSS is an important asset for any front end developer. And hence, it has to be the way he/she wanted to be.  Sass is one of the solution as a pre-processor. Sass reduces the burden of writing and managing code with some cool techniques. It has set of meaningful features. So, let's jump into it and make our life more easier!
 <h3>What We Can Do with Sass</h3>
 I remember that when I first heard about Sass, I couldn't convince that why to use it when at the end, everything being converted to CSS. But after getting over its features, I would highly recommend it.
 
 Let's start looking into Sass's most popular features.
 If you have any confusion, please add your <a href="#comments">comment</a> below.
-
-[list icon="icon: check"]
-<ul>
+<ol>
 	<li>Improved Branding</li>
 	<li>Clubbing and Nesting</li>
 	<li>Partials and Importing</li>
@@ -36,8 +34,7 @@ If you have any confusion, please add your <a href="#comments">comment</a> below
 	<li>Including</li>
 	<li>Functioning</li>
 	<li>Community Aspect</li>
-</ul>
-[/list]
+</ol>
 <h2>Improved Branding</h2>
 Let's assume a project where we have 5 color scheme options and that user can configure from the backend. This is the traditional thing for any reputed project. But if we think writing CSS for all the 5 then you can imagine number of lines needs to be written. May be we would consider some properties for all parent and child elements...
 <ul>
