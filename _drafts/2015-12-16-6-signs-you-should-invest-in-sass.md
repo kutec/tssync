@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 6 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-16 12:45:30
+post_date: 2015-12-16 13:55:03
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -35,15 +35,13 @@ Please feel free to add your <a href="#comments">comment</a>.
 	<li>Community Aspect</li>
 </ol>
 <h2>Improved Branding</h2>
-Let's assume a project, where we have 5 color schemes that user can configure from the control panel. Can you imagine the number of lines you need to write to achieve 5 different color options using CSS? It would take longer  May be we would consider some properties for all parent and child elements...
+Let's assume a project, where we have 5 color schemes that user can configure from the control panel. <strong>Can you imagine the number of lines you need to write to achieve 5 different color schemes, using CSS?</strong> It will definitely take longer if there is a big hierarchy of selectors. We can count on approximate 150-200 lines. May be we would consider some properties for all parent and child elements...
 <ul>
 	<li>Color Schemes</li>
 	<li>Background color</li>
 	<li>Font color</li>
 	<li>Font Family, etc...</li>
 </ul>
-&nbsp;
-
 <strong>And what if client changes his mind to replace the old color with new one</strong>? We have to search the color code and replace all over in files. OMG! How frustrating!
 <h3>The Sass Variable</h3>
 You have facility to define variables in Sass. It is the same concept as in JavaScript.
@@ -59,11 +57,11 @@ $secondary-color: green;
     background: $primary-color
 }</pre>
 <h2>Clubbing and Nesting</h2>
-From the start, I wanted to write CSS in modular pattern (yes of course, we can add comment blocks and give proper indentation but yet it's not actually the modular). In JavaScript, we can define functions or create modules. And all its properties and variables have limited scope. In Sass, we can go in a nested way. It's more like clubbing the code into one wrapper.
+From the start, I wanted to write CSS in modular pattern (yes of course, we can add comment blocks and give proper indentation but yet it's not actually the modular). In JavaScript, we can define functions or create modules. And all its properties and variables have limited scope. In Sass, we can go in a nested way. It's more like <em>clubbing the code into one wrapper</em>.
 
-Many times we required CSS grouping to give the same CSS properties to multiple elements. But Sass has different grouping mechanism and this is the first thing, attracted me to use Sass! Yes, I started using Sass because it allows nesting flow to define CSS. We can build parent-child relationship with the elements.
+Many times, we required CSS grouping to give the same CSS properties to multiple elements. But Sass has <span style="text-decoration: underline;">different grouping mechanism</span> and this is the first thing, attracted me to use the Sass! We can build parent-child relationship with the elements, nestedly.
 
-Let's have an example of the Navigation component / element to understand the nesting.
+Let's have an example of the Navigation to understand more clearly.
 
 [Tweet "Using #Sass means, thinking of #CSS as a #component."]
 
@@ -86,23 +84,23 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
 }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually defined <code>&lt;nav&gt;</code> as a component while <code>&lt;li&gt;</code> and <code>&lt;a&gt;</code> tags are children elements to <code>&lt;nav&gt;</code>.
 <h2>Partials and Importing</h2>
-It is always good to separate CSS code in different files or folder to increase the manageability. Large projects may need this approach based on features of a project. This kind of separation makes sense for developers working on the same theme at a time.
+It is always good to separate CSS code in different files or folder to increase the manageability. For big projects, such a project can be helpful to manage the code in proper way.
 <h3>Sass Partials</h3>
-Sass allows to define code in various files. We can define codes using variables, @extend, @include, etc. in any file to re-use across the application.
+Sass allows to define code in various files. We can define codes using variables, <code>@extend</code>, <code>@include</code>, etc. in any file to re-use across the application.
 
-This is similar to what we do in CSS to import a file. We can create <code>.scss</code> files and using <code>@import</code> call them into another <code>.scss</code> file. Consider below hierarchical structure of the Sass directory:
+This is similar to what we do in CSS to import other CSS file. In Sass, we can create <code>.scss</code> files and using <code>@import</code>, call them into the other <code>.scss</code> file. Consider below hierarchical structure of the Sass directory:
 <pre>Sass (dir)
-|_ _variables.scss
-|_ _functions.scss
-|_ _header.scss
-|_ _footer.scss
-|_ _navigation.scss
-|_ _content.scss
-|_ _plugin.scss
-|_ _overwrite.scss
-|_ main.scss
+|- _variables.scss
+|- _functions.scss
+|- _header.scss
+|- _footer.scss
+|- _navigation.scss
+|- _content.scss
+|- _plugin.scss
+|- _overwrite.scss
+|- main.scss
 CSS (dir)
-|_ main.css</pre>
+|- main.css</pre>
 Above structure has two directories - Sass and CSS. Sass is dedicated to <code>.scss</code> files, where <code>main.scss</code> file will be importing all the other <code>.scss</code> files with <code>@import</code> definition. And finally <code>main.scss</code> will be compiled to <code>main.css</code> into CSS folder as a final output.
 
 <strong>Using <code>@import</code> for <code>main.scss</code></strong>
@@ -110,8 +108,8 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 @import 'functions';
 @import 'header';
 @import 'footer';
-// etc</pre>
-You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
+// and so on...</pre>
+You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory - CSS. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
 <h2>Inheritance or @extend</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object-oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
