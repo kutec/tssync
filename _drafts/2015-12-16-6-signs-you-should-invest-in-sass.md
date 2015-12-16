@@ -1,8 +1,8 @@
 ---
 ID: 4419
-post_title: 7 Signs You Should Invest In Sass
+post_title: 6 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-11 14:13:16
+post_date: 2015-12-16 12:45:30
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -20,23 +20,22 @@ Also, <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">co
 
 This article will focus on some of the most used features of the Sass with easy-to-understand examples.
 <h2>First Thing First - Why Sass</h2>
-The CSS is an important asset for any front end developer. And hence, it has to be the way he/she wanted to be.  Sass is one of the solution as a pre-processor. Sass reduces the burden of writing and managing code with some cool techniques. It has set of meaningful features. So, let's jump into it and make our life more easier!
+The CSS is an important asset for any front end developer. And hence, it has to be the way he/she wanted to be.  Sass is one of the solution as a pre-processor. It reduces the burden of writing and managing code with some cool features. So, let's jump into it and make our CSS more easier!
 <h3>What We Can Do with Sass</h3>
-I remember that when I first heard about Sass, I couldn't convince that why to use it when at the end, everything being converted to CSS. But after getting over its features, I would highly recommend it.
+I remember that when I first heard about Sass, I couldn't convince that why to use it when at the end, everything is converted to CSS. But after using it for couple of projects, I really saved big amount of time.
 
-Let's start looking into Sass's most popular features.
-If you have any confusion, please add your <a href="#comments">comment</a> below.
+Below are 7 plus points for you to understand Sass in better way.
+Please feel free to add your <a href="#comments">comment</a>.
 <ol>
 	<li>Improved Branding</li>
 	<li>Clubbing and Nesting</li>
 	<li>Partials and Importing</li>
-	<li>Extending</li>
-	<li>Including</li>
-	<li>Functioning</li>
+	<li>Extension</li>
+	<li>Functions</li>
 	<li>Community Aspect</li>
 </ol>
 <h2>Improved Branding</h2>
-Let's assume a project where we have 5 color scheme options and that user can configure from the backend. This is the traditional thing for any reputed project. But if we think writing CSS for all the 5 then you can imagine number of lines needs to be written. May be we would consider some properties for all parent and child elements...
+Let's assume a project, where we have 5 color schemes that user can configure from the control panel. Can you imagine the number of lines you need to write to achieve 5 different color options using CSS? It would take longer  May be we would consider some properties for all parent and child elements...
 <ul>
 	<li>Color Schemes</li>
 	<li>Background color</li>
@@ -177,7 +176,7 @@ Below is an example for <strong>media query <code>@mixin</code></strong>
     }
 }
 
-// including
+// including mixin
 body{
     font-size: 16px;
     @include breakpoint(md){
@@ -187,8 +186,9 @@ body{
 <strong>CSS Output</strong>
 <pre>body {
     font-size: 16px;
-}</pre>
-<pre>@media only screen and (max-width: 960) {
+}
+
+@media only screen and (max-width: 960) {
     body {
        font-size: 14px;
     }
