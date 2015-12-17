@@ -2,7 +2,7 @@
 ID: 4419
 post_title: 6 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-16 13:55:03
+post_date: 2015-12-17 13:24:28
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4419
@@ -84,9 +84,9 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
 }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually defined <code>&lt;nav&gt;</code> as a component while <code>&lt;li&gt;</code> and <code>&lt;a&gt;</code> tags are children elements to <code>&lt;nav&gt;</code>.
 <h2>Partials and Importing</h2>
-It is always good to separate CSS code in different files or folder to increase the manageability. For big projects, such a project can be helpful to manage the code in proper way.
+It is always good to separate CSS code in different files or folder to increase the manageability. For big projects, such an approach can be helpful to manage the code in better way.
 <h3>Sass Partials</h3>
-Sass allows to define code in various files. We can define codes using variables, <code>@extend</code>, <code>@include</code>, etc. in any file to re-use across the application.
+Sass allows to define code in various files. We can make meaningful separations of the code using variables, <code>@extend</code>, <code>@include</code>, etc. in and re-use them across the application.
 
 This is similar to what we do in CSS to import other CSS file. In Sass, we can create <code>.scss</code> files and using <code>@import</code>, call them into the other <code>.scss</code> file. Consider below hierarchical structure of the Sass directory:
 <pre>Sass (dir)
@@ -109,9 +109,9 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 @import 'header';
 @import 'footer';
 // and so on...</pre>
-You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory - CSS. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of definitions of re-usable code.
+You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory - CSS. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of references to be used in other files.
 <h2>Inheritance or @extend</h2>
-There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object-oriented programming approach know as Inheritance. The same thing we can do in Sass, using <code>@extend</code> feature.
+There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object-oriented programming approach known as Inheritance. The same thing we can do in Sass using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
 <blockquote>[Tweet "Extends do not allow customization, but they produce very efficient CSS"]
 
@@ -127,9 +127,13 @@ Let's have an example of buttons by assuming 3 variants with colors. So, here
 .btn-success{
     @extend .btn;
     background-color: green;
+}
+.btn-error{
+    @extend .btn;
+    background-color: red;
 }</pre>
 <strong>CSS Output</strong>
-<pre>.btn, .btn-success {
+<pre>.btn, .btn-success, .btn-error {
     padding: 15px;
     color: #fff;
 }
@@ -149,7 +153,7 @@ Also, instead of <code>.btn</code> class, we can define through Sass placeholder
     background-color: green;
 }</pre>
 <h2>Function and Include</h2>
-Everyone knows about functions in JavaScript. Sass also facilitated to write code in that direction. To do so we have to follow syntax using <code>@mixin</code> keyword.
+Everyone knows about functions in JavaScript. Sass also facilitated to write code in that direction. To do so, we have to follow <code>@mixin</code>.
 
 <strong>Syntax</strong>
 <pre>@mixin mixin_name(parameter){
@@ -191,4 +195,5 @@ body{
        font-size: 14px;
     }
 }</pre>
-asdasd
+<h2>Community Aspect</h2>
+Sass's <a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html" target="_blank">official documentation</a> is well maintained. Also, it has large adoption ration, so if you stuck somewhere, don't bother, Google your query and you will be getting it fixed.
