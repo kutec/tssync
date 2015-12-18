@@ -2,40 +2,30 @@
 ID: 4419
 post_title: 6 Signs You Should Invest In Sass
 author: Kushal Jayswal
-post_date: 2015-12-17 15:17:20
-post_excerpt: ""
+post_date: 2015-02-18 07:59:56
+post_excerpt: "Sass is a complement to the CSS. It improves the flow of writing CSS. In other words, it can consider as a plugin or add-on to generate well formatted CSS file with less time and efforts. This article will cover Sass's most used features with examples."
 layout: post
-permalink: http://teckstack.com/?p=4419
-published: false
+permalink: http://teckstack.com/6-signs-invest-sass
+published: true
 ---
-<blockquote>[Tweet "Writing #CSS is not a big deal. But doing the same, in well manner is more important!"]
+[Tweet "Writing #CSS is not a big deal. But doing the same, in better way is more important!"]
 
-<footer><a href="https://twitter.com/manishweb2009" target="_blank">Manish Sharma</a>
-<cite title="If I Use (http://ifiuse.com)"><em>Front end developer</em></cite></footer></blockquote>
-<img class="alignright wp-image-4482 size-full" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/sass-logo.png" alt="Sass Logo" width="250" height="250" /><a href="http://sass-lang.com/" target="_blank">Sass</a> is a complement to the CSS. It improves the flow of writing CSS. In other words, it can be considered as a plugin or add-on to generate well formatted CSS file with less time and efforts.
+<a href="http://sass-lang.com/" target="_blank">Sass</a> is a complement to the CSS. It improves the flow of writing CSS. In other words, it can consider as a plugin or add-on to generate well formatted CSS file with less time and efforts.
 
-But before starting with Sass, one should understand that how it can help in a project. Because at the end, CSS is the only output. So if you think, the project is small with a short timeline then definitely avoid it. But mark my words, once you adopted Sass, you won't be off from it.
+But before starting with Sass, one should understand that how it can help in a project. Because at the end, CSS is the only output. So if you think, the project is small with a short timeline then definitely avoid it. But once you become familiar with Sass, you would not ignore it for the future project.
 
 Also, <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">configuring Sass</a> isn't a tough job. Even you can go with a one of the tools listed on the site. I use <a href="http://mhs.github.io/scout-app/" target="_blank">Scout</a> for HTML projects and <a href="https://wordpress.org/plugins/wp-scss/" target="_blank">WP-SCSS</a> for WordPress.
 
 This article will focus on some of the most used features of the Sass with easy-to-understand examples.
 <h2>First Thing First - Why Sass</h2>
-The CSS is an important asset for any front end developer. And hence, it has to be the way he/she wanted to be.  Sass is one of the solution as a pre-processor. It reduces the burden of writing and managing code with some cool features. So, let's jump into it and make our CSS more easier!
+The CSS is an important asset for any front end developer. And hence, it has to be the way he/she wants.  Sass is one of the solution as a pre-processor. It reduces the burden of writing and managing code with some cool features. So, let's jump into it and make our CSS more easier!
 <h3>What We Can Do with Sass</h3>
 I remember that when I first heard about Sass, I couldn't convince that why to use it when at the end, everything is converted to CSS. But after using it for couple of projects, I really saved big amount of time.
 
-Below are 7 plus points for you to understand Sass in better way.
+Below are 7 Sass features to understand Sass in better way.
 Please feel free to add your <a href="#comments">comment</a>.
-<ol>
-	<li>Improved Branding</li>
-	<li>Clubbing and Nesting</li>
-	<li>Partials and Importing</li>
-	<li>Extension</li>
-	<li>Functions</li>
-	<li>Community Aspect</li>
-</ol>
 <h2>Improved Branding</h2>
-Let's assume a project, where we have 5 color schemes that user can configure from the control panel. <strong>Can you imagine the number of lines you need to write to achieve 5 different color schemes, using CSS?</strong> It will definitely take longer if there is a big hierarchy of selectors. We can count on approximate 150-200 lines. May be we would consider some properties for all parent and child elements...
+Let's assume a project, where we have 5 color schemes that user can configure from the control panel. <strong>Can you imagine the number of lines you need to write to make 5 different color schemes, using CSS?</strong> It will definitely take longer if there is a big hierarchy of selectors. We can count on about 150-200 lines. May be we would consider some properties for all parent and child elements...
 <ul>
 	<li>Color Schemes</li>
 	<li>Background color</li>
@@ -48,7 +38,7 @@ You have facility to define variables in Sass. It is the same concept as in Java
 
 <strong>Syntax</strong>
 <pre>$variableName: value;</pre>
-Variable increases the efficiency. Like in above discussion where we have 5 color options to be configured as a branding options, you can define 5 different variables and assign color properties to each. So in future, if you have to change any color for branding, you can simply change variable's value and it will affect the color for all CSS where the same variable has been used.
+Variable increases the efficiency. Like in above discussion where we have 5 color options to be configured as a branding options, you can define 5 different variables and assign color properties to each. So in future, if you have to change any color for branding, you can simply change variable's value and it will affect the color for all CSS where the same variables have used.
 
 <strong>Example</strong>
 <pre>$primary-color: blue;
@@ -65,7 +55,7 @@ Let's have an example of the Navigation to understand more clearly.
 
 [Tweet "Using #Sass means, thinking of #CSS as a #component."]
 
-Navigation is an essential component for any project. Below is a sample CSS to manage the navigation horizontally on a web page.
+The <strong>navigation</strong> is an essential part for any project. Below is a sample CSS to manage the navigation horizontally on a web page.
 
 <strong>Sample CSS for Navigation</strong>
 <pre>nav{ background: #eee; }
@@ -84,7 +74,7 @@ nav li a{ display: block; padding: 5px 10px; }</pre>
 }</pre>
 As you can see in above Sass snippet, the code is more readable and we have actually defined <code>&lt;nav&gt;</code> as a component while <code>&lt;li&gt;</code> and <code>&lt;a&gt;</code> tags are children elements to <code>&lt;nav&gt;</code>.
 <h2>Partials and Importing</h2>
-It is always good to separate CSS code in different files or folder to increase the manageability. For big projects, such an approach can be helpful to manage the code in better way.
+It is always good to separate CSS code in different files or folder to increase the manageability. For big projects, such an approach is helpful to manage the code in better way.
 <h3>Sass Partials</h3>
 Sass allows to define code in various files. We can make meaningful separations of the code using variables, <code>@extend</code>, <code>@include</code>, etc. in and re-use them across the application.
 
@@ -110,7 +100,7 @@ Above structure has two directories - Sass and CSS. Sass is dedicated to <code
 @import 'footer';
 // and so on...</pre>
 You may have noticed <code>.scss</code> files with underscore ("_"). These files will be merged in a one file and won't show up in output directory - CSS. Also, the order of the partials matters. Likewise, variables and functions files, that must be at the top because these files consist of references to be used in other files.
-<h2>Inheritance or @extend</h2>
+<h2>Extension with Class and Placeholder</h2>
 There is a concept in JavaScript, where we can extend the functionality of existing object. This is in object-oriented programming approach known as Inheritance. The same thing we can do in Sass using <code>@extend</code> feature.
 <pre>@extend .some-class<span class="token punctuation">;</span></pre>
 <blockquote>[Tweet "Extends do not allow customization, but they produce very efficient CSS"]
@@ -197,3 +187,11 @@ body{
 }</pre>
 <h2>Community Aspect</h2>
 Sass's <a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html" target="_blank">official documentation</a> is well maintained. Also, it has large adoption ration, so if you stuck somewhere, don't bother, Google your query and you will be getting it fixed.
+<h3>Conclusion</h3>
+To sum up, the Sass is just a tool to help in regular projects and it helps to reduce some burden of front end developer. But counting on Sass features, big projects' CSS can be managed and written in very well manner. Also, the <a href="http://teckstack.com/how-to-configure-sass-for-html-projects">configuration for Sass</a> is not that tough. <a href="https://www.liferay.com/" target="_blank">Liferay</a> like CMS has Sass built-in. It has big adoption ratio and larger community as a helping hand. Moreover, if you have any question, feel free to <a href="#comments">comment below</a>.
+<h4>External Resources</h4>
+<ul>
+	<li><a href="http://sassmeister" target="_blank">Sass Meister</a> - An editor that instantly compiles Sass to CSS, so you can see the output with no-time</li>
+	<li><a href="http://thesassway.com/" target="_blank">The Sass Way</a> - Tips and Easy to use Sass snippets helpful in real projects</li>
+	<li><a href="http://stackoverflow.com/questions/tagged/sass" target="_blank">Stack Overflow</a> - Q&amp;A Community</li>
+</ul>
