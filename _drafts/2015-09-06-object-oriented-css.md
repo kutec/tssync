@@ -1,6 +1,6 @@
 ---
 ID: 4094
-post_title: A Though on Object Oriented CSS
+post_title: A Thought on Object Oriented CSS
 author: TeckStack Admin
 post_date: 2015-09-06 13:35:54
 post_excerpt: ""
