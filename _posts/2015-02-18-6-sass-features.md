@@ -5,7 +5,7 @@ author: Kushal Jayswal
 post_date: 2015-02-18 07:59:56
 post_excerpt: "Sass is a complement to the CSS. It improves the flow of writing CSS. In other words, it can consider as a plugin or add-on to generate well formatted CSS file with less time and efforts. This article will cover Sass's most used features with examples."
 layout: post
-permalink: http://teckstack.com/6-signs-invest-sass
+permalink: http://teckstack.com/6-sass-features
 published: true
 ---
 [Tweet "Writing #CSS is not a big deal. But doing the same, in better way is more important!"]
