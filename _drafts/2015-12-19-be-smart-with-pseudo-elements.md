@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:32:13
+post_date: 2015-12-19 10:32:32
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -36,4 +36,4 @@ We can use <strong>:active</strong> and <strong>:before</strong> elements toget
 
 <div class="col-md-6"><iframe width="100%" height="200" src="//jsfiddle.net/k1270bkr/embedded/result,css,html" allowfullscreen="allowfullscreen" frameborder="0"></iframe></div>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/p8gkthoe/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<div class="col-md-6"><iframe width="100%" height="300" src="//jsfiddle.net/p8gkthoe/embedded/result,css,html" allowfullscreen="allowfullscreen" frameborder="0"></iframe></div>
