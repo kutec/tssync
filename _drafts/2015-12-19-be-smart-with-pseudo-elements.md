@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:48:14
+post_date: 2015-12-19 09:48:34
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -23,6 +23,6 @@ Above example is showing use of <strong>:before</strong>. But, I am sure that yo
 
 [caption id="attachment_4657" align="alignright" width="300"]<img class="alignnone size-medium wp-image-4657" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/2-smartquotes.jpg" alt="Quoted Statement" width="300" height="218" /> Advertisement Placeholder[/caption]
 
-The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing use to emphasize text block, which needs extra 1 or 2 elements for appropriate styling - to add double quote (").
+The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing use to emphasize text block, which needs extra 1 or 2 elements for appropriate styling - to add double quote (<em>"</em>).
 
-&nbsp;
+If we are not using
