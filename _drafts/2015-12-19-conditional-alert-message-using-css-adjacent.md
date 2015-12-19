@@ -1,8 +1,10 @@
 ---
 ID: 4755
-post_title: Conditional Alert Message us
+post_title: >
+  Conditional Alert Message with CSS
+  Adjacent
 author: Kushal Jayswal
-post_date: 2015-12-19 19:26:22
+post_date: 2015-12-19 19:27:38
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
