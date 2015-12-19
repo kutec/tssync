@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:45:58
+post_date: 2015-12-19 09:46:20
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -21,6 +21,6 @@ Beside image , "Advertisement Placeholder" is a real screenshot of <a href="
 <iframe src="//jsfiddle.net/ft6syjvL/embedded/result,css" width="100%" height="300" frameborder="0"></iframe>
 Above example is showing use of <strong>:before</strong>. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and <strong>:after</strong> together.
 
-The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing are the emphasized text block, which needs minimum 3 elements for appropriate styling.
+The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing use to emphasize text block, which needs minimum 3 elements for appropriate styling.
 
 &nbsp;
