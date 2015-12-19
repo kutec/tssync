@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 08:51:57
+post_date: 2015-12-19 08:52:01
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
