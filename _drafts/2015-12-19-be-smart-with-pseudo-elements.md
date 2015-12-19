@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:37:10
+post_date: 2015-12-19 10:37:30
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -34,7 +34,9 @@ If we are not using pseudo element then we might need below structure.
 
 We can use <strong>:active</strong> and <strong>:before</strong> elements together for an element. Below is a demo that how can we do so.
 <div class="col-md-6">
-<strong>With extra</strong>
+<strong>Extra Elements</strong>
 <iframe src="//jsfiddle.net/k1270bkr/1/embedded/result,css,html/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<div class="col-md-6"><iframe src="https://jsfiddle.net/p8gkthoe/1/embedded/result,css,html/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="col-md-6">
+<strong>Extra P</strong>
+<iframe src="https://jsfiddle.net/p8gkthoe/1/embedded/result,css,html/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 sdfsdf
