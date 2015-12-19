@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 08:50:45
+post_date: 2015-12-19 08:51:39
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -17,13 +17,10 @@ Set of<strong> </strong>the<strong> pseudo element</strong> is one of the CSS
 Let's assume a real time example, where we have <strong>multiple sections to show advertise for a Blog</strong>. Most of the time, such ads may be coming up dynamically, where do not have flexibility to modify the code.
 
 "Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading "Sponsors", we can add using pseudo element.
-<div class="styles-section-title styles-selector">
-<div><span class="selector"><span class="simple-selector selector-matches">#wp125adwrap_2c:before</span></span> {</div>
-<div><span class="webkit-css-property">    content</span>: <span class="value">"Sponsors"</span>;</div>
-<div><span class="webkit-css-property">    font-size</span>: <span class="value">24px</span>;</div>
-<div><span class="webkit-css-property">    padding</span>: <span class="value styles-panel-hovered">0 5px</span>;</div>
-<div><span class="webkit-css-property">    margin-top</span>: <span class="value">20px</span>;</div>
-<div><span class="webkit-css-property">    margin-bottom</span>: <span class="value">10px</span>;</div>
-</div>
-<div>}</div>
-&nbsp;
+<pre>#wp125adwrap_2c:before {
+    content: "Sponsors";
+    font-size: 24px;
+    padding: 0 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}</pre>
