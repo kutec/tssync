@@ -1,10 +1,8 @@
 ---
 ID: 4755
-post_title: >
-  Showing Up Alert Message Using CSS
-  Adjacent
+post_title: Conditional Alert Message us
 author: Kushal Jayswal
-post_date: 2015-12-19 19:25:07
+post_date: 2015-12-19 19:26:22
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
