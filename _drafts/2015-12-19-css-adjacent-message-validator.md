@@ -1,8 +1,8 @@
 ---
 ID: 4755
-post_title: CSS Adjacent Message Validator
+post_title: CSS Adjacent Alert message
 author: Kushal Jayswal
-post_date: 2015-12-19 19:23:51
+post_date: 2015-12-19 19:24:09
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
