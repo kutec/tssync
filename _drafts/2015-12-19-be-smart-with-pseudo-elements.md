@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:34:59
+post_date: 2015-12-19 09:37:10
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -22,3 +22,5 @@ Beside image , "Advertisement Placeholder" is a real screenshot of <a href="
 Above example is showing use of <strong>:before</strong>. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and <strong>:after</strong> together.
 
 The most common example is the quoted statements on a web page.
+
+&nbsp;
