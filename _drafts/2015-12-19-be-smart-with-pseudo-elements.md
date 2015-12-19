@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:46:20
+post_date: 2015-12-19 09:46:46
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -20,6 +20,8 @@ Beside image , "Advertisement Placeholder" is a real screenshot of <a href="
 <h2>:Before</h2>
 <iframe src="//jsfiddle.net/ft6syjvL/embedded/result,css" width="100%" height="300" frameborder="0"></iframe>
 Above example is showing use of <strong>:before</strong>. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and <strong>:after</strong> together.
+
+[caption id="attachment_4657" align="alignnone" width="550"]<img class="alignnone size-full wp-image-4657" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/2-smartquotes.jpg" alt="Quoted Statement" width="550" height="400" /> Quoted Statement[/caption]
 
 The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing use to emphasize text block, which needs minimum 3 elements for appropriate styling.
 
