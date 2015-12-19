@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:42:57
+post_date: 2015-12-19 10:43:16
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -30,7 +30,7 @@ If we are not using pseudo element then we might need below structure.
     &lt;span class="first-quote"&gt;&lt;/span&gt;
     &lt;span class="last-quote"&gt;&lt;/span&gt;
 &lt;/blockquote&gt;</pre>
-<code>&lt;blockquote&gt; </code>tag used for a quoted statement. But this is just another tag as <code>&lt;div&gt;</code>. And hence we required extra tags as mentioned in above code to add "double quotes" as in the image above. Of course, we can use <strong>&lt;span&gt;</strong> tags without classes and go with <strong>:first-child</strong> and <strong>:last-child</strong> instead. But that is again the same thing, adding up two extra tags. So, what is the solution?
+<code>&lt;blockquote&gt; </code>tag used for a quoted statement. But this is just another tag as <code>&lt;div&gt;</code>. And hence we required extra tags as mentioned in above code to add "double quotes" as in the image above. Of course, we can use <code>&lt;span&gt;</code> tags without classes and go with <strong>:first-child</strong> and <strong>:last-child</strong> instead. But that is again the same thing, adding up two extra tags. So, what is the solution?
 
 We can use <strong>:active</strong> and <strong>:before</strong> elements together for an element. Below is a demo that how can we do so.
 <div class="col-md-6"><strong>Extra Elements</strong>
