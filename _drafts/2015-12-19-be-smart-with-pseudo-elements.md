@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:38:52
+post_date: 2015-12-19 09:39:13
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -23,6 +23,4 @@ Above example is showing use of <strong>:before</strong>. But, I am sure that yo
 
 The most common example is the quoted statements on a web page.
 
-&nbsp;
-
-[caption id="attachment_4657" align="alignleft" width="300"]<img class="alignnone size-medium wp-image-4657" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/2-smartquotes.jpg" alt="Quoted Statement" width="300" height="218" /> Advertisement Placeholder[/caption]
+[caption id="attachment_4657" align="alignright" width="300"]<img class="alignnone size-medium wp-image-4657" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/2-smartquotes.jpg" alt="Quoted Statement" width="300" height="218" /> Advertisement Placeholder[/caption]
