@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 08:45:48
+post_date: 2015-12-19 08:46:07
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -16,4 +16,4 @@ Set of<strong> </strong>the<strong> pseudo element</strong> is one of the CSS
 
 Let's assume a real time example, where we have <strong>multiple sections to show advertise for a Blog</strong>. Most of the time, such ads may be coming up dynamically, where do not have flexibility to modify the code.
 
-"Advertisement Placeholder" is a real screenshot of <a href="teckstack.com">this blog</a>.
+"Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading
