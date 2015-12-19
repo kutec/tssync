@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:33:59
+post_date: 2015-12-19 09:34:19
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -19,4 +19,6 @@ Let's assume a real time example, where we have <strong>multiple sections to sh
 Beside image , "Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading "Sponsors", we can add using pseudo element.
 <h2>:Before</h2>
 <iframe src="//jsfiddle.net/ft6syjvL/embedded/result,css" width="100%" height="300" frameborder="0"></iframe>
-Above example is showing use of :before. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and :after together.
+Above example is showing use of <strong>:before</strong>. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and <strong>:after</strong> together.
+
+The most common exmapl
