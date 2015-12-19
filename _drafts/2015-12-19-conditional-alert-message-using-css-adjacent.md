@@ -4,10 +4,10 @@ post_title: >
   Conditional Alert Message with CSS
   Adjacent
 author: Kushal Jayswal
-post_date: 2015-12-19 19:30:23
+post_date: 2015-12-19 19:32:43
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
 published: false
 ---
-CSS adjacent is one of the CSS selector
+<a href="http://www.w3.org/TR/CSS21/selector.html#adjacent-selectors" target="_blank">CSS adjacent</a> is one of the CSS selector
