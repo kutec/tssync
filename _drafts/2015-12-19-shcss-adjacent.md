@@ -1,8 +1,8 @@
 ---
 ID: 4755
-post_title: CSS Adjustan
+post_title: ShCSS Adjacent
 author: Kushal Jayswal
-post_date: 2015-12-19 19:17:42
+post_date: 2015-12-19 19:20:39
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
