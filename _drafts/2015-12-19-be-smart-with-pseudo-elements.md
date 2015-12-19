@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:50:22
+post_date: 2015-12-19 09:50:45
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -26,10 +26,8 @@ Above example is showing use of <strong>:before</strong>. But, I am sure that yo
 The common example is the <strong>quoted statements</strong> or testimonials on a web page. Such a thing use to emphasize text block, which needs extra 1 or 2 elements for appropriate styling - to add double quote (<em>"</em>).
 
 If we are not using pseudo element then we might need below structure.
-
-&lt;blockquote&gt;
-&lt;span class="first-quote"&gt;&lt;/span&gt;
-&lt;span class="last-quote"&gt;&lt;/span&gt;
-&lt;/blockquote&gt;
-
+<pre>&lt;blockquote&gt;
+    &lt;span class="first-quote"&gt;&lt;/span&gt;
+    &lt;span class="last-quote"&gt;&lt;/span&gt;
+&lt;/blockquote&gt;</pre>
 sdasdasd
