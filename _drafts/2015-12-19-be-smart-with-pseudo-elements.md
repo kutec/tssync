@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:58:56
+post_date: 2015-12-19 09:59:17
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -30,4 +30,4 @@ If we are not using pseudo element then we might need below structure.
     &lt;span class="first-quote"&gt;&lt;/span&gt;
     &lt;span class="last-quote"&gt;&lt;/span&gt;
 &lt;/blockquote&gt;</pre>
-<strong>&lt;blockquote&gt; </strong>tag used for a quoted statement. But this is just another tag like <strong>&lt;div&gt;</strong>. And hence we required extra tag as
+<strong>&lt;blockquote&gt; </strong>tag used for a quoted statement. But this is just another tag like <strong>&lt;div&gt;</strong>. And hence we required extra tag as mentioned in above code
