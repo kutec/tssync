@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:10:57
+post_date: 2015-12-19 09:11:18
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -18,5 +18,5 @@ Let's assume a real time example, where we have <strong>multiple sections to sh
 
 Beside image , "Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading "Sponsors", we can add using pseudo element.
 
-Demo
+:Before Pue
 <iframe src="//jsfiddle.net/ft6syjvL/embedded/result,css" width="100%" height="300" frameborder="0"></iframe>
