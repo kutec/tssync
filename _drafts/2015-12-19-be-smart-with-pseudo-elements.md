@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 08:53:08
+post_date: 2015-12-19 08:53:29
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -24,4 +24,4 @@ Let's assume a real time example, where we have <strong>multiple sections to sh
     margin-top: 20px;
     margin-bottom: 10px;
 }</pre>
-Above
+&nbsp;
