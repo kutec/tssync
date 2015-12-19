@@ -2,15 +2,15 @@
 ID: 4506
 post_title: Be Smart with CSS Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 13:34:15
+post_date: 2015-12-19 14:19:18
 post_excerpt: >
   Set of the CSS pseudo element is one of
   the CSS selector, which is actually not
   a part of DOM tree. Such elements opens
   the doors for extra stylings.
 layout: post
-permalink: http://teckstack.com/?p=4506
-published: false
+permalink: http://teckstack.com/css-pseudo-elements
+published: true
 ---
 CSS holds the power to apply the styles on the HTML elements. These elements are part of the DOM tree structure. We can directly apply styles to the DOM elements but in CSS, we have various selectors to keep up consistent styling across the application. Set of the<strong> <a href="http://www.w3.org/TR/css3-selectors/#pseudo-elements" target="_blank">CSS pseudo element</a></strong> is one of the CSS selector, which is actually not a part of DOM tree. Such elements opens the doors for extra stylings.
 
