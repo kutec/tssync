@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:40:57
+post_date: 2015-12-19 10:41:19
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -19,7 +19,7 @@ Let's assume a real time example, where we have <strong>multiple sections to sh
 Beside image , "Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading "Sponsors", we can add using pseudo element.
 <h2>:before</h2>
 <iframe src="//jsfiddle.net/ft6syjvL/embedded/result,css" width="100%" height="300" frameborder="0"></iframe>
-Above example is showing use of <strong>:before</strong>. But, I am sure that you must come across a requirement, where you have to use <strong>:before</strong> and <strong>:after</strong> together.
+Above example is showing use of <code>:before</code>. But, I am sure that you must come across a requirement, where you have to use <code>:before</code> and <strong>:after</strong> together.
 <h2>:before and :after Together</h2>
 [caption id="attachment_4657" align="alignright" width="300"]<img class="alignnone size-medium wp-image-4657" src="http://teckstack.com/tsdir/wp-content/uploads/2015/12/2-smartquotes.jpg" alt="Quoted Statement" width="300" height="218" /> Quoted Statement[/caption]
 
