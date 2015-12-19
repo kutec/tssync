@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:54:09
+post_date: 2015-12-19 09:54:29
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -30,4 +30,4 @@ If we are not using pseudo element then we might need below structure.
     &lt;span class="first-quote"&gt;&lt;/span&gt;
     &lt;span class="last-quote"&gt;&lt;/span&gt;
 &lt;/blockquote&gt;</pre>
-&lt;blockquote&gt;.is special tag used to
+<strong>&lt;blockquote&gt;</strong>.used to for
