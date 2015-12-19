@@ -4,10 +4,10 @@ post_title: >
   Conditional Alert Message with CSS
   Adjacent
 author: Kushal Jayswal
-post_date: 2015-12-19 19:32:43
+post_date: 2015-12-19 19:33:58
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4755
 published: false
 ---
-<a href="http://www.w3.org/TR/CSS21/selector.html#adjacent-selectors" target="_blank">CSS adjacent</a> is one of the CSS selector
+<a href="http://www.w3.org/TR/CSS21/selector.html#adjacent-selectors" target="_blank">CSS adjacent</a> is one of the CSS selector use to apply style if the cond
