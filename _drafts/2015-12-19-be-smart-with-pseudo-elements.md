@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:08:06
+post_date: 2015-12-19 10:08:26
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -30,4 +30,6 @@ If we are not using pseudo element then we might need below structure.
     &lt;span class="first-quote"&gt;&lt;/span&gt;
     &lt;span class="last-quote"&gt;&lt;/span&gt;
 &lt;/blockquote&gt;</pre>
-<strong>&lt;blockquote&gt; </strong>tag used for a quoted statement. But this is just another tag as <strong>&lt;div&gt;</strong>. And hence we required extra tags as mentioned in above code to add "double quotes" as in the image above. Of course, we can use <strong>&lt;span&gt;</strong> tags without classes and go with <strong>:first-child</strong> and <strong>:last-child</strong> instead. But that is again the same thing, adding up two extra tags. So, what is the solut
+<strong>&lt;blockquote&gt; </strong>tag used for a quoted statement. But this is just another tag as <strong>&lt;div&gt;</strong>. And hence we required extra tags as mentioned in above code to add "double quotes" as in the image above. Of course, we can use <strong>&lt;span&gt;</strong> tags without classes and go with <strong>:first-child</strong> and <strong>:last-child</strong> instead. But that is again the same thing, adding up two extra tags. So, what is the solution?
+
+We have
