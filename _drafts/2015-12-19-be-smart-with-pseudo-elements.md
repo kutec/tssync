@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:35:31
+post_date: 2015-12-19 10:35:50
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -33,6 +33,6 @@ If we are not using pseudo element then we might need below structure.
 <strong>&lt;blockquote&gt; </strong>tag used for a quoted statement. But this is just another tag as <strong>&lt;div&gt;</strong>. And hence we required extra tags as mentioned in above code to add "double quotes" as in the image above. Of course, we can use <strong>&lt;span&gt;</strong> tags without classes and go with <strong>:first-child</strong> and <strong>:last-child</strong> instead. But that is again the same thing, adding up two extra tags. So, what is the solution?
 
 We can use <strong>:active</strong> and <strong>:before</strong> elements together for an element. Below is a demo that how can we do so.
-<div class="col-md-6"><iframe src="https://jsfiddle.net/k1270bkr/1/embedded/result/" width="100%" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="col-md-6"><iframe src="//jsfiddle.net/k1270bkr/1/embedded/result,css,html/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <div class="col-md-6"><iframe src="//jsfiddle.net/p8gkthoe/embedded/result,css,html" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 sdfsdf
