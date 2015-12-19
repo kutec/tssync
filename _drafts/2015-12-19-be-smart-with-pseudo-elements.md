@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 08:53:29
+post_date: 2015-12-19 09:05:59
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -17,11 +17,4 @@ Set of<strong> </strong>the<strong> pseudo element</strong> is one of the CSS
 Let's assume a real time example, where we have <strong>multiple sections to show advertise for a Blog</strong>. Most of the time, such ads may be coming up dynamically, where do not have flexibility to modify the code.
 
 "Advertisement Placeholder" is a real screenshot of <a href="http://teckstack.com">this blog</a>. The heading "Sponsors", we can add using pseudo element.
-<pre>#wp125adwrap_2c:before {
-    content: "Sponsors";
-    font-size: 24px;
-    padding: 0 5px;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}</pre>
-&nbsp;
+<iframe src="//jsfiddle.net/ft6syjvL/embedded/" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
