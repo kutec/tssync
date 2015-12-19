@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 09:49:22
+post_date: 2015-12-19 09:49:42
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -28,5 +28,5 @@ The common example is the <strong>quoted statements</strong> or testimonials o
 If we are not using pseudo element then we might need below structure.
 
 &lt;div&gt;
-&lt;span&gt;&lt;/
+&lt;span class=""&gt;&lt;/span&gt;
 &lt;/div&gt;
