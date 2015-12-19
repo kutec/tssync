@@ -2,7 +2,7 @@
 ID: 4506
 post_title: Be Smart with Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 10:12:04
+post_date: 2015-12-19 10:24:34
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4506
@@ -34,4 +34,4 @@ If we are not using pseudo element then we might need below structure.
 
 We can use <strong>:active</strong> and <strong>:before</strong> elements together for an element. Below is a demo that how can we do so.
 
-&nbsp;
+<iframe width="100%" height="300" src="//jsfiddle.net/k1270bkr/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
