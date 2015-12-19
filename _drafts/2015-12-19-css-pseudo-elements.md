@@ -2,15 +2,17 @@
 ID: 4506
 post_title: Be Smart with CSS Pseudo Elements
 author: Kushal Jayswal
-post_date: 2015-12-19 13:24:56
-post_excerpt: ""
+post_date: 2015-12-19 13:34:15
+post_excerpt: >
+  Set of the CSS pseudo element is one of
+  the CSS selector, which is actually not
+  a part of DOM tree. Such elements opens
+  the doors for extra stylings.
 layout: post
 permalink: http://teckstack.com/?p=4506
 published: false
 ---
-CSS holds the power to apply the styles on the HTML elements. These elements are part of the DOM tree structure. We can directly apply styles to the DOM elements but in CSS, we have various selectors to keep up consistent styling across the application.
-
-Set of the<strong> <a href="http://www.w3.org/TR/css3-selectors/#pseudo-elements" target="_blank">pseudo element</a></strong> is one of the CSS selector, which is actually not a part of DOM tree. Such elements opens the doors for extra stylings.
+CSS holds the power to apply the styles on the HTML elements. These elements are part of the DOM tree structure. We can directly apply styles to the DOM elements but in CSS, we have various selectors to keep up consistent styling across the application. Set of the<strong> <a href="http://www.w3.org/TR/css3-selectors/#pseudo-elements" target="_blank">CSS pseudo element</a></strong> is one of the CSS selector, which is actually not a part of DOM tree. Such elements opens the doors for extra stylings.
 
 [caption id="attachment_4147" align="alignright" width="367"]<img class="alignnone size-full wp-image-4147" src="http://teckstack.com/tsdir/wp-content/uploads/2014/11/Display-Advertising.jpg" alt="Advertisement Placeholder" width="367" height="256" /> Advertisement Placeholder[/caption]
 
@@ -57,4 +59,5 @@ There are lot many things, we can do with the use of pseudo elements. There is
 <h4>Resources</h4>
 <ul>
 	<li><a href="http://www.w3.org/TR/css3-selectors/#pseudo-elements" target="_blank">W3C</a></li>
+	<li><a href="http://nicolasgallagher.com/an-introduction-to-css-pseudo-element-hacks/" target="_blank">An introduction to CSS pseudo-element hacks</a></li>
 </ul>
