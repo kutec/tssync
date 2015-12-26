@@ -1,12 +1,12 @@
 ---
 ID: 165
-post_title: 'CSS3PS &#8211; Design in PSD &#038; Generate CSS'
+post_title: 'CSS3PS &#8211; Convert PSD to CSS3 with Less Efforts'
 author: Kushal Jayswal
 post_date: 2012-06-30 06:50:31
 post_excerpt: ""
 layout: post
 permalink: >
-  http://teckstack.com/css3ps-design-in-psd-generate-css
+  http://teckstack.com/css3ps-convert-psd-to-css3
 published: true
 dsq_thread_id:
   - "745736998"
@@ -47,14 +47,13 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<p style="text-align: center;"></p>
+I am always looking for easy way to get the work done. User interface really matters to gain the traffic and attract more visitors to site. Some designs needs smooth curves and shadow effects. In traditional fashion, this can be done using set of images but CSS3 is the better way. CSS3 is facilitated with many new properties we can use instead of images. Using CSS3 we can optimize the loading time as well.
 
-I am too lazy and smart enough so I am always looking for easy way to get my work done. I need to provide high quality work to my clients. All expect lot from me and my team as well. Visual UI part that really matter for simplicity and elegant layouts. Currently website interfaces are more lightweight and interactive.
+Sometime it is tough to get correct colors for gradients. The same is possible to get correct curves and shadow too. I came across to helpful Photoshop tool - <a href="http://css3ps.com/" target="_blank">CSS3Ps</a>.
 
-To make a site lightweight we should use very less images in our project. We can use CSS3 for curves and everything. But we cannot get perfect combination of shapes and curves that we have created in Photoshop sometime and it's also time consuming job while you are on multiple projects!
-
-I got some solution on this, it's a kind of tool that convert your Photoshop design element with color (with gradient too) and shape into CSS3 code. So that is really simple now for designing aspects.
-
-<blockquote><em><strong><a title="CSS3PS - CS5 / CS6" href="http://css3ps.com/CSS3Ps.zxp" target="_blank">Download CSS3PS - Photoshop CS5 / CS6</a></strong></em>
-
-<em><strong><a title="CSS3PS - CS3 / CS4" href="http://css3ps.com/CSS3Ps.jsx" target="_blank">Download CSS3PS - Photoshop CS3 / CS4</a></strong></em></blockquote>
+CSS3Ps converts your Photoshop design elements with accurate specification CSS3 code.
+<h2>Official Site</h2>
+<a href="http://CSS3Ps" target="_blank">http://css3ps.com/</a>
+<h2>Download</h2>
+<a title="CSS3PS - CS5 / CS6" href="http://css3ps.com/CSS3Ps.zxp" target="_blank">Photoshop CS5 / CS6
+</a><a title="CSS3PS - CS3 / CS4" href="http://css3ps.com/CSS3Ps.jsx" target="_blank">Photoshop CS3 / CS4</a>
