@@ -53,7 +53,7 @@ Sometime it is tough to get correct colors for gradients. The same is possible 
 
 CSS3Ps converts your Photoshop design elements with accurate specification CSS3 code.
 <h2>Official Site</h2>
-<a href="http://CSS3Ps" target="_blank">http://css3ps.com/</a>
+<a href="http://css3ps.com/" target="_blank">CSS3Ps</a>
 <h2>Download</h2>
 <a title="CSS3PS - CS5 / CS6" href="http://css3ps.com/CSS3Ps.zxp" target="_blank">Photoshop CS5 / CS6
 </a><a title="CSS3PS - CS3 / CS4" href="http://css3ps.com/CSS3Ps.jsx" target="_blank">Photoshop CS3 / CS4</a>
