@@ -110,29 +110,25 @@ vortex_system_dislikes:
 ---
 <img class="alignright" src="http://img6a.flixcart.com/image/camera/9/y/r/canon-eos-1100d-slr-400x400-imadfcdmmqhzczdz.jpeg" alt="Buy Canon EOS 1100D SLR from Flipkart.com" width="168" height="202" />
 
-<blockquote>Being a professional photographer you should keep your digital assets in a safe. Most probably you can <a title="WD Elements 2.5 inch 1 TB External Hard Drive" href="http://www.flipkart.com/wd-elements-2-5-inch-1-tb-external-hard-drive/p/itmdmhdqfhr4ndhq?pid=ACCDMHDQJHVRPYAN&amp;ref=443243f7-969f-4f85-b14f-ee65f91fe535" target="_blank">buy good external hard disk</a> or keep them in a desktop at home with password security. I am a <a title="Pending" href="#shutterStock" target="_blank">wild life photographer</a> and an active member of the <a title="National Geographic" href="http://www.nationalgeographic.com/" target="_blank">National Geographic</a> network. I am going to share how you can protect your - digital asset (specially images or photographs) from being stolen.</blockquote>
+Being a professional photographer you should keep your digital assets in a safe. Most probably you can <a title="WD Elements 2.5 inch 1 TB External Hard Drive" href="http://www.flipkart.com/wd-elements-2-5-inch-1-tb-external-hard-drive/p/itmdmhdqfhr4ndhq?pid=ACCDMHDQJHVRPYAN&amp;ref=443243f7-969f-4f85-b14f-ee65f91fe535" target="_blank">buy good external hard disk</a> or keep them in a desktop at home with password security. I am a <a title="Pending" href="#shutterStock" target="_blank">wild life photographer</a> and an active member of the <a title="National Geographic" href="http://www.nationalgeographic.com/" target="_blank">National Geographic</a> network. I am going to share how you can protect your - digital asset (specially images or photographs) from being stolen.
 
 Yes to prevent image theft is one of the biggest headache for all photographers. Today no one can suffer long without online marketing. Online marketing means you need to showcase your product online to attract clients. In photography industry the product is photograph itself (in professional term called "still"). And if you put photographs online no one can guaranty for its protection against theft. Here I am to tell you some tips (from self learning experiences).
-
 <h2>Basic steps to create a portfolio</h2>
-
 <ol>
-    <li>Create a set of your photographs that can impress someone and help you getting business</li>
-    <li>At first level you can start your blog (instead of full-fledged portfolio website - for testing and reviewing purpose) that you can create free. Many popular blog platforms (like <a title="WordPress Blogging Pplatform" href="http://wordpress.com" target="_blank">WordPress.com</a>, <a title="Blogger" href="http://www.blogger.com/" target="_blank">Blogger.com</a>) available.</li>
-    <li>If you are good at earning you may directly go for a paid services. We would appreciate if you visit our services page if you are really interested.</li>
-    <li>Last step is to choose a domain name (URL) for your website or online portfolio. You may follow <a title="Whois.com - Choose Your Domain Name" href="http://whois.com" target="_blank">link here</a>.</li>
+	<li>Create a set of your photographs that can impress someone and help you getting business</li>
+	<li>At first level you can start your blog (instead of full-fledged portfolio website - for testing and reviewing purpose) that you can create free. Many popular blog platforms (like <a title="WordPress Blogging Pplatform" href="http://wordpress.com" target="_blank">WordPress.com</a>, <a title="Blogger" href="http://www.blogger.com/" target="_blank">Blogger.com</a>) available.</li>
+	<li>If you are good at earning you may directly go for a paid services. We would appreciate if you visit our services page if you are really interested.</li>
+	<li>Last step is to choose a domain name (URL) for your website or online portfolio. You may follow <a title="Whois.com - Choose Your Domain Name" href="http://whois.com" target="_blank">link here</a>.</li>
 </ol>
-
 <h2>How to secure your data being stolen</h2>
-
 <ol>
-    <li><strong>Watermark</strong> - is one of the known way to prevent image from theft. You can simply add some text, copyright symbol or your own graphical logo with little transparency. But doing same for number of images is time-consuming and more than that boring job. I would recommend following plugins if you are using <a title="WordPress - Self Hosted" href="http://wordpress.org" target="_blank">WordPress</a>
+	<li><strong>Watermark</strong> - is one of the known way to prevent image from theft. You can simply add some text, copyright symbol or your own graphical logo with little transparency. But doing same for number of images is time-consuming and more than that boring job. I would recommend following plugins if you are using <a title="WordPress - Self Hosted" href="http://wordpress.org" target="_blank">WordPress</a>
 <ul>
-    <li><a style="line-height: 1.5em;" title="Watermark Reloaded, WordPress Plugin" href="http://wordpress.org/extend/plugins/watermark-reloaded/" target="_blank">Watermark Reloaded</a></li>
-    <li><a title="Watermark My Image, WordPress Plugin" href="http://wordpress.org/extend/plugins/watermark-my-image/" target="_blank">Watermark My Image</a></li>
+	<li><a style="line-height: 1.5em;" title="Watermark Reloaded, WordPress Plugin" href="http://wordpress.org/extend/plugins/watermark-reloaded/" target="_blank">Watermark Reloaded</a></li>
+	<li><a title="Watermark My Image, WordPress Plugin" href="http://wordpress.org/extend/plugins/watermark-my-image/" target="_blank">Watermark My Image</a></li>
 </ul>
 </li>
-    <li><strong>CSS Background</strong> is very secure. Non-technical person cannot fetch the path at all. You should find some way to upload image dynamically with <em>css-background </em>and avoid direct "<strong>img src</strong>" way.
+	<li><strong>CSS Background</strong> is very secure. Non-technical person cannot fetch the path at all. You should find some way to upload image dynamically with <em>css-background </em>and avoid direct "<strong>img src</strong>" way.
 <strong>Follow</strong>
 <pre>.classname{
     background: url(../path-to-image-folder/image-name.jpg);
@@ -142,7 +138,7 @@ Yes to prevent image theft is one of the biggest headache for all photographers.
 <pre class="lang:default decode:true">&lt;img src="../path-to-image-folder/image-name.jpg" alt="" data-mce-src="../path-to-image-folder/image-name.jpg"&gt;
 </pre>
 </li>
-    <li><strong>JavaScript</strong> - with tricky use of JavaScript, you can disable the "<strong>right-click</strong>" on the screen. You can view such a kind of example on <a title="500PX.com" href="http://500px.com" target="_blank">500px.com</a>. Below you can find code just for a hint.
+	<li><strong>JavaScript</strong> - with tricky use of JavaScript, you can disable the "<strong>right-click</strong>" on the screen. You can view such a kind of example on <a title="500PX.com" href="http://500px.com" target="_blank">500px.com</a>. Below you can find code just for a hint.
 <pre class="">document.onmousedown=disableclick;
 status="Copyrighted content to 'username'";
 Function disableclick(event)
