@@ -48,13 +48,11 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<p style="text-align: left;"><a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS</a> holds the power to style <a href="http://www.w3.org/TR/html-markup/elements.html" target="_blank">HTML elements</a>. It has many <a href="http://www.w3.org/TR/selectors/" target="_blank">selectors</a> and all behaves as per their specificity or weightage. CSS specificity is a deep subject but our focus will be on the to learn CSS !important in a best prac.</p>
-<p style="text-align: left;">What is CSS !important</p>
-If you are a professional developer, you might face such situation that you wont have access on a particular file or if you have access then also you are not allowed to change the code from that file and sometime you are not able to change the code because of it's GLOBAL declaration. At that time you have to find some solution that can work for you and I guess there is no other solution rather than using CSS !important - the overwrite method to existed CSS property.
+<p style="text-align: left;"><a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS</a> holds the power of styling <a href="http://www.w3.org/TR/html-markup/elements.html" target="_blank">HTML elements</a>. It has many <a href="http://www.w3.org/TR/selectors/" target="_blank">selectors</a> and all behaves as per their specificity or weightage. <a href="http://teckstack.com/how-to-deal-with-issues-in-css-specificity">CSS specificity</a> is a deep subject but we will focus on the CSS !important today in terms of the best practices.</p>
 
-It is not a good practice obviously to use CSS !important but while we work on a big project where there are multiple CSS files and multiple people working on it at that time the CSS !important is the best solution.
-<h3>How to use CSS !important ?</h3>
-It is very simple to use CSS !important. It is almost the same as normal CSS. Only the difference is to add "!important" at the tail of that property.
+<h2 style="text-align: left;">What is CSS Important</h2>
+It was December 17, 1996, when <a href="http://www.w3.org/TR/REC-CSS1-961217#important">CSS !important</a> declaration has been introduced. And we still have it alive within our stylesheets. !important helps developers to overrides properties. But to be frank, using !important is not a good practice.
+<h3>Syntax</h3>
 <pre class="prettyprint">/* Global declaration */
 header {
    baackground-color: #000; /* Black color */
@@ -65,3 +63,5 @@ header {
    baackground-color: #fff !important; /* White color */
 }
 </pre>
+<h2>Good</h2>
+&nbsp;
