@@ -1,12 +1,12 @@
 ---
 ID: 240
-post_title: CSS Important
+post_title: 'CSS Important &#8211; A Small Guideline'
 author: Kushal Jayswal
 post_date: 2012-08-10 20:09:47
 post_excerpt: 'CSS is a wonderful way to order your HTML elements to behave as per your requirement. Sometimes when you working on some plugin or on a big application you are not allowed to change the GLOBAL CSS, that time you can use CSS !important - the way to overwrite the existed CSS.'
 layout: post
-permalink: http://teckstack.com/css-important
-published: true
+permalink: http://teckstack.com/?p=240
+published: false
 networkpub_postmessage:
   - ""
 networkpub_twitterhandle:
@@ -48,40 +48,14 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<blockquote>
-<p style="text-align: left;"><a class="zem_slink" title="Cascading Style Sheets" href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank" rel="wikipedia">CSS</a> is a wonderful way to order your <a class="zem_slink" title="HTML element" href="http://en.wikipedia.org/wiki/HTML_element" target="_blank" rel="wikipedia">HTML elements</a> to behave as per your requirement. Sometimes when you working on some plugin or on a big application you are not allowed to change the GLOBAL CSS, that time you can use CSS !important - the way to <a class="zem_slink" title="Insert key" href="http://en.wikipedia.org/wiki/Insert_key" target="_blank" rel="wikipedia">overwrite</a> the existed CSS.</p>
-</blockquote>
-<h3 style="text-align: left;">What is CSS?</h3>
-<strong>CSS</strong> is a abbreviation for <em><strong>Cascading StyleSheet</strong></em>, but the long name never used generally so we use CSS here.
-
-In a single line we can say that <em><strong>CSS is a way to control over HTML ELEMENTS</strong></em>. You can do that by passing the <strong>ID</strong> or the <strong><a class="zem_slink" title="Style sheet (web development)" href="http://en.wikipedia.org/wiki/Style_sheet_%28web_development%29" target="_blank" rel="wikipedia">CLASS</a></strong> to appropriate HTML ELEMENT / TAG.
-
-Likewise, if you want to apply a <a class="zem_slink" title="Web colors" href="http://en.wikipedia.org/wiki/Web_colors" target="_blank" rel="wikipedia">background color</a> to the HEADER, then you should pass that color by targeting that HTML element by ID / CLASS.
-<pre class="prettyprint">
-/* For HEADER as element */
-header {
-   baackground-color: #000; /* Black color */
-}
-
-/* For HEADER as element to specific ID */
-#header {
-   baackground-color: #000; /* Black color */
-}
-
-/* For HEADER as element to specific CLASS */
-.header {
-   baackground-color: #000; /* Black color */
-}
-</pre>
-In the above example you can see we have used 3 CSS method to apply color as per requirement.
-<h3>What is CSS !important ?</h3>
+<p style="text-align: left;"><a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS</a> holds the power to style <a href="http://www.w3.org/TR/html-markup/elements.html" target="_blank">HTML elements</a>. It has many <a href="http://www.w3.org/TR/selectors/" target="_blank">selectors</a> and all behaves as per their specificity or weightage. CSS specificity is a deep subject but our focus will be on the to learn CSS !important in a best prac.</p>
+<p style="text-align: left;">What is CSS !important</p>
 If you are a professional developer, you might face such situation that you wont have access on a particular file or if you have access then also you are not allowed to change the code from that file and sometime you are not able to change the code because of it's GLOBAL declaration. At that time you have to find some solution that can work for you and I guess there is no other solution rather than using CSS !important - the overwrite method to existed CSS property.
 
 It is not a good practice obviously to use CSS !important but while we work on a big project where there are multiple CSS files and multiple people working on it at that time the CSS !important is the best solution.
 <h3>How to use CSS !important ?</h3>
 It is very simple to use CSS !important. It is almost the same as normal CSS. Only the difference is to add "!important" at the tail of that property.
-<pre class="prettyprint">
-/* Global declaration */
+<pre class="prettyprint">/* Global declaration */
 header {
    baackground-color: #000; /* Black color */
 }
