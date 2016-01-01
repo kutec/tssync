@@ -5,8 +5,9 @@ author: Kushal Jayswal
 post_date: 2012-08-10 20:09:47
 post_excerpt: 'CSS is a wonderful way to order your HTML elements to behave as per your requirement. Sometimes when you working on some plugin or on a big application you are not allowed to change the GLOBAL CSS, that time you can use CSS !important - the way to overwrite the existed CSS.'
 layout: post
-permalink: http://teckstack.com/?p=240
-published: false
+permalink: >
+  http://teckstack.com/css-important-guideline
+published: true
 networkpub_postmessage:
   - ""
 networkpub_twitterhandle:
