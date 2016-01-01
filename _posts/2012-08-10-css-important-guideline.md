@@ -3,7 +3,7 @@ ID: 240
 post_title: 'CSS Important &#8211; A Small Guideline'
 author: Kushal Jayswal
 post_date: 2012-08-10 20:09:47
-post_excerpt: 'CSS is a wonderful way to order your HTML elements to behave as per your requirement. Sometimes when you working on some plugin or on a big application you are not allowed to change the GLOBAL CSS, that time you can use CSS !important - the way to overwrite the existed CSS.'
+post_excerpt: ""
 layout: post
 permalink: >
   http://teckstack.com/css-important-guideline
