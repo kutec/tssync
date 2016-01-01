@@ -48,20 +48,32 @@ vortex_system_likes:
 vortex_system_dislikes:
   - "0"
 ---
-<p style="text-align: left;"><a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS</a> holds the power of styling <a href="http://www.w3.org/TR/html-markup/elements.html" target="_blank">HTML elements</a>. It has many <a href="http://www.w3.org/TR/selectors/" target="_blank">selectors</a> and all behaves as per their specificity or weightage. <a href="http://teckstack.com/how-to-deal-with-issues-in-css-specificity">CSS specificity</a> is a deep subject but we will focus on the CSS !important today in terms of the best practices.</p>
+<p style="text-align: left;"><a href="/css" target="_blank">CSS</a> holds the power of styling <a href="http://www.w3.org/TR/html-markup/elements.html" target="_blank">HTML elements</a>. It has many <a href="http://www.w3.org/TR/selectors/" target="_blank">selectors</a> and all behaves as per their specificity or weightage. <a href="http://teckstack.com/how-to-deal-with-issues-in-css-specificity">CSS specificity</a> is a deep subject but this article will focus on the CSS !important property in terms of the best practice.</p>
 
 <h2 style="text-align: left;">What is CSS Important</h2>
-It was December 17, 1996, when <a href="http://www.w3.org/TR/REC-CSS1-961217#important">CSS !important</a> declaration has been introduced. And we still have it alive within our stylesheets. !important helps developers to overrides properties. But to be frank, using !important is not a good practice.
+It was December 17, 1996, when <a href="http://www.w3.org/TR/REC-CSS1-961217#important">CSS !important</a> declaration has been introduced. And we still have it alive within our stylesheets. !important helps developers to overrides CSS properties. But to be frank, using !important is not a good practice.
 <h3>Syntax</h3>
-<pre class="prettyprint">/* Global declaration */
-header {
+<pre class="prettyprint">header {
    baackground-color: #000; /* Black color */
 }
 
-/* Overwrite for specific reason */
-#header {
+header {
    baackground-color: #fff !important; /* White color */
 }
 </pre>
 <h2>Good</h2>
-&nbsp;
+Although, using !important is not good practice, we can use it to fix issues instantly. Sometime we have short deadlines for a project and we may have a demo to present to client. In the last minute you found some issue and you do not have enough time to debug on it. To avoid bad in such a situation, we of course use !important but it is really advisable to remove those !importants when you get possible time.
+<h3>Plugin and 3rd Party Services</h3>
+If you have to overwrite styling of a plugin then it is obvious to use !important. Extending plugin might be another solution but that would take expertise in JavaScript.
+
+The same follows for 3rd party services, where we do not have control over the CSS and JS files.
+<h3>User Theme</h3>
+Sometime we have to provide color schemes for the same theme which user can change as per his choice. This kind of situation is handled by writing extra CSS. Most of the time we can avoid !important by adding ID or class on the parent element but if it's not possible then before using !important, we must check with backend developer.
+<h2>Bad</h2>
+There are many developers write CSS on adhoc basis to fix the UI. Such a kind of CSS should be added to the theme in the end. But developer don't understand to update a theme developer  in most of projects and it remains at the page level. Now if it is a big project then it might be grouped into phases. So, if !important has been used in Phase-1 then successful handover of Phase-1's deliverables might someone new in a team doesn't have idea for the purpose of that !important.
+
+<strong>Temp Issue Fixer</strong>: During unit testing and bug fixing might we have someone align on temp basis. Such a scenario can be dangerous because he might not have proper knowledge of the project and all pages. He may add !important for some CSS properties to fix the bugs quickly. I am sure you must gone through such a situation :)
+<h4>What Should I Do</h4>
+You must not use !important in CSS files. Instead you should understand the CSS specificity and use ID or other high weightage CSS selector to overwrite the property.
+
+If you have any question or want to share more use cases to help the community, please provide below in <a href="#comments" target="_blank">comment</a> section.
