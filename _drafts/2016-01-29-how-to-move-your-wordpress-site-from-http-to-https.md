@@ -4,7 +4,7 @@ post_title: >
   How to Move Your WordPress Site from
   HTTP to HTTPS
 author: TeckStack Admin
-post_date: 2016-01-29 11:13:56
+post_date: 2016-01-29 12:02:38
 post_excerpt: ""
 layout: post
 permalink: https://teckstack.com/?p=4803
