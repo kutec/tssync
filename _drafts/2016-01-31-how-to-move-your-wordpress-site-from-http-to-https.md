@@ -3,12 +3,14 @@ ID: 4803
 post_title: >
   How to Move Your WordPress Site from
   HTTP to HTTPS
-author: TeckStack Admin
-post_date: 2016-01-31 11:06:00
+author: Kushal Jayswal
+post_date: 2016-01-31 11:07:43
 post_excerpt: ""
 layout: post
 permalink: http://teckstack.com/?p=4803
 published: false
+post_views_count:
+  - "1"
 ---
 Recently we updated <a href="//teckstack.com">this blog</a> from HTTP to <strong>HTTPS</strong>. We are a bit late to do so but finally we are up with the HTTPS now. It took little efforts for me but overall it was a fun and learning experience. This article will focus on the
 <h2>Know HTTPS</h2>
